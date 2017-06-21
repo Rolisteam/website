@@ -1,13 +1,12 @@
 Title: Download
 Date: 2017-06-11 10:20
 slug: download
+lang: en
 
 ## Latest Stable Version : 1.8.2
 ### Released on 06/05/2017 - code name: Chewb
 
 In French:
-
-https://www.youtube.com/watch?v=Ly4H87hxbpw
 
 https://youtu.be/Ly4H87hxbpw
 
@@ -17,16 +16,16 @@ https://youtu.be/Ly4H87hxbpw
 
 ### Packages
 
-* ![Icon]({attach}../icons/thumbWinodw.png) Windows: [Rolisteam-1.8.2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-setup.exe/download) (including rcse)
-* ![Icon]({attach}../icons/thumbapple.png) Mac Os X:  [rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)
-* ![Icon]({attach}../icons/thumbapple.png) Mac Os X:  [rcse_v1.0.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.2-MacOsX_setup.dmg/download) 
-* ![Icon]({attach}../icons/thumbtar.png) Source (tarball): [rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.tar.gz/download) 
-* ![Icon]({attach}../icons/thumbzip.png) Source (zip): [rolisteam-1.8.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.zip/download) 
-* ![Icon]({attach}../icons/thumbtar.png) Source (tarball): [rcse-1.0.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.2.tar.gz/download) 
-* ![Icon]({attach}../icons/thumbzip.png) Source (zip): [rcse-1.0.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.2.zip/download) 
+* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.8.2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-setup.exe/download) (including rcse)
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)
+* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.0.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.2-MacOsX_setup.dmg/download) 
+* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.tar.gz/download) 
+* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.8.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.zip/download) 
+* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.0.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.2.tar.gz/download) 
+* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.0.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.2.zip/download) 
 
 
-### ![Icon]({attach}../icons/thumbubuntu.png)  Ubuntu
+### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu
 
     :::bash
     sudo add-apt-repository ppa:rolisteam/ppa
@@ -139,7 +138,7 @@ See documentation [Compilation on Linux](http://wiki.rolisteam.org/index.php/Com
 
 
 ## Older Versions
-[Older versions]({filename}./older.md)
+[Older versions]({filename}./08_older.md)
 
 ## What next ?
 In the future release, we plan to do:
