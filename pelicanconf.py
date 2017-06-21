@@ -4,10 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = u''
 SITENAME = u'Rolisteam'
-SITEURL = 'http://ww2.rolisteam.org'
+SITEURL = 'http://www.rolisteam.org'
 
 PATH = 'content'
-STATIC_PATHS = ['icons']
+STATIC_PATHS = ['iconfiles','images','php']
+
+PLUGIN_PATHS = ['/home/renaud/www/pelican-plugins']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -24,6 +26,10 @@ THEME = "/home/renaud/www/pelican-themes/rolisteam_theme"
 #plumage
 #tuxlite_tbs
 
+#JINJA_ENVIRONMENT = {
+#    "extensions": ['jinja2.ext.i18n'],
+#}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -38,11 +44,13 @@ PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}.html'
 
 # Blogroll
-LINKS = (('Screenshots', '/screenshots.html'),
+LINKS = (('News', '/blog/index.html'),
+         ('Screenshots', '/screenshots.html'),
          ('Contact', '/contact.html'),
          ('References', '/references.html'),
          ('Roll on Discord', '/discord.html'),
-         ('Roll on twitter', '/twitter.html'),)
+         ('Roll on twitter', '/twitter.html'),
+         ('Friends', '/friends.html'),)
 
 # Social widget
 SOCIAL = (('Github', 'http://github.com/Rolisteam'),
@@ -77,3 +85,13 @@ MENUITEMS = (
     ('Documentation', 'http://wiki.rolisteam.org/'),
     ('Forum', 'http://forum.rolisteam.org'),
 )
+#THEME_STATIC_PATHS (['static'])
+
+PLUGINS = ['i18n_subsites',]
+I18N_SUBSITES = {
+'fr': {
+        'SITENAME': 'Rolisteam',
+		'THEME' : '/home/renaud/www/pelican-themes/rolisteam_theme',	
+		'LINKS' : (('Actualités','blog/index.html'),('Captures', 'screenshots.html'),('Contact', 'contact.html'),('Références', 'references.html'),('Dés dans Discord', 'discord.html'),('Dés dans twitter', 'twitter.html'),('Partenaires', 'friends.html'))
+       }
+}
