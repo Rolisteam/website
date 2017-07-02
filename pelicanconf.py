@@ -7,7 +7,7 @@ SITENAME = u'Rolisteam'
 SITEURL = 'http://www.rolisteam.org'
 
 PATH = 'content'
-STATIC_PATHS = ['iconfiles','images','php']
+STATIC_PATHS = ['iconfiles','images','php','ip.php','version.xml']
 
 PLUGIN_PATHS = ['/home/renaud/www/pelican-plugins']
 
