@@ -25,6 +25,7 @@ Voici un exemple pour lancer deux dés à 6 faces.
 
 
 ## Lien
-Documentation complète des [commandes de dés](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe.md)  
-Documentation en français des [commandes de dés](http://wiki.rolisteam.org/index.php/Fr:Dice)  
-[Code du projet](https://github.com/Rolisteam/DiceDiscordBot)  
+-   Documentation complète des [commandes de dés](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe.md)  
+-   Documentation en français des [commandes de dés](http://wiki.rolisteam.org/index.php/Fr:Dice)  
+-   [Code du projet](https://github.com/Rolisteam/DiceDiscordBot)  
+-   [Serveur discord de rolisteam](https://discord.gg/MrMrQwX) : vous pouvez tester le bot, discuter un peu et demander de nouvelles fonctionalités.

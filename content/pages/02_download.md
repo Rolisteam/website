@@ -16,13 +16,13 @@ https://youtu.be/Ly4H87hxbpw
 
 ### Packages
 
-* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.8.2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-setup.exe/download) (including rcse)
+* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.8.2-v2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-v2-setup.exe/download) (including rcse)
 * ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)
-* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.0.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.2-MacOsX_setup.dmg/download) 
+* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.0.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.3-MacOsX_setup.dmg/download) 
 * ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.tar.gz/download) 
 * ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.8.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.zip/download) 
-* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.0.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.2.tar.gz/download) 
-* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.0.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.2.zip/download) 
+* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.0.3.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.tar.gz/download) 
+* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.0.3.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.zip/download) 
 
 
 ### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu
