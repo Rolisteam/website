@@ -590,4 +590,4 @@ I hope it was helpful. I only have to wish you good games with **Rolisteam**.
 
 
 
-[Edit on GitHub]()
+[Edit on GitHub](https://github.com/Rolisteam/website/blob/master/content/pages/13_tutorial.md)
