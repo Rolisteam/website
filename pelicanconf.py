@@ -7,7 +7,7 @@ SITENAME = u'Rolisteam'
 SITEURL = 'http://www.rolisteam.org'
 
 PATH = 'content'
-STATIC_PATHS = ['iconfiles','images','php','ip.php','version.xml']
+STATIC_PATHS = ['iconfiles','images','images/tuto','php','ip.php','version.xml']
 
 PLUGIN_PATHS = ['/home/renaud/www/pelican-plugins']
 
@@ -46,6 +46,7 @@ PAGE_URL = '{slug}.html'
 # Blogroll
 LINKS = (('News', '/blog/index.html'),
          ('Screenshots', '/screenshots.html'),
+         ('Tutorials', '/tutoriallist.html'),
          ('Contact', '/contact.html'),
          ('References', '/references.html'),
          ('Roll on Discord', '/discord.html'),
@@ -92,6 +93,6 @@ I18N_SUBSITES = {
 'fr': {
         'SITENAME': 'Rolisteam',
 		'THEME' : '/home/renaud/www/pelican-themes/rolisteam_theme',	
-		'LINKS' : (('Actualités','blog/index.html'),('Captures', 'screenshots.html'),('Contact', 'contact.html'),('Références', 'references.html'),('Dés dans Discord', 'discord.html'),('Dés dans twitter', 'twitter.html'),('Partenaires', 'friends.html'))
+		'LINKS' : (('Actualités','blog/index.html'),('Captures', 'screenshots.html'),('Tutoriaux', 'tutoriallist.html'),('Contact', 'contact.html'),('Références', 'references.html'),('Dés dans Discord', 'discord.html'),('Dés dans twitter', 'twitter.html'),('Partenaires', 'friends.html'))
        }
 }
