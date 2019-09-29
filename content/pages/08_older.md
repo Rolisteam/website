@@ -3,7 +3,73 @@ slug: older-versions
 status: hidden
 lang: en
 
-Download the free rpg assistant. Rolisteam runs on many platforms (Windows, MacOs and Linux) 
+Download the free rpg assistant. Rolisteam runs on many platforms (Windows, MacOs and Linux)
+
+## Latest Stable Version : 1.8.2
+### Released on 06/05/2017 - code name: Chewb
+
+In French:
+
+https://youtu.be/Ly4H87hxbpw
+
+[Youtube Playlist about rolisteam v1.8](https://www.youtube.com/watch?v=&list=PLBSt0cCTFfS4InklgvVlZZ1nW3RIrrj41) (in French)
+
+### Packages
+
+* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.8.2-v2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-v2-setup.exe/download) (including rcse)
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X High Sierra:  [rolisteam_v1.8.2-MacOsX_HighSierra.dmg](https://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2_HighSierra.dmg/download)
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)
+* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.0.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.3-MacOsX_setup.dmg/download)
+* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.tar.gz/download)
+* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.8.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.zip/download)
+* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.0.3.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.tar.gz/download)
+* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.0.3.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.zip/download)
+
+
+### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu
+
+    :::bash
+    sudo add-apt-repository ppa:rolisteam/ppa
+    sudo apt-get update
+    sudo apt-get upgrade
+    sudo apt-get install rolisteam rcse
+
+### Arch Linux
+[https://aur.archlinux.org/packages/rolisteam/](https://aur.archlinux.org/packages/rolisteam/)
+
+## Changes in 1.8.2
+
+* Allow user to display dice result inside string result
+* When GM is not the server charactersheet are shared with everyone. (#62)
+* RCSE multipage field problem (#61)
+* RCSE can manage field after character creation (RCSE #4)
+
+### Rolisteam
+
+* Rotation of token (#56)
+* add image to vectorial map from menu is working (#59)
+* circle field of view position is fixed (#54)
+* translation error (#49)
+* crash on vectorial map (#48)
+* improvement of unit convert (#51)
+* New menu item is working
+* Better protection on Select Type
+* Display all QML error at once in rolisteam.
+* Unset formula in character
+* Add font support on field
+* Add UTF-8 support in sheet
+* Reset all id
+* Display error message when user add two images with different resolution as background for pages
+* formula accept every type of character between "
+* fix removing first page issue
+* Add font delegate
+* Fix border delegate
+* better improvement of model update
+* Vectorial Map
+* Charactersheet
+* DiceParser Improvement
+* Connection Dialog
+
 
 ## v1.8.1 - released on 09/04/2017 - code name: Cavallino
 
@@ -52,7 +118,7 @@ In French:
 
 ### For Ubuntu
 <img src="http://www.rolisteam.org/sites/default/files/thumbubuntu.png" alt="ubuntu"/>
-	
+
     :::bash
     sudo add-apt-repository ppa:rolisteam/ppa
     sudo apt-get update
@@ -126,7 +192,7 @@ See documentation <a href="http://wiki.rolisteam.org/index.php/CompilationLinux"
 
 ### Resources management
 
-* resources can be ordered into chapter 
+* resources can be ordered into chapter
 * management of state of resources (open/loaded)
 
 ### Fixed Bug
@@ -142,8 +208,8 @@ Fix #8  Add images into maps
 ### Translation
 
 * French
-* English 
-* Portuguese 
+* English
+* Portuguese
 * Hungrian
 * German
 * Roumanian
@@ -158,7 +224,7 @@ Fix #8  Add images into maps
 * Better display for several strings or several dice command at once.
 * Fix #14  fix build with Qt5.5 for some linux distribution
 * Fix #18  unwanted {1 at the end of dice sentence
-* Fix #11  link are not clickable 
+* Fix #11  link are not clickable
 * Fix #10  players can see hidden maps
 * Fix #12  word wrap in chat (activated by default, can be disactived)
 
@@ -179,7 +245,7 @@ Fix #8  Add images into maps
 	sudo apt-get upgrade
 	sudo apt-get install rolisteam
 
-	
+
 ### v1.6.1 - released on 22/08/2015  code name: Octave
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6cs-4jn6ds" frameborder="0" allowfullscreen></iframe>
 ### What's new ?
@@ -224,7 +290,7 @@ Package will be available soon.
 * GM sharing automatically dice aliases
 * Add highlight for dice result
 ### Chat
-* http link in chat are now clickable. 
+* http link in chat are now clickable.
 * The background color changes only the background of the chat (not the scroll bar)
 ### Theme and skin
 * Possibility to change the appearance of rolisteam by changing default colors or set Css code.
@@ -294,7 +360,7 @@ Package will be available soon.
 ### What's next ?
 In the future release, we plan to do:
 * New die roll system: https://github.com/obiwankennedy/DiceParser
-* Porting Rolisteam to Qt5. The compilation will be easier. 
+* Porting Rolisteam to Qt5. The compilation will be easier.
 * Use the new network engine to the whole software. Make it easier to debug.
 
 ### Full change log
@@ -383,12 +449,12 @@ add menu item to put the windows as Tab
 
 * Correct segfault when closing plan.
 * correct LecteurAudio and test
-* Fixing warning message at runtime to tooltip for SelecteurCouleur. 
+* Fixing warning message at runtime to tooltip for SelecteurCouleur.
 * Adding patch from Valgar Reinhart III (jdrvirtuel.com).
-* fix #95* must be tested on Windows. 
+* fix #95* must be tested on Windows.
 * Remove of aboutToFinish management, it seems wrong. Use of Finished signal instead.
 * fix #94
-* fix #92	
+* fix #92
 * fix #89
 * Adding resources file and icons.
 * file menu items triggers textedit actions.
@@ -725,11 +791,11 @@ add menu item to put the windows as Tab
 * Windows: <a href="http://rolisteam.googlecode.com/files/Rolisteam-1.0.2-setup.exe">Rolisteam-1.0.2-setup.exe</a>
 * Mac Os 10.5: <a href="http://rolisteam.googlecode.com/files/rolisteam_1.0.2.dmg">Rolisteam_1.0.2.dmg</a>
 * Install for ArchLinux: <a href="http://aur.archlinux.org/packages.php?ID=38243">AUR</a> (Thanks Farvardin!)
-* RPM packages: <a href="http://rolisteam.googlecode.com/files/rolisteam-1.0.2-1.i586.rpm">i586</a> and <a href="http://rolisteam.googlecode.com/files/rolisteam-1.0.2-1.x86_64.rpm">x86_64</a> (Thanks WildTux!) 
+* RPM packages: <a href="http://rolisteam.googlecode.com/files/rolisteam-1.0.2-1.i586.rpm">i586</a> and <a href="http://rolisteam.googlecode.com/files/rolisteam-1.0.2-1.x86_64.rpm">x86_64</a> (Thanks WildTux!)
 
 ## ChangeLog
 ### New features
-          
+
 * Adding emote messages feature.
 * Adding alerts when rolisteam is hidden and an event occurs.
 * Add Roll and Keep dice system.<br/>Syntax : !3g2 or !3G2 (reroll 10) L5R
@@ -771,9 +837,9 @@ add menu item to put the windows as Tab
 
 ### ChangeLog
 
-* <a title="Incompatibilité avec Mac OS X Snow Leopard" href="/p/rolisteam/issues/detail?id=11">Issue #11</a> is fixed: dice rolling stays in the right range 
-* new method for Windows installer and MacOs X dmg file. 
-* Compilation issues are fixed 
+* <a title="Incompatibilité avec Mac OS X Snow Leopard" href="/p/rolisteam/issues/detail?id=11">Issue #11</a> is fixed: dice rolling stays in the right range
+* new method for Windows installer and MacOs X dmg file.
+* Compilation issues are fixed
 
 # Rolisteam Version : 1.0.0
 ## Released on 23/12/2009*  code name: Cess
@@ -788,14 +854,13 @@ add menu item to put the windows as Tab
 
 ## ChangeLog
 
-* documentation improvement 
-* Debug crash on fedora. 
-* improvement of comments. 
-* improvement of the picture reading for Linux. 
-* bugs fixed : <a title="The Gamemaster can not add his characters when he doesn't use Rolisteam as a server" class="closed_ref" href="/p/rolisteam/issues/detail?id=1">&nbsp;issue #1&nbsp;</a>, <a title="Seg fault" class="closed_ref" href="/p/rolisteam/issues/detail?id=4">&nbsp;issue #4&nbsp;</a> 
-* Check and add extension .sce at the end of the file if it is not defined yet. 
+* documentation improvement
+* Debug crash on fedora.
+* improvement of comments.
+* improvement of the picture reading for Linux.
+* bugs fixed : <a title="The Gamemaster can not add his characters when he doesn't use Rolisteam as a server" class="closed_ref" href="/p/rolisteam/issues/detail?id=1">&nbsp;issue #1&nbsp;</a>, <a title="Seg fault" class="closed_ref" href="/p/rolisteam/issues/detail?id=4">&nbsp;issue #4&nbsp;</a>
+* Check and add extension .sce at the end of the file if it is not defined yet.
 
-* Phonon Support 
-* Allows domain name and Ip address as Server address. 
-* Improvement the code readability and translate it in english. 
-
+* Phonon Support
+* Allows domain name and Ip address as Server address.
+* Improvement the code readability and translate it in english.

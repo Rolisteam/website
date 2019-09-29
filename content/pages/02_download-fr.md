@@ -15,6 +15,7 @@ https://youtu.be/Ly4H87hxbpw
 ### Les installeurs
 
 * ![Icon]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.8.2-v2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-v2-setup.exe/download) (avec RCSE)
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X High Sierra:  [rolisteam_v1.8.2-MacOsX_HighSierra.dmg](https://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2_HighSierra.dmg/download)
 * ![Icon]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)
 * ![Icon]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.0.3-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.3-MacOsX_setup.dmg/download) 
 * ![Icon]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.tar.gz/download) 
