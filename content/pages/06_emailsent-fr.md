@@ -1,6 +1,7 @@
-title: Thank you for contacting us
+title: Merci de nous avoir contacté
 slug: thankyou
 status: hidden
 lang: fr
 
-/bin/bash: :wq: command not found
+
+Votre message a bien été envoyé.

@@ -1,6 +1,6 @@
 Title: Rolisteam Tutorial List
-Date: 2018-01-27 10:20
-slug: tuto_style
+Date: 2017-06-27 10:20
+slug: data_collection
 status: hidden
 lang: en
 

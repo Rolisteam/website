@@ -1,8 +1,8 @@
-Title: Rolisteam Tutorial List
+Title: Modifier le style de Rolisteam
 Date: 2018-01-27 10:20
 slug: tuto_style
 status: hidden
-lang: en
+lang: fr
 
 # Make font size bigger in chat
 

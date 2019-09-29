@@ -1,5 +1,6 @@
 <?php 
-if(isset($_POST['url']) && $_POST['url'] == '')
+print_r($_POST);
+if(isset($_POST['url']) && !empty($_POST['url']))
 {
 
     //The form was submitted 
@@ -24,6 +25,10 @@ if(isset($_POST['url']) && $_POST['url'] == '')
     } 
     // finally, send the message
     mail($ouremail, 'Contact Form Rolisteam', $body, $headers ); 
-    header('Location: ../../thankyou.html'); } 
-
+    header('Location: ../../thankyou.html'); 
+}
+else
+{  
+    header('Location: /'); 
+}
 ?>

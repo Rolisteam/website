@@ -15,6 +15,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
+GITHUB_URL = "https://github.com/Rolisteam/rolisteam"
+
 THEME = "/home/renaud/www/pelican-themes/rolisteam_theme"
 #bootstrap*
 #bricks* red to blue
@@ -55,8 +57,10 @@ LINKS = (('News', '/blog/index.html'),
 
 # Social widget
 SOCIAL = (('Github', 'http://github.com/Rolisteam'),
-	      ('Facebook', 'https://www.facebook.com/rolisteam'),
+          ('Facebook', 'https://www.facebook.com/rolisteam'),
+          ('Youtube', 'https://youtube.com/c/RolisteamYT'),
           ('Twitter', 'https://twitter.com/rolisteam'),
+          ('Twitch', 'https://www.twitch.tv/rolisteam'),
           ('Discord', 'https://discord.gg/MrMrQwX'),
           ('Liberapay', 'https://liberapay.com/rolisteam/donate'),)
 
