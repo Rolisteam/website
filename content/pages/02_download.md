@@ -3,29 +3,52 @@ Date: 2017-06-11 10:20
 slug: download
 lang: en
 
-## Latest Stable Version : 1.8.2
-### Released on 06/05/2017 - code name: Chewb
+## Latest Stable Version : 1.9.1
+### Released on 05/10/2019 - code name: Bong
 
-In French:
+We are glad to announce the release of Rolisteam v1.9.1.
 
-https://youtu.be/Ly4H87hxbpw
+## Localization:
 
-[Youtube Playlist about rolisteam v1.8](https://www.youtube.com/watch?v=&list=PLBSt0cCTFfS4InklgvVlZZ1nW3RIrrj41) (in French)
-
-
+* French
+* English
+* Spanish
+* Portuguese (Brazil)
+* Romanian
+* Hungarian
+* German
+* Catalan
+* Italian
+* Dutch (partial)
+* Turkish (partiel)
 
 ### Packages
 
-* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.8.2-v2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-v2-setup.exe/download) (including rcse)
-* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)
-* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.0.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.3-MacOsX_setup.dmg/download) 
-* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.tar.gz/download) 
-* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.8.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.zip/download) 
-* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.0.3.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.tar.gz/download) 
-* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.0.3.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.zip/download) 
+#### Windows
+
+* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.9.1-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.9.1/Rolisteam-1.9.1-setup.exe/download) (including rcse)
+
+#### MacOS
+
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.1_MacOs.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam_v1.9.1_MacOs.dmg/download)
+* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.1_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse_v1.9.1_MacOs.dmg/download)
+
+#### Linux
+
+* ![linux]({filename}/iconfiles/thumblinux.png) RCSE - AppImage: [rcse-v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-v1.9.1-x86_64.AppImage/download)
+* ![linux]({filename}/iconfiles/thumblinux.png) Rolisteam - AppImage: [Rolisteam_v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.1/Rolisteam_1.9.1-x86_64.AppImage/download)
+
+Those appimages have been made on Ubuntu 18.04 LTS.
+
+##### Source
+* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam-1.9.1.tar.gz/download)
+* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam-1.9.1.zip/download)
+* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-1.9.1.tar.gz/download)
+* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-1.9.1.zip/download)
 
 
-### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu
+
+### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu 19.04
 
     :::bash
     sudo add-apt-repository ppa:rolisteam/ppa
@@ -33,108 +56,143 @@ https://youtu.be/Ly4H87hxbpw
     sudo apt-get upgrade
     sudo apt-get install rolisteam rcse
 
-
-
 ### Arch Linux
 [https://aur.archlinux.org/packages/rolisteam/](https://aur.archlinux.org/packages/rolisteam/)
 
-## Changes in 1.8.2
-
-* Allow user to display dice result inside string result
-* When GM is not the server charactersheet are shared with everyone. (#62)
-* RCSE multipage field problem (#61)
-* RCSE can manage field after character creation (RCSE #4)
-
-### Rolisteam
-
-* Rotation of token (#56)
-* add image to vectorial map from menu is working (#59)
-* circle field of view position is fixed (#54)
-* translation error (#49)
-* crash on vectorial map (#48)
-* improvement of unit convert (#51)
-* New menu item is working
-* Better protection on Select Type
-* Display all QML error at once in rolisteam.
-* Unset formula in character
-* Add font support on field
-* Add UTF-8 support in sheet
-* Reset all id
-* Display error message when user add two images with different resolution as background for pages
-* formula accept every type of character between "
-* fix removing first page issue
-* Add font delegate
-* Fix border delegate
-* better improvement of model update
-* Vectorial Map
-* Charactersheet
-* DiceParser Improvement
-* Connection Dialog
-* Full changelog (below)
-
-
 ### How To Compile and Install Rolisteam on Linux:
 See documentation [Compilation on Linux](http://wiki.rolisteam.org/index.php/CompilationLinux)
+Please pay attention that Rolisteam needs **Qt5.12** or higher.
 
-## Full changelog v1.8.0
-### Vectorial Map
-* New map system using vectorial drawing
-* Items can be modified, rotated, moved
-* Avatar can be used as character token
-* image can be added to the map
-* management of layers
-* fog of war
-* Character vision
-* size adaptation
-* Parenthood relationship
-* Grid (square or hexagon)
-* Zoom level
-## Character sheet
-* Management of charactersheet
-* Charactersheet editor
-* Formula management
-* Roll dice from the charactersheet
-* Management of several kind of text field
-* Character sheet in QML
-* Update through network
-* ReadOnly data
-* Character sheet can have several pages
-* Display several page at once
-## DiceParser
-* Validator with several condition and combination with logic operator (OR, AND and exclusive OR)
-* Improved management of errors
-* List operator accept range/probability
-* Hide roll from the player but visible by everyone else (#2d6)
-* Merge operator
-* filter operator
-* if operator
-* Support modulo operator in validator
-* Management of varible from the character sheet
-* Support of different operator (!=)
-* improve randomness by using C++11 API
-* better generation for dot tree
-## General
-* Dynamic Management of state (add/remove)
-* Dice alias can be disable
-* heartbeat mechanism to prevent disconnection
-* Name generator (GM Toolbox)
-* Unit converter (GM Toolbox)
-## Connection Dialog
-- Management of several connection profile
-- Define role (GM or Player), define connection mode (Host or Client), if player then define character (name, color, avatar)
-## Resources management
-* resources can be ordered into chapter 
-* management of state of resources (open/loaded)
-## Fixed Bug
-* Workaround for #42 - How to auto-size Huge map
-* Fix #41 - Mix between GM and player rights
-* Fix #28 - hide Roll Dice from the roller enhancement
-* Fix #33 - Disconnection
-* Fix #22 - Characters portraits & tokens
-* Fix #3 - It is not possible to move sheets around as if on a regular table
-* Fix #8 - Add images into maps
-## Translations
-* French, English, Portuguese, Hungrian,German, Roumanian, Spanish, Turkish(partial), Dutch(partial)
+## Full changelog v1.9.1
+
+* Fix textarea behaviour
+* Fix image loading into vmap from menu
+
+## Full changelog v1.9.0
+
+### New features
+
+* Standalone multiroom Server
+* Webpage
+* PDF viewer and sharing
+* Shared note (Fix #45)
+* Undo/redo
+* Dice bookmark
+* NPC maker panel
+* Management of Character Shape, Action and properties
+* Tips of the day
+* Shortcuts viewer
+
+### Dice System      
+
+* Split operator
+* Occurence Count operator (o)
+* Unique operator (u)
+* Reroll until operator (R)
+* Group operator (g)
+* reroll if all dices are equal (t operator)
+* Bind operator
+* Add command comment
+* Dynamic variables
+* Several instructions support
+* Advanced display system
+* Add unique (u) option to D and L operators
+* Preventing Alias replacement inside string
+* List of values
+* DiceParser's detection of endless loop
+* K operator accepts negative number as parameter
+* Fix #51 - Support for tunnels and trolls system
+* Fix #4 - crash with a operator
+* Fix #55 - Multiple success/failure level dice roll
+
+### Charactersheet & RCSE  
+
+* Add table item
+* Add webpage item
+* Add Next/Previous page button item
+* Embedded images
+* Item can be visible on one or all pages
+* Add Print support
+* Dice button can be drag and dropped to chat window to create dice bookmark
+* Additional code at the beginning or the end of file or both
+* Improvement of sheet properties (fixed scale)
+* update to QtQuick.Controls 2.0 (instead of 1.0)
+* Charactersheet can modify character properties
+* Charactersheet can roll dice command internally
+* Charactersheet can display text on global chat
+* RCSE - Add Images tabs in RCSE to manage embedded images.
+* RCSE - Global refactoring
+* RCSE - show subset of columns (id columns, position columns, all columns …)
+* RCSE - items with custom code are displayed with green background on the edit tab
+* RCSE - Text Editor Improvements (Monospace font, tab are 4 spaces now)
+* RCSE - Code panel and preview panel are side by side
+
+### VMap     
+
+* Scale accepts double value (not only interger)
+* grid can be above the scene.
+* Show animated marker to highlight position on map
+* better selection highlight
+* Add bucket tool
+* show life bar
+* Sticky edges
+* Providing Collision
+
+### Miscellaneous Improvements      
+
+* Length limit for tabs title.          
+* Change color for tab
+* Rename all kinds of subwindow
+* Color selector dialog does not go behind anymore
+* NPC are saved inside scenario
+* Resources manager shows loading mode of each media.
+* Resources manager shows unreachable file in red
+* Fullscreen Mode
+* Clear chat
+* drag and drop from resources manager to vmap
+* alternative color in playlist viewer
+* Unit Convertor: accept new units and new convertion rules
+* First Chapter in resources is Chapter 1 (instead of chapter 0)
+* 5 last loaded scenerio are loadable from the file menu
+* Hide long dice command
+* Export/import dice aliases    
+
+### Refactoring     
+
+* RCSE
+* Scenario
+* Charactersheet SDK use QtQuick.Controls 2.0
+* QML generator
+* DiceParser's detection of endless loop      
+
+### Bug fixes  
+
+* Fix #1 - headless server
+* Fix #45 - Player/GM shared notes board
+* Fix #48 - Rolisteam segfault
+* Fix #55 - Field of view handles and layer interaction
+* Fix #65 - renaming notes
+* Fix #69 - Misunderstanding about the resources Manager behaviour
+* Fix #81 - Charactersheet not saved while saving scenario
+* Fix #82 - some Chat messages are missing
+* Fix #83 - crash when cancel save scenario as
+* Fix #90 - issue with resources titles
+* Fix #97 - Crash on dice roll
+* Dice Parser Fix #51 - Support for tunnels and trolls system
+* Dice Parser Fix #4 - crash with a operator
+* Dice Parser Fix #55 - Multiple success/failure level dice roll
+
+### Unit Tests & QA  
+
+* Dice parser: 163
+* Rolisteam: 371
+* RCSE and Charactersheet: 16430
+* Fuzzer test for diceparser
+* Fuzzer test for charactersheet formula
+
+### Translation   
+
+* add italian
 
 
 ## Older Versions
@@ -142,8 +200,8 @@ See documentation [Compilation on Linux](http://wiki.rolisteam.org/index.php/Com
 
 ## What next ?
 In the future release, we plan to do:
-* Stand Alone server
-* Shared note editor
+
+* Mindmap editor
+* Android client
+* change instant messaging UI
 * and more…
-
-

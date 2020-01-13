@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u''
 SITENAME = u'Rolisteam'
-SITEURL = 'http://www.rolisteam.org'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 STATIC_PATHS = ['iconfiles','images','images/tuto','php','ip.php','version.xml']
@@ -53,7 +53,8 @@ LINKS = (('News', '/blog/index.html'),
          ('References', '/references.html'),
          ('Roll on Discord', '/discord.html'),
          ('Roll on twitter', '/twitter.html'),
-         ('Friends', '/friends.html'),)
+         ('Friends', '/friends.html'),
+         ('Connection Test', '/testip.html'),)
 
 # Social widget
 SOCIAL = (('Github', 'http://github.com/Rolisteam'),
@@ -62,7 +63,8 @@ SOCIAL = (('Github', 'http://github.com/Rolisteam'),
           ('Twitter', 'https://twitter.com/rolisteam'),
           ('Twitch', 'https://www.twitch.tv/rolisteam'),
           ('Discord', 'https://discord.gg/MrMrQwX'),
-          ('Liberapay', 'https://liberapay.com/rolisteam/donate'),)
+          ('Liberapay', 'https://liberapay.com/rolisteam/donate'),
+          ('Patreon', 'https://www.patreon.com/rolisteam'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -72,7 +74,7 @@ DEFAULT_PAGINATION = 10
 MARKDOWN = {
     'extension_configs': {
         # https://pythonhosted.org/Markdown/extensions/index.html#officially-supported-extensions
-        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.codehilite': {'css_class':  'highlight'},
         'markdown.extensions.meta': {},
         'markdown.extensions.sane_lists': {},
         'markdown.extensions.smarty': {},
@@ -87,7 +89,7 @@ MARKDOWN = {
 }
 
 MENUITEMS = (
-    ('Documentation', 'http://wiki.rolisteam.org/'),
+    ('Documentation', 'http://doc.rolisteam.org/'),
     ('Forum', 'http://forum.rolisteam.org'),
 )
 #THEME_STATIC_PATHS (['static'])
@@ -96,7 +98,7 @@ PLUGINS = ['i18n_subsites',]
 I18N_SUBSITES = {
 'fr': {
         'SITENAME': 'Rolisteam',
-		'THEME' : '/home/renaud/www/pelican-themes/rolisteam_theme',	
+		'THEME' : '/home/renaud/www/pelican-themes/rolisteam_theme',
 		'LINKS' : (('Actualités','blog/index.html'),('Captures', 'screenshots.html'),('Tutoriaux', 'tutoriallist.html'),('Contact', 'contact.html'),('Références', 'references.html'),('Dés dans Discord', 'discord.html'),('Dés dans twitter', 'twitter.html'),('Partenaires', 'friends.html'))
        }
 }

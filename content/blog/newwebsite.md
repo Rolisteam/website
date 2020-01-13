@@ -5,7 +5,7 @@ slug: newversion
 lang: en
 authors: Rolisteam
 summary: the new web site!
-title: New site on line!
+title: New site is online!
 
 # Great news !
 

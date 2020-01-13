@@ -5,8 +5,51 @@ lang: en
 
 Download the free rpg assistant. Rolisteam runs on many platforms (Windows, MacOs and Linux)
 
-## Latest Stable Version : 1.8.2
-### Released on 06/05/2017 - code name: Chewb
+### v1.9.0 - Released on 05/10/2019 - code name: Ostro
+
+We are glad to announce the release of Rolisteam v1.9.0.
+
+## Localization:
+
+* French
+* English
+* Spanish
+* Portuguese (Brazil)
+* Romanian
+* Hungarian
+* German
+* Catalan
+* Italian
+* Dutch (partial)
+* Turkish (partiel)
+
+### Packages
+
+#### Windows
+
+* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.9.0-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.9.0/Rolisteam-1.9.0-setup.exe/download) (including rcse)
+
+#### MacOS
+
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.0_MacOs.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.0/rolisteam_v1.9.0_MacOs.dmg/download)
+* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.0_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.0/rcse_v1.9.0_MacOs.dmg/download)
+
+#### Linux
+
+* ![linux]({filename}/iconfiles/thumblinux.png) RCSE - AppImage: [rcse-v1.9.0-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.0/rcse-v1.9.0-x86_64.AppImage/download)
+* ![linux]({filename}/iconfiles/thumblinux.png) Rolisteam - AppImage: [Rolisteam_v1.9.0-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.0/Rolisteam_v1.9.0-x86_64.AppImage/download)
+
+Those appimages have been made on Ubuntu 18.04 LTS.
+
+##### Source
+* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.9.0.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.0/rolisteam-1.9.0.tar.gz/download)
+* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.9.0.zip](http://sourceforge.net/projects/rolisteam/files/1.9.0/rolisteam-1.9.0.zip/download)
+* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.9.0.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.0/rcse-1.9.0.tar.gz/download)
+* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.9.0.zip](http://sourceforge.net/projects/rolisteam/files/1.9.0/rcse-1.9.0.zip/download)
+
+
+
+### v1.8.2 - Released on 06/05/2017 - code name: Chewb
 
 In French:
 

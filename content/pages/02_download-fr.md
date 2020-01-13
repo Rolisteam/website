@@ -3,28 +3,36 @@ Date: 2017-06-11 10:20
 slug: download
 lang: fr
 
-## Dernière version stable : 1.8.2
-### Sortie le 06/05/2017 - Nom de code: Chewb
+# Dernière version stable : 1.9.1
+## Sortie le 05/10/2019 - Nom de code: Bong
 
-https://youtu.be/Ly4H87hxbpw
+## Les installeurs
 
-[La playlist Youtube pour Rolisteam v1.8](https://www.youtube.com/watch?v=&list=PLBSt0cCTFfS4InklgvVlZZ1nW3RIrrj41) (in French)
+### Windows
+
+* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.9.1-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.9.1/Rolisteam-1.9.1-setup.exe/download) (comprenant RCSE)
+
+### MacOS
+
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.1-MacOsX.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam_v1.9.1_MacOs.dmg/download)
+* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.1-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse_v1.9.1_MacOs.dmg/download)
+
+### Linux
+
+Votre distribution propose peut-être des paquets de **Rolisteam**. Utilisez les s'ils existent.
+Sinon, vous pouvez utilisez les AppImages.
+
+* ![linux]({filename}/iconfiles/thumblinux.png) RCSE - AppImage: [rcse-v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-v1.9.0-x86_64.AppImage/download)
+* ![linux]({filename}/iconfiles/thumblinux.png) Rolisteam - AppImage: [Rolisteam_v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.1/Rolisteam_1.9.1-x86_64.AppImage/download)
+
+##### Source
+* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam-1.9.1.tar.gz/download)
+* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam-1.9.1.zip/download)
+* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-1.9.1.tar.gz/download)
+* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-1.9.1.zip/download)
 
 
-
-### Les installeurs
-
-* ![Icon]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.8.2-v2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.8.2/Rolisteam-1.8.2-v2-setup.exe/download) (avec RCSE)
-* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X High Sierra:  [rolisteam_v1.8.2-MacOsX_HighSierra.dmg](https://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2_HighSierra.dmg/download)
-* ![Icon]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)
-* ![Icon]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.0.3-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse_v1.0.3-MacOsX_setup.dmg/download) 
-* ![Icon]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.tar.gz/download) 
-* ![Icon]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.8.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rolisteam-1.8.2.zip/download) 
-* ![Icon]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.0.3.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.tar.gz/download) 
-* ![Icon]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.0.3.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-1.0.3.zip/download) 
-
-
-### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu
+### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu 19.04
 
     :::bash
     sudo add-apt-repository ppa:rolisteam/ppa
@@ -32,125 +40,155 @@ https://youtu.be/Ly4H87hxbpw
     sudo apt-get upgrade
     sudo apt-get install rolisteam rcse
 
-
-
 ### Arch Linux
+
 [https://aur.archlinux.org/packages/rolisteam/](https://aur.archlinux.org/packages/rolisteam/)
 
-## Les changements de la v1.8.2
+## Liste complète des changements v1.9.1
 
-* Bug: Les champs en page 2 ou plus était toujours en page 1. (#4)
-* Bug: Fiche de personnage partagée avec tout le monde quand le serveur n’est pas le MJ (#62)
-
-### Rolisteam
-
-* Plans vectoriels
-* Fiche de personnage
-* Amélioration du système de dés
-* Fenêtre de connexion
-* Changelog complet (en dessous)
-
-### RCSE
-
-* Le menu New fonctionne
-* Meilleure protection de la liste de choix.
-* Affiche l’ensemble des erreurs en une fois.
-* Supprimer une formule dans un personnage
-* Possibilité de changer la police d’écriture.
-* Support de l’UTF-8 dans les fiches de personnages
-* Redéfini l’ensemble des id 
-* Affiche message d’alerte quand deux images de fond n’ont pas la même taille. 
-* Les formules acceptent tout type de caractère entre double quote.
-* Bug: suppression de la première page seulement
-* Ajout d’un selecteur de police
-* Bug: ajuste le comportement du selecteur de bordure
-* Amélioration de la mise à jour du model après modification
-
-### Comment compiler et installer Rolisteam sur Linux:
-Jetez un oeil à la documentation:  [Compilation sur Linux](http://wiki.rolisteam.org/index.php/CompilationLinux)
-
-## Liste complète des changements pour la v1.8.0
-
-### Plan Vectoriel
-
-* Nouveau système de plan
-* Les éléments peuvent être ajoutés, déplacés, supprimés.
-* Les jetons personnages sont maintenant des images. 
-* Il est possible d’ajouter des images sur le plan.
-* Gestion d’ensemble d’éléments
-* Brouillard de guerre
-* Vision du personnage
-* Gestion de la parenté entre éléments.
-* Affichage de grille
-
-## Fiche de personnage
-
-* Gestion des fiches
-* Editeur de fiche (RCSE)
-* Prise en charge des formules (type feuille de calcul)
-* Lancer les dés depuis la fiche
-* Plusieurs types de champs sur les fiches.
-* Rendu en QML
-* Mise à jour des données via réseau
-* Controle en écriture des données.
-* Les fiches peuvent être sur plusieurs pages.
-* Affichage de plusieurs pages en même temps.
+* comportement des textarea dans les fiches
+* chargement d'image sur une vmap depuis le menu
 
 
-## Système de dés
+## Liste complète des changements v1.9.0
 
-* Composition de condition booléenne par les opérateur ET, OU et OU exclusif.
-* Meilleur gestion des erreurs de syntaxe.
-* L’opérateur Liste accepte des intervalles ou probabilités.
-* Cacher le lancer ou lanceur: #2d6
-* Opérateur Fusion (m: merge)
-* Opérateur filtre (f)
-* Opérateur Si (i)
-* Ajout du modulo dans les opérateurs supportés dans les «validateurs»
-* Gestion des références vers des valeurs stockées dans la fiche de personnage.
-* Ajout de l’opérateur différent (!=)
-* La génération aléatoire utilise les nouvelles API du C++11
-* Meilleur génération du schéma de l’arbre de génération
+### Nouvelles fonctionnalités
 
-## Général
+* Application Serveur multicanal
+* Navigateur Web
+* Visionneur de PDF et partage
+* Notes partagées (Fix #45)
+* Annuler/refaire
+* Système de raccourcis pour lancer les dés
+* Une forge à PNJ (outil de création de pnj)
+* Gestion des formes, des actions et de propriétés d'un personnage (PJ/PNJ)
+* Astuce du jour
+* Tableau des raccourcis claviers
 
-* États de personnage dynamique
-* Alias de dés désactivables
-* Signal de vie pour empêcher les déconnexions.
-* Un générateur de nom
-* Un convertisseur d’unités
+### Le système de dés
 
-## Fenêtre de connexion
+* opérateur Split
+* opérateur de compte des occurences (o)
+* opérateur Unique (u)
+* opérateur relance «tant que» (R)
+* opérateur Group (g)
+* opérateur relance si tous les dés sont égaux (t)
+* opérateur Bind
+* gestion des commentaires
+* Variables dynamique
+* Gestion de commandes à instructions multiples
+* Personnalisation du texte en sortie de commande.
+* Paramètre unique (u) pour les lanceur D et L
+* Les alias ne s'appliquent pas sur les chaînes de sorties
+* Liste de valeurs
+* Amélioration de la détection de boucle infinie
+* Operateur K accepte un nombre négatif comme paramètre
+* Bug #51 - Support du système de «tunnels and trolls»
+* Bug #4 - crash causé par l'opérateur A
+* Bug #55 - Un résultat en chaîne par dé
 
-* Gestion de plusieurs profils de connexion.
+### Fiches de personnages et RCSE
 
-## Resources management
+* Ajout de l'élément Table
+* Ajout de l'élément PageWeb
+* Ajout de boutons page suivante/précédente
+* Gestion des images embarquées
+* Élément sur une page ou toutes les pages
+* Ajout du support de l'impression
+* Les boutons de dés peuvent être glisser et déposer sur une fenêtre de tchat pour créer un raccourcis de dé
+* Du code additionel peut être placé en début et en fin du fichier qml
+* Amélioration des propriétés de la fiche (échelle fixe)
+* Passage à QtQuick.Controls 2.0 (à la place de 1.0)
+* Une fiche peut modifier les propriétes de son personnage (par code)
+* Une fiche peut lancer des dés en interne (par code)
+* Une fiche peut afficher du texte dans le tchat commun
+* RCSE - Ajout d'un onglet Images pour gérer les images embarqués
+* RCSE - Refonte complete du logiciel
+* RCSE - montre/cache des sous ensemble de colonnes (colunne d'identifications, colonnes de position, toutes les colonnes …)
+* RCSE - Les champs avec du code personnalisé sont affichés en vert dans la table champs.
+* RCSE - La page d'aperçu et l'éditeur de code QML sont l'un à coté de l'autre.
+* RCSE - Amélioration de l'éditeur de texte QML (font à chase fixe, les tabulations en 4 espaces…)
 
-* Les ressources peuvent être assemblées dans des chapitres (dossiers)
-* Gestion de l’état des ressources (Chargées, Ouvertes)
+### Plans vectoriels     
 
-## Résolutions des bogues
+* L'échelle est un nombre à virgule; plus un entier
+* La grille peut être au dessus de la scène
+* Des marqueurs animés peut être utiliser pour identifier des points sur un plan
+* Meilleure mise en valeur de la sélection.
+* Outil pot de peinture
+* Barre de vie sur personnage
+* Bordure collante
+* Améliorations des collisions
 
-Contournement #42 - Problème d’ajustement des grands plans.
-Fix #41 - Mélange entre les droits du MJ et des Joueurs.
-Fix #28 - Cacher les lancers de dés.
-Fix #33 - Déconnexion
-Fix #22 - Portrait de personnages sur les plans.
-Fix #3 - Déplacement de zones de texte impossible sur les plans
-Fix #8 -  Ajouter des images sur les plans.
+### Améliorations diverses  
 
-## Traduction
+* Possibilité de limiter la longeur des titres en affichage onglet
+* Changer la couleur des onglets
+* Renommage des documents
+* Les selecteurs de couleur apparaissent bien devant.
+* Les PNJ peuvent être enregistré dans le scénario
+* Le gestionnaire de resources affiche le mode de chargement
+* Les ressources non-enregistrées ou indisponible sont marquées en rouge dans le gestionnaire de ressources
+* Mode plein écran
+* Les messages des tchats peuvent être effacés
+* Glisser/déposer du gestionnaire de ressources vers une carte vectorielle
+* Couleur alternante dans la liste de lecture
+* Le convertisseur d'unités accepte de nouvelles unités et des nouvelles règles de conversion.
+* La numérotation des chapitres dans le gestionnaire de ressources commence à 1
+* Les 5 derniers scénario chargé sont en accès direct dans le menu fichier
+* Les commandes de dés trop longues peuvent être cachées.
+* Exportation/importation des alias de dés
+
+### Refonte du code     
+
+* RCSE
+* Scenario
+* Charactersheet SDK use QtQuick.Controls 2.0
+* QML generator
+* DiceParser's detection of endless loop      
+
+### Résolution des Bugs
+
+* Fix #1 - headless server
+* Fix #45 - Player/GM shared notes board
+* Fix #48 - Rolisteam segfault
+* Fix #55 - Field of view handles and layer interaction
+* Fix #65 - renaming notes
+* Fix #69 - Misunderstanding about the resources Manager behaviour
+* Fix #81 - Charactersheet not saved while saving scenario
+* Fix #82 - some Chat messages are missing
+* Fix #83 - crash when cancel save scenario as
+* Fix #90 - issue with resources titles
+* Fix #97 - Crash on dice roll
+* Dice Parser Fix #51 - Support for tunnels and trolls system
+* Dice Parser Fix #4 - crash with a operator
+* Dice Parser Fix #55 - Multiple success/failure level dice roll
+
+### Tests unitaires et Qualité
+
+* Système de dés: 163
+* Rolisteam: 371
+* RCSE et les fiches de personnages: 16430
+* Test Fuzzer pour diceparser
+* Test Fuzzer pour les formules des fiches de personnages
+
+### Traductions
+
+* Ajout de l'italien et catalan
+
+Rolisteam v1.9.0 est disponible dans les langues suivantes:
 
 * Français
 * Anglais
-* Portugais
+* Espagnol
+* Portugais (Brézil)
+* Roumain
 * Hongrois
 * Allemand
-* Roumain
-* Espagnol
+* Catalan
+* Italien
+* Néerlandais (partielle)
 * Turc (partielle)
-* Néerlandais
-
 
 ## Anciennes Versions
 [Anciennes versions]({filename}08_older-fr.md)
@@ -159,6 +197,7 @@ Fix #8 -  Ajouter des images sur les plans.
 
 Dans le futur, nous prévoyons de faire:
 
-* Un serveur séparé
-* Un éditeur de note séparé
-* Et plus encore
+* Éditeur de carte mentale
+* Client Android
+* Refont de l'interface utilisateur pour le tchat
+* et plus encore…
