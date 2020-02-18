@@ -4,7 +4,7 @@ slug: index
 lang: fr
 status: hidden
 
-![images]({filename}/images/logo_rolisteam.png)
+![images](static}/images/logo_rolisteam.png)
 
 Rolisteam vous aide à maîtriser une partie de jeu de rôle avec des joueurs distants. Il fournit de nombreuses fonctionnalités, telles que le partage de carte/plan ou le partage de photo. Il contient également des outils de communication avec vos joueurs. Le but étant de rendre une partie gérée avec Rolisteam aussi facile qu'une partie à votre table. Pour se faire, nous travaillons pour vous offrir toujours plus de fonctionnalités.
 																																																																				

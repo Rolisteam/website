@@ -6,7 +6,7 @@ lang: en
 
 # Rolisteam
 
-![images]({filename}/images/logo_rolisteam.png)
+![images]({static}/images/logo_rolisteam.png)
 
 **Rolisteam** is a **free virtual table software**. Pen and paper Role playing games are traditionnaly made around table. Virtual table software seems to be the right solution to overcome real life difficulties.
 
@@ -23,7 +23,7 @@ On start, Rolisteam appears and above it there is the *connection panel*. This p
 "Player" profile requires definition of player's character as well. 
 This panel may store several connection profile.
 
-![images]({filename}/images/tuto/04_connexion_mj_en.jpg)
+![images]({static}/images/tuto/04_connexion_mj_en.jpg)
 
 Change the default profile or create another one. We recommand to set a meaningful name. It makes it easier.  
 For example, I use to play as GM on Wednesday and as player on Monday, names of my profiles are: Game on Monday, Game on Wednesday.
@@ -59,7 +59,7 @@ When you are confident about your connection profile, you must click on "**Conne
 
 In the notification area (Top right corner), there is a reminder of connection information you should give to other game participants. 
 
-![images]({filename}/images/tuto/14_notification_zone_en.jpg)
+![images]({static}/images/tuto/14_notification_zone_en.jpg)
 
 As you can see, the address in our case is *194.250.98.228*, and the port is *6661*. By default, **Rolisteam** use the port *6660*. You can change it as you want but please avoid port number used by another service.  
 
@@ -77,21 +77,21 @@ Then you are all set. Click on **Connection**. If it goes right, the connection 
 
 When the connection is set, you must see something like this.
 
-![images]({filename}/images/tuto/05_global_en.jpg)
+![images]({static}/images/tuto/05_global_en.jpg)
 
 Lets pay a visit to all panels to see which informations you can find in which panels.
 
 On sides of the application, there are dockwidgets. You can move those dockwidgets, let them floating or group them. So you can group them to see important ones all the time. Others can be seen when you want/need by clicking on their tab.
 Of course, those dockwidget can be closed (the cross on the top right corner). You can hide/show dockwidget thanks of the **subwindow** menu.
 
-![images]({filename}/images/tuto/09_menu_fenetre_en.jpg)
+![images]({static}/images/tuto/09_menu_fenetre_en.jpg)
 
 ## Check Connection Status
 
 To know at any time you connection status, just look at the title bar of **rolisteam**.  
 There are in that order: current story name, software version, Connection status «**connected**» or «**disconnected**», connection type ( **client** or **server**) and the application's name **Rolisteam**.
 
-![images]({filename}/images/tuto/30_window_title_en.jpg)
+![images]({static}/images/tuto/30_window_title_en.jpg)
 
 ## Notification Area
 
@@ -105,11 +105,11 @@ It provides progressbar for long (receiving) transfert.
 
 This area lists all instant messaging windows. By default, **Rolisteam** sets global messaging (to everyone) and point-to-point connection to each other players.
 
-![images]({filename}/images/tuto/02_ChatList_en.jpg)
+![images]({static}/images/tuto/02_ChatList_en.jpg)
 
 You can create chat window and set it with all/one/many/no players. You can talk about your next tactic. 
 
-![images]({filename}/images/tuto/15_nouveauChat_en.jpg)
+![images]({static}/images/tuto/15_nouveauChat_en.jpg)
 
 
 ## Players list
@@ -117,7 +117,7 @@ You can create chat window and set it with all/one/many/no players. You can talk
 This panel displays all connected players and theirs characters. You can expand or collapse the character lists for each player. Character's avatars can been seen here.   
 This panel is very important when you are using maps in **Rolisteam**. We talk about it below in this document.
  
-![images]({filename}/images/tuto/18_playerlist_en.jpg)
+![images]({static}/images/tuto/18_playerlist_en.jpg)
 
 
 ## Audio Players 
@@ -126,12 +126,12 @@ This panel is very important when you are using maps in **Rolisteam**. We talk a
 **Rolisteam** has three audio players to manage three tracks at the same time.  
 You may hide them if you need fewer audio players or more space.
 
-![images]({filename}/images/tuto/24_music_player_en.jpg) 
+![images]({static}/images/tuto/24_music_player_en.jpg) 
 
 All commands are available through contecxtual menu (right-click).   
 You may load playlist, audio files or links to stream and remote files.
 
-![images]({filename}/images/tuto/27_music_contextual_menu_en.jpg)
+![images]({static}/images/tuto/27_music_contextual_menu_en.jpg)
 
 
 ## Resources Manager
@@ -140,7 +140,7 @@ The resources manager keeps track of all files you have opened in rolisteam. It 
 You may sort files into folders. 
 
 
-![images]({filename}/images/tuto/23_resources_browser_en.jpg) 
+![images]({static}/images/tuto/23_resources_browser_en.jpg) 
 
 # Play with Rolisteam
 
@@ -151,7 +151,7 @@ Now, you know each panel of **rolisteam**. We will focus on features and how to 
 To open chat messaging, nothing simpler, you have to check chat you want. It is useful to open «**global**». You can discuss with all other players. 
 You can discuss only with one other players.
 
-![images]({filename}/images/tuto/02_ChatList_en.jpg) 
+![images]({static}/images/tuto/02_ChatList_en.jpg) 
 
 If chat name are blinking from green to red, it means you received message.
 
@@ -161,7 +161,7 @@ You may add new chat with whoever or when you want.
 
 On the bottom, there is a button to *add new chat*.
 
-![images]({filename}/images/tuto/15_nouveauChat_en.jpg)
+![images]({static}/images/tuto/15_nouveauChat_en.jpg)
 
 Chat has name, owner and participating player lists.
 The owner is automatically set. You can chose all the other parameters.
@@ -182,13 +182,13 @@ _Exemple_:
 
 It appears like this:
 
-![images]({filename}/images/tuto/25_tchat_commun_en.jpg)
+![images]({static}/images/tuto/25_tchat_commun_en.jpg)
 
 You can easily resend messages thanks to message history. Just press ```up``` and ```bottom``` to navigate inside the history and then press ```Enter``` to resend the selected message.
 
 ### Contextual menu reachable features 
 
-![images]({filename}/images/tuto/08_menu_chat_en.jpg)
+![images]({static}/images/tuto/08_menu_chat_en.jpg)
 
 Chat windows have 3 contextual menu reachable features:
 
@@ -224,7 +224,7 @@ The result is always displayed in red for better readbility.
 
 **Rolisteam** deals with many operators,  you can find complete list on this [web page](http://wiki.rolisteam.org/index.php/En:Dice). There are examples as well.
 
-![images]({filename}/images/tuto/31_dice_result_en.jpg)
+![images]({static}/images/tuto/31_dice_result_en.jpg)
 
 To share/find game specific command, please go to [Rolisteam forum](http://forum.rolisteam.org).
 
@@ -256,7 +256,7 @@ Alias by replace (like the previous example)
 Alias by regular expression.
 Please, take a look at the [documentation](http://wiki.rolisteam.org/index.php/en:preferences#) to get more information about aliases.
 
-![images]({filename}/images/tuto/00_alias_en.jpg)
+![images]({static}/images/tuto/00_alias_en.jpg)
 
 ## Share Image
 
@@ -271,7 +271,7 @@ It is also possible to share image from the internet.
 
 It is really easy, just click on `File > Open > Online Image` 
 
-![images]({filename}/images/tuto/07_load_image_from_internet2_en.jpg)
+![images]({static}/images/tuto/07_load_image_from_internet2_en.jpg)
 
 ## Maps
 
@@ -291,7 +291,7 @@ Alternatively, it is possible to open as background of map.
 To open an empty map, just click on `file > new > Map` or just press `CTRL+M`. 
 
 
-![images]({filename}/images/tuto/12_newMap_en.jpg)
+![images]({static}/images/tuto/12_newMap_en.jpg)
 
 **Rolisteam** asks you to define many map properties.
 
@@ -311,7 +311,7 @@ There are 3 permission modes: **No permission, Character and All permissions**.
 
 Open image as map background, you just have to click on ```File > Open > Map```
 
-![images]({filename}/images/tuto/16_openMap_en.jpg)
+![images]({static}/images/tuto/16_openMap_en.jpg)
 
 This dialob box allows to select a background image. 
 Alternatively, it is also possible to load map (.pla) from your computer. 
@@ -328,7 +328,7 @@ To do so, **Rolisteam** provides many painting tools. There are brough together 
 
 
 
-[comment]:<>![images]({filename}/images/tuto/27_toolbox_thin_en.jpg)
+[comment]:<>![images]({static}/images/tuto/27_toolbox_thin_en.jpg)
 
 
 <table>
@@ -405,7 +405,7 @@ If you need more information about vectorial map, please go to the [documentatio
 
 To create an empty vectorial map, please go to the menu `File > new > vectorial map` or directly `CTRL+V`. 
 
-![images]({filename}/images/tuto/13_newVMap_en.jpg)
+![images]({static}/images/tuto/13_newVMap_en.jpg)
 
 **Rolisteam** asks values for some vectorial map properties. 
 
@@ -425,7 +425,7 @@ There are two kinds of modifications: visual or access.
 
 First, All visual modifications can be performed thank of tools from toolbar or on the map itself.
 
-[comment]:<>![images]({filename}/images/tuto/28_toolbox_vmap_en.jpg)
+[comment]:<>![images]({static}/images/tuto/28_toolbox_vmap_en.jpg)
 
 
 <table>
@@ -495,7 +495,7 @@ If you want to know about all features available from contextual menu, please re
 
 The GM can broadcast background music. 
 
-![images]({filename}/images/tuto/01_backgroundMusic_en.jpg)
+![images]({static}/images/tuto/01_backgroundMusic_en.jpg)
 
 **Rolisteam** has 3 audio players. They are independant. 
 Each player has  standard and expected features from audio player.

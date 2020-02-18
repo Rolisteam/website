@@ -7,7 +7,7 @@ lang: en
 We developed a Discord bot to offer the power of DiceParser into the discord world. 
 It is really easy to use.   
 
-![images]({filename}/images/diceParserOnDiscord.png)
+![images]({static}/images/diceParserOnDiscord.png)
 
 ## How to install
 

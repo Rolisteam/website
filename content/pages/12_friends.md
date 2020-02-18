@@ -4,7 +4,7 @@ slug: friends
 status: hidden
 lang: en
 
-[![Projets R]({filename}/images/logo4.png)](http://projets-r.com)  
-[![Opale Roliste]({filename}/images/banniere.gif)](http://forum.opale-roliste.com/)  
-[![Jdr virtuel]({filename}/images/site_logo.png)](https://www.jdrvirtuel.com/)   
-[![infinite RPG]({filename}/images/logo-infinite-web.png)](https://www.infinite-rpg.fr/)  
+[![Projets R]({static}/images/logo4.png)](http://projets-r.com)  
+[![Opale Roliste]({static}/images/banniere.gif)](http://forum.opale-roliste.com/)  
+[![Jdr virtuel]({static}/images/site_logo.png)](https://www.jdrvirtuel.com/)   
+[![infinite RPG]({static}/images/logo-infinite-web.png)](https://www.infinite-rpg.fr/)  

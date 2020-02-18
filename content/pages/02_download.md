@@ -26,29 +26,29 @@ We are glad to announce the release of Rolisteam v1.9.2.
 
 #### Windows
 
-* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.9.2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.9.2/Rolisteam-1.9.2-setup.exe/download) (including rcse)
+* ![windows]({static}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.9.2-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.9.2/Rolisteam-1.9.2-setup.exe/download) (including rcse)
 
 #### MacOS
 
-* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.2_MacOs.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam_v1.9.2_MacOs.dmg/download)
-* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.2_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse_v1.9.2_MacOs.dmg/download)
+* ![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.2_MacOs.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam_v1.9.2_MacOs.dmg/download)
+* ![MacOs RCSE]({static}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.2_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse_v1.9.2_MacOs.dmg/download)
 
 #### Linux
 
-* ![linux]({filename}/iconfiles/thumblinux.png) RCSE - AppImage: [rcse-v1.9.2-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-v1.9.2-x86_64.AppImage/download)
-* ![linux]({filename}/iconfiles/thumblinux.png) Rolisteam - AppImage: [Rolisteam_v1.9.2-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.2/Rolisteam_1.9.2-x86_64.AppImage/download)
+* ![linux]({static}/iconfiles/thumblinux.png) RCSE - AppImage: [rcse-v1.9.2-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-v1.9.2-x86_64.AppImage/download)
+* ![linux]({static}/iconfiles/thumblinux.png) Rolisteam - AppImage: [Rolisteam_v1.9.2-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.2/Rolisteam_1.9.2-x86_64.AppImage/download)
 
 Those appimages have been made on Ubuntu 18.04 LTS.
 
 ##### Source
-* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.9.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam-1.9.2.tar.gz/download)
-* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.9.2.zip](http://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam-1.9.2.zip/download)
-* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.9.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-1.9.2.tar.gz/download)
-* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.9.2.zip](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-1.9.2.zip/download)
+* ![tar rolisteam]({static}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.9.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam-1.9.2.tar.gz/download)
+* ![zip rolisteam]({static}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.9.2.zip](http://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam-1.9.2.zip/download)
+* ![tar rcse]({static}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.9.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-1.9.2.tar.gz/download)
+* ![zip rcse]({static}/iconfiles/thumbzip.png) Source (zip): [rcse-1.9.2.zip](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-1.9.2.zip/download)
 
 
 
-### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu 19.04
+### ![Icon]({static}/iconfiles/thumbubuntu.png)  Ubuntu 19.04
 
     :::bash
     sudo add-apt-repository ppa:rolisteam/ppa
@@ -201,7 +201,7 @@ Please pay attention that Rolisteam needs **Qt5.12** or higher.
 
 
 ## Older Versions
-[Older versions]({filename}./08_older.md)
+[Older versions]({static}./08_older.md)
 
 ## What next ?
 In the future release, we plan to do:

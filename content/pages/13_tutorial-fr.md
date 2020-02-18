@@ -6,7 +6,7 @@ lang: fr
 
 # Rolisteam
 
-![images]({filename}/images/logo_rolisteam.png)
+![images]({static}/images/logo_rolisteam.png)
 
 **Rolisteam** est un **logiciel libre** de table virtuelle. Le jeu de rôle "papier" se pratique traditionnellement autour d'une table.  Pour pallier aux difficultés techniques (emploi du temps) 
 et logistiques (trajets), il est plus pratique de se réunir autour d'une table virtuelle. 
@@ -21,7 +21,7 @@ Maintenant, je vais tacher de vous expliquer au mieux son utilisation, à grand 
 
 Au lancement, l'application apparaît avec au premier plan le panneau de connexion. Ce panneau vous permet de saisir les informations relatives à la connexion mais également à votre personnage. Ce panneau gère depuis la version 1.8, la création de profil de connexion. Ainsi, il est plus simple de conserver plusieurs informations de connexions en même temps.
 
-![images]({filename}/images/tuto/04_connexion_mj_fr.jpg)
+![images]({static}/images/tuto/04_connexion_mj_fr.jpg)
 
 Vous pouvez éditer le profil par défaut ou en ajouter un. Pour vous y retrouvez, change le nom. Cela sera plus facile.  
 Par exemple, j'ai l’habitude de jouer en MJ le mercredi et en joueur le lundi. Le nom de mes profils est tout simplement: Partie du lundi, Partie du mercredi.
@@ -58,7 +58,7 @@ Si vous souhaitez héberger la partie, vous êtes le serveur. Vous n'avez pas be
 
 Quand vous êtes sûr des réglages, vous pouvez appuyer sur le bouton «**Connexion**». Si tout se passe bien. La fenêtre de connexion disparaît et vous donne accès à l'application. Dans l'espace de notification (en haut à droite), Vous avez un rappel des informations à donner aux autres participants de la partie. 
 
-![images]({filename}/images/tuto/14_notification_zone_fr.jpg)
+![images]({static}/images/tuto/14_notification_zone_fr.jpg)
 
 Ici, l’adresse de connexion est *194.250.98.228*, et le port est *6661*. Par défaut, **Rolisteam** utilise le port *6660*. Vous pouvez utiliser celui que vous voulez. Il faut cependant être certain que le port ne soit pas déjà utilisé par un autre service.  
 
@@ -76,20 +76,20 @@ Quand vous êtes sûr des réglages, vous pouvez appuyer sur le bouton «**Conne
 
 Une fois l'étape connexion réussie, vous devriez voir ceci (Le gros logo Rolisteam sera remplacé par une image de stylo et de dés).
 
-![images]({filename}/images/tuto/05_global_fr.jpg)
+![images]({static}/images/tuto/05_global_fr.jpg)
 
 Nous allons faire un peu le tour des différents panneaux et informations visibles.  
 
 Vous pouvez voir différents panneaux sur les extérieurs de l'application. Ces panneaux sont déplaçables et empilables. Ainsi vous pouvez mettre au premier plan des panneaux importants et garder des zones secondaires accessibles par un simple clique si besoin. Il est également possible de fermer directement un panneau grâce à la croix en haut droite. Vous pouvez vous rendre dans le menu «**affichage**», pour les faire réapparaître.
 
-![images]({filename}/images/tuto/09_menu_fenetre_fr.jpg)
+![images]({static}/images/tuto/09_menu_fenetre_fr.jpg)
 
 ## Vérifier mon statut de connexion
 
 Pour connaître à tout moment le statut de connexion, il suffit de regarder la barre de titre de **rolisteam**.  
  Il y a le nom du scénario courant, la version du logiciel, le statut «**connecté**» ou «**déconnecté**», si vous êtes **client** ou **serveur** et en dernier le nom de l'application.
 
-![images]({filename}/images/tuto/30_window_title_fr.jpg)
+![images]({static}/images/tuto/30_window_title_fr.jpg)
 
 ## Zone de notification
 
@@ -103,11 +103,11 @@ Cela vous permet de savoir qu'un élément est en cours de réception.
 
 Cette zone vous propose automatiquement un tchat commun accessible avec tous les participants et  également un tchat vers chaque participants (vous et lui uniquement). 
 
-![images]({filename}/images/tuto/02_ChatList_fr.jpg)
+![images]({static}/images/tuto/02_ChatList_fr.jpg)
 
 Il est possible de créer un tchat et d'y ajouter les personnes de votre choix. Ainsi vous pouvez réfléchir une stratégie à plusieurs à l'abri du regard d'un ou plusieurs participants.
 
-![images]({filename}/images/tuto/15_nouveauChat_fr.jpg)
+![images]({static}/images/tuto/15_nouveauChat_fr.jpg)
 
 
 ## La liste des joueurs
@@ -115,7 +115,7 @@ Il est possible de créer un tchat et d'y ajouter les personnes de votre choix. 
 Cette section affiche les joueurs connectés et leurs personnages. Vous pouvez réduire ou dérouler la liste des personnages pour chaque joueur. Les avatars des personnages sont visibles dans cette zone.   
 Cette zone est importante quand vous utilisez des plans dans **Rolisteam**. Nous y reviendrons plus bas dans ce tutoriel. 
  
-![images]({filename}/images/tuto/18_playerlist_fr.jpg)
+![images]({static}/images/tuto/18_playerlist_fr.jpg)
 
 
 ## Les lecteurs de Musique 
@@ -124,12 +124,12 @@ Cette zone est importante quand vous utilisez des plans dans **Rolisteam**. Nous
 **Rolisteam** contient trois lecteurs audio pour gérer trois pistes simultanément.  
 Vous pouvez cachez des lecteurs si vous avait besoin de moins de trois pistes.  
 
-![images]({filename}/images/tuto/24_music_player_fr.jpg) 
+![images]({static}/images/tuto/24_music_player_fr.jpg) 
 
 L'ensemble des commandes des lecteurs sont accessibles par un menu contextuel (clique droit de la souris).   
 Vous pouvez charger une playlist, des fichiers ou encore des liens vers des flux ou fichiers distants.  
 
-![images]({filename}/images/tuto/27_music_contextual_menu_fr.jpg)
+![images]({static}/images/tuto/27_music_contextual_menu_fr.jpg)
 
 
 ## Le gestionnaire de ressources
@@ -137,7 +137,7 @@ Vous pouvez charger une playlist, des fichiers ou encore des liens vers des flux
 Le gestionnaire de ressources permet de garder la trace de l'ensemble des fichiers chargés durant votre partie. 
 Il permet également de classer vos ressources dans des dossiers.
 
-![images]({filename}/images/tuto/23_resources_browser_fr.jpg) 
+![images]({static}/images/tuto/23_resources_browser_fr.jpg) 
 
 
 
@@ -151,7 +151,7 @@ Maintenant que nous avons fait un tour rapide des différents panneaux de rolist
 Pour ouvrir un tchat, rien de plus simple, il suffit de cocher la case correspondante. Il est utile d'ouvrir le «**commun**». Il rassemble tous les joueurs. 
 Il existe aussi des tchats pour discuter individuellement avec un autre joueur.
 
-![images]({filename}/images/tuto/02_ChatList_fr.jpg) 
+![images]({static}/images/tuto/02_ChatList_fr.jpg) 
 
 
 Quand un tchat clignote entre rouge et vert, cela signifie qu'un message est arrivé.
@@ -162,7 +162,7 @@ Vous pouvez à tout moment créer un nouveau tchat et inclure qui vous voulez de
 
 En bas de la zone de messagerie instantanée, il y a un bouton pour *ajouter un tchat*. 
 
-![images]({filename}/images/tuto/15_nouveauChat_fr.jpg)
+![images]({static}/images/tuto/15_nouveauChat_fr.jpg)
 
 Un tchat est défini par un nom, un propriétaire et une liste de participant. 
 Le propriétaire sera automatiquement défini. Les autres éléments sont à votre convenance. 
@@ -184,13 +184,13 @@ _Exemple_:
 
 Cela apparaîtra comme ceci:
 
-![images]({filename}/images/tuto/25_tchat_commun_fr.jpg)
+![images]({static}/images/tuto/25_tchat_commun_fr.jpg)
 
 Il est possible de récupérer les textes envoyés grâce à l'historique de conversation. Pour cela, il suffit de naviguer avec les touches ```haut``` et ```bas``` de votre clavier.
 
 ### Fonctions accessibles par le menu contextuel 
 
-![images]({filename}/images/tuto/08_menu_chat_fr.jpg)
+![images]({static}/images/tuto/08_menu_chat_fr.jpg)
 
 Les fenêtres de tchat possèdent trois particularités:
 
@@ -224,7 +224,7 @@ Le résultat est affiché en rouge par soucis de lisibilité.
 
 **Rolisteam** gère de nombreux opérateurs,  vous pouvez trouver la liste complète sur cette [page](http://wiki.rolisteam.org/fr:dice) avec également des exemples.
 
-![images]({filename}/images/tuto/31_dice_result_fr.jpg)
+![images]({static}/images/tuto/31_dice_result_fr.jpg)
 
 Vous pouvez partager vos commandes de dés sur le [forum](http://forum.rolisteam.org).
 
@@ -253,7 +253,7 @@ Utilisations:
 Cela applique un simple remplacement.
 Il existe un mode encore plus puissant de substitution pour les alias. Il est bien décris dans la [documentation](http://wiki.rolisteam.org/index.php/Fr:preferences#Les_alias_de_d.C3.A9s).
 
-![images]({filename}/images/tuto/00_alias_fr.jpg)
+![images]({static}/images/tuto/00_alias_fr.jpg)
 
 ## Partager une image
 
@@ -269,7 +269,7 @@ Il est également possible de partager une image en ligne.
 
 Il suffit de coller le lien dans la petite fenêtre accessible par `Fichier > Ouvrir > Image en ligne` 
 
-![images]({filename}/images/tuto/07_load_image_from_internet2_fr.jpg)
+![images]({static}/images/tuto/07_load_image_from_internet2_fr.jpg)
 
 ## Les plans
 
@@ -288,7 +288,7 @@ Un nouveau plan peut-être ajouté vide, c'est à dire avec un fond de couleur. 
 Pour ouvrir un plan vide, il suffit d'aller dans `fichier > nouveau > Plan` ou de directement faire un `CTRL+M`. 
 
 
-![images]({filename}/images/tuto/12_newMap_fr.jpg)
+![images]({static}/images/tuto/12_newMap_fr.jpg)
 
 **Rolisteam** vous permet de définir plusieurs caractéristiques de votre plan. 
 
@@ -308,7 +308,7 @@ Il est bon de faire un point sur les modes de permission. Il en existe trois: **
 
 Pour ouvrir un plan avec une image de fond, il suffit de suivre ce chemin: **Fichier > Ouvrir > Plan**
 
-![images]({filename}/images/tuto/16_openMap_fr.jpg)
+![images]({static}/images/tuto/16_openMap_fr.jpg)
 
 Cette boite de dialogue permet de charger une image en fond du plan. 
 Vous pouvez charger un plan (.pla) enregistré sur votre ordinateur. 
@@ -325,7 +325,7 @@ Pour se faire, **rolisteam** propose une série d'outils. Ils sont regroupés da
 
 
 
-[comment]:<>![images]({filename}/images/tuto/27_toolbox_thin_fr.jpg)
+[comment]:<>![images]({static}/images/tuto/27_toolbox_thin_fr.jpg)
 
 
 <table>
@@ -402,7 +402,7 @@ Vous pouvez dès à présent, jeter un œil à la [documentation](http://wiki.ro
 
 Pour ouvrir un plan vectoriel vide, il suffit d'aller dans fichier, nouveau, Plan ou de directement faire un `CTRL+V`. 
 
-![images]({filename}/images/tuto/13_newVMap_fr.jpg)
+![images]({static}/images/tuto/13_newVMap_fr.jpg)
 
 **Rolisteam** vous propose de définir plusieurs caractéristiques de votre plan. 
 
@@ -422,7 +422,7 @@ Elles peuvent être de deux types: aspect visuel ou contrôle d'accès.
 
 Les modifications sur l'aspect visuel sont réalisés au moyen des outils de la barre d'outil ou du plan lui même.
 
-[comment]:<>![images]({filename}/images/tuto/28_toolbox_vmap_fr.jpg)
+[comment]:<>![images]({static}/images/tuto/28_toolbox_vmap_fr.jpg)
 
 
 <table>
@@ -495,7 +495,7 @@ Si vous souhaitez obtenir la liste complète des fonctionnalités issue des menu
 
 Le maître du jeu peut diffuser de la musique. 
 
-![images]({filename}/images/tuto/01_backgroundMusic_fr.jpg)
+![images]({static}/images/tuto/01_backgroundMusic_fr.jpg)
 
 **Rolisteam** propose trois lecteurs audio. Les trois peuvent fonctionner en même temps. 
 Chaque lecteur possède les fonctionnalités standards d'un lecteur.

@@ -4,7 +4,7 @@ slug: index
 status: hidden
 lang: en
 
-![images]({filename}/images/logo_rolisteam.png)
+![images]({static}/images/logo_rolisteam.png)
 
 Rolisteam is a virtual tabletop software. It helps you to manage tabletop role playing games with remote friends/players. 
 It provides many features to share maps, pictures and it also includes tool to communicate with your friends/players. 

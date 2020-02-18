@@ -9,7 +9,7 @@ lang: fr
 
 
 ## Informations générale
-![Forge PNJ]({filename}/images/tutonpcmaker/fr/forge_empty.jpg)
+![Forge PNJ]({static}/images/tutonpcmaker/fr/forge_empty.jpg)
 
 * Nom : Le texte du champs apparaît en bas sur le token quand il est afficher sur une carte.
 * Couleur : Si vous n'avez pas d'image, le token sera composé de cette couleur.
@@ -24,12 +24,12 @@ Quand la vie courant vaut le max, la barre de vie sera pleine sur personnage dan
 
 Pour ce tutoriel, je vais créer un bandit qui se déguise en paysans.
 
-![pnj]({filename}/images/tutonpcmaker/fr/info.jpg)
+![pnj]({static}/images/tutonpcmaker/fr/info.jpg)
 
 
 ## Actions
 
-![actions]({filename}/images/tutonpcmaker/fr/actions.jpg)
+![actions]({static}/images/tutonpcmaker/fr/actions.jpg)
 
 Il convient de définir les jets pour les différentes actions.
 Dans l'exemple, j'ai mis les deux jets pour évaluer une attaque à l'arc ou à l'épée. Bien entendu, mettez toutes les actions qui vous semblent utiles:
@@ -38,7 +38,7 @@ Il peut être intéressant de définir également des actions avec bonus.
 
 ## Formes
 
-![formes]({filename}/images/tutonpcmaker/fr/formes.jpg)
+![formes]({static}/images/tutonpcmaker/fr/formes.jpg)
 
 Une forme est consistuée d'un nom et d'une image. Cela permet de representer un personnage polymorphe, un déguisiment, une identité secret (super héros).
 En pratique, cela change uniquement l'avatar.
@@ -46,7 +46,7 @@ Pour définir l'image, il convient de double clicker dans la colonne "URI".
 
 ## Propriétés
 
-![propriétés]({filename}/images/tutonpcmaker/fr/proprietes.jpg)
+![propriétés]({static}/images/tutonpcmaker/fr/proprietes.jpg)
 
 Il est possible de définir autant de propriétés que vous le souhaiter. 
 Une propriété est définie par une nom et une valeur. Ces propriétés sont très utiles pour reprenser le niveau du personnage.
@@ -65,7 +65,7 @@ When the rtok is loaded, it appears on the vectorial map and it is listed inside
 
 ## L'initiative
 
-![menu]({filename}/images/tutonpcmaker/fr/menu_initiative.jpg)
+![menu]({static}/images/tutonpcmaker/fr/menu_initiative.jpg)
 
 **Initiative** can be rolled from the vectorial map contextual menu.
 When character has initiative score it appears on the left-top corner of the token.
@@ -73,7 +73,7 @@ It is possible to unset the score (e.g at the end of the fight), or to hide them
 
 ## Les formes
 
-![menu]({filename}/images/tutonpcmaker/fr/menu_formes.jpg)
+![menu]({static}/images/tutonpcmaker/fr/menu_formes.jpg)
 
 Par le menu contextuel, il est possible de sélectionner à tout moment la forme. de votre personnage.
 Si la forme ne possède pas d'image, le jeton du personnage s'affichera de sa couleur.
