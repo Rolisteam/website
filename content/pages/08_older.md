@@ -5,6 +5,65 @@ lang: en
 
 Download the free rpg assistant. Rolisteam runs on many platforms (Windows, MacOs and Linux)
 
+### 1.9.1 - Released on 05/10/2019 - code name: Bong
+
+We are glad to announce the release of Rolisteam v1.9.1.
+
+## Localization:
+
+* French
+* English
+* Spanish
+* Portuguese (Brazil)
+* Romanian
+* Hungarian
+* German
+* Catalan
+* Italian
+* Dutch (partial)
+* Turkish (partiel)
+
+### Packages
+
+#### Windows
+
+* ![windows]({filename}/iconfiles/thumbWinodw.png) Windows: [Rolisteam-1.9.1-setup.exe](https://sourceforge.net/projects/rolisteam/files/1.9.1/Rolisteam-1.9.1-setup.exe/download) (including rcse)
+
+#### MacOS
+
+* ![MacOs]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.1_MacOs.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam_v1.9.1_MacOs.dmg/download)
+* ![MacOs RCSE]({filename}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.1_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse_v1.9.1_MacOs.dmg/download)
+
+#### Linux
+
+* ![linux]({filename}/iconfiles/thumblinux.png) RCSE - AppImage: [rcse-v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-v1.9.1-x86_64.AppImage/download)
+* ![linux]({filename}/iconfiles/thumblinux.png) Rolisteam - AppImage: [Rolisteam_v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.1/Rolisteam_1.9.1-x86_64.AppImage/download)
+
+Those appimages have been made on Ubuntu 18.04 LTS.
+
+##### Source
+* ![tar rolisteam]({filename}/iconfiles/thumbtar.png) Source (tarball): [rolisteam-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam-1.9.1.tar.gz/download)
+* ![zip rolisteam]({filename}/iconfiles/thumbzip.png) Source (zip): [rolisteam-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/rolisteam-1.9.1.zip/download)
+* ![tar rcse]({filename}/iconfiles/thumbtar.png) Source (tarball): [rcse-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-1.9.1.tar.gz/download)
+* ![zip rcse]({filename}/iconfiles/thumbzip.png) Source (zip): [rcse-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-1.9.1.zip/download)
+
+
+
+### ![Icon]({filename}/iconfiles/thumbubuntu.png)  Ubuntu 19.04
+
+    :::bash
+    sudo add-apt-repository ppa:rolisteam/ppa
+    sudo apt-get update
+    sudo apt-get upgrade
+    sudo apt-get install rolisteam rcse
+
+### Arch Linux
+[https://aur.archlinux.org/packages/rolisteam/](https://aur.archlinux.org/packages/rolisteam/)
+
+### How To Compile and Install Rolisteam on Linux:
+See documentation [Compilation on Linux](http://wiki.rolisteam.org/index.php/CompilationLinux)
+Please pay attention that Rolisteam needs **Qt5.12** or higher.
+
 ### v1.9.0 - Released on 05/10/2019 - code name: Ostro
 
 We are glad to announce the release of Rolisteam v1.9.0.
