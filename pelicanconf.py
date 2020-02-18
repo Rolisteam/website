@@ -15,7 +15,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-GITHUB_URL = "https://github.com/Rolisteam/rolisteam"
+GITHUB_URL = "https://invent.kde.org/kde/rolisteam"
 
 THEME = "/home/renaud/www/pelican-themes/rolisteam_theme"
 #bootstrap*
@@ -57,7 +57,7 @@ LINKS = (('News', '/blog/index.html'),
          ('Connection Test', '/testip.html'),)
 
 # Social widget
-SOCIAL = (('Github', 'http://github.com/Rolisteam'),
+SOCIAL = (('KDE', 'https://invent.kde.org/kde/rolisteam'),
           ('Facebook', 'https://www.facebook.com/rolisteam'),
           ('Youtube', 'https://youtube.com/c/RolisteamYT'),
           ('Twitter', 'https://twitter.com/rolisteam'),
@@ -94,7 +94,7 @@ MENUITEMS = (
 )
 #THEME_STATIC_PATHS (['static'])
 
-PLUGINS = ['i18n_subsites',]
+#PLUGINS = ['i18n_subsites',]
 I18N_SUBSITES = {
 'fr': {
         'SITENAME': 'Rolisteam',
