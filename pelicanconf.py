@@ -54,7 +54,8 @@ LINKS = (('News', '/blog/index.html'),
          ('Roll on Discord', '/discord.html'),
          ('Roll on twitter', '/twitter.html'),
          ('Friends', '/friends.html'),
-         ('Connection Test', '/testip.html'),)
+         ('Connection Test', '/testip.html'),
+         ('Convert CharacterSheet', '/convertsheet.html'),)
 
 # Social widget
 SOCIAL = (('KDE', 'https://invent.kde.org/kde/rolisteam'),
