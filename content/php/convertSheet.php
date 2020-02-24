@@ -269,6 +269,19 @@ function main()
   $ModeEdition_MINIMAL = 1;
   $ModeEdition_COMPLETE = 2;
 
+  $UPLOAD_ERR_INI_SIZE=1;
+
+    if($_FILES['source']["error"]==$UPLOAD_ERR_INI_SIZE)
+    {
+      echo "Error: your file is too big for this server";
+      return;
+    }
+    else if($_FILES['source']["error"] !== 0)
+    {
+      echo "Upload Error: something went wrong with your sheet";
+      return;
+    }
+
     $mode=$_POST['complete']=="checked" ? $ModeEdition_COMPLETE : $ModeEdition_MINIMAL;
     $inputFile=$_FILES['source']['tmp_name'];
     $outputFile=str_replace(".rcs",'_fixed.rcs',$_FILES['source']['name']);
@@ -306,7 +319,7 @@ if(!empty($_POST['convert']))
 <header>
 </header>
 <body>
-  <p>This tool offers you a simple way to convert Charactersheet from Rolisteam v1.8 to the new 1.9 standard.</p>
+  <p></p>
   <form method="post" action="" enctype="multipart/form-data">
     <input type="file" value="" id="source" name="source"/><br/>
     <label for="complete">Use 1.9 style:</label><input type="checkbox" id="complete" name="complete" value="checked"/><br/>
