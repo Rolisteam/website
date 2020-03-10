@@ -17,7 +17,7 @@ DEFAULT_LANG = u'en'
 
 GITHUB_URL = "https://invent.kde.org/kde/rolisteam"
 
-THEME = "/home/renaud/www/pelican-themes/rolisteam_theme"
+THEME = "theme"
 #bootstrap*
 #bricks* red to blue
 # Flex
@@ -99,7 +99,7 @@ MENUITEMS = (
 I18N_SUBSITES = {
 'fr': {
         'SITENAME': 'Rolisteam',
-		'THEME' : '/home/renaud/www/pelican-themes/rolisteam_theme',
+		'THEME' : 'theme',
 		'LINKS' : (('Actualités','blog/index.html'),('Captures', 'screenshots.html'),('Tutoriaux', 'tutoriallist.html'),('Contact', 'contact.html'),('Références', 'references.html'),('Dés dans Discord', 'discord.html'),('Dés dans twitter', 'twitter.html'),('Partenaires', 'friends.html'))
        }
 }
