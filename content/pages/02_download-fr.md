@@ -17,6 +17,17 @@ lang: fr
 * ![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.2-MacOsX.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam_v1.9.2_MacOs.dmg/download)
 * ![MacOs RCSE]({static}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse_v1.9.2_MacOs.dmg/download)
 
+
+## Homebrew
+
+Vous pouvez installer Rolisteam et RCSE avec Homebrew cask, en utilisant les commandes ci-dessous:
+
+```shell
+brew cask install rolistream
+brew cask install rcse
+```
+
+
 ### Linux
 
 Votre distribution propose peut-être des paquets de **Rolisteam**. Utilisez les s'ils existent.

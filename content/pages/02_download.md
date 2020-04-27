@@ -33,6 +33,15 @@ We are glad to announce the release of Rolisteam v1.9.2.
 * ![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X:  [rolisteam_v1.9.2_MacOs.dmg](https://sourceforge.net/projects/rolisteam/files/1.9.2/rolisteam_v1.9.2_MacOs.dmg/download)
 * ![MacOs RCSE]({static}/iconfiles/thumbapple.png) Mac Os X:  [rcse_v1.9.2_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse_v1.9.2_MacOs.dmg/download)
 
+## Homebrew
+
+You can install rolistream and rsce with Homebrew cask, using the commands below:
+
+```shell
+brew cask install rolistream
+brew cask install rcse
+```
+
 #### Linux
 
 * ![linux]({static}/iconfiles/thumblinux.png) RCSE - AppImage: [rcse-v1.9.2-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-v1.9.2-x86_64.AppImage/download)
