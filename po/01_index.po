@@ -1,0 +1,110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpsai8o_5u.md:0
+msgid ""
+"Rolisteam is a virtual tabletop software. It helps you to manage tabletop "
+"role playing games with remote friends/players. \n"
+"It provides many features to share maps, pictures and it also includes tool "
+"to communicate with your friends/players. \n"
+"The goal is to make Rolisteam-managed RPG games as good as RPG games around "
+"your table. \n"
+"To achieve it, we are working hard to provide you more and more features. "
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:2
+msgid "Features"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:5
+#: /tmp/tmpsai8o_5u.md:23
+msgid "Character Sheet"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:8
+msgid "Music player"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:11
+msgid "Drawing tool (to draw map on the fly)."
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:14
+msgid "Vectorial Map"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:17
+msgid "Name Generator"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:20
+msgid "Unit Converter"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:26
+msgid "Rich text Editor."
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:29
+msgid "Dice rolling"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:32
+msgid "secret Dice rolling"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:35
+msgid "Share pictures"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:38
+msgid "Share maps"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:41
+msgid "Fog of war on maps"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:44
+msgid "Playable Character or Player identity (in chat)"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:47
+msgid "PC and NPC positioning on map."
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:50
+msgid "One to One/Many/All Chat communication"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:53
+msgid "Client/Server architecture."
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:56
+msgid "And many others..."
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:60
+msgid "Rolisteam's Fairy tale:"
+msgstr ""
+
+#: /tmp/tmpsai8o_5u.md:61
+msgid ""
+"Once upon a time, a man wants to play role playing game with his remote "
+"friends. \n"
+"He left a message in the ubuntu french forum asking help for porting Qt "
+"software to Linux. \n"
+"More details available "
+"[here](http://forum.ubuntu-fr.org/viewtopic.php?id=185333&p=1) (french) "
+msgstr ""

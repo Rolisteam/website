@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpw3pjeehn.md:0
+msgid "It is really easy to use.   "
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:2
+msgid "![images]({static}/images/diceParserOnDiscord.png)"
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:4
+msgid "How to install"
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:5
+msgid ""
+"Just follow this link  \n"
+"[https://discordapp.com/oauth2/authorize?&client_id=279722369260453888&"
+"scope=bot&permissions=0](https://discordapp.com/oauth2/authorize?&client_"
+"id=279722369260453888&scope=bot&permissions=0)  "
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:7
+msgid ""
+"The link will prompt you to authorize the bot on a server. Once the bot's "
+"authorized, you'll see it in the Member List. In a public channel just type "
+"any of the commands outlined below and the bot will answer with a dice roll."
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:9
+msgid "Run Command"
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:10
+msgid ""
+"To run command, you have to send message with ! as first character (just "
+"like Rolisteam).  \n"
+"Example: this is how you can roll two 6-slided dice. "
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:12
+msgid ""
+":::bash\n"
+"!2d6"
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:13
+msgid "Links"
+msgstr ""
+
+#: /tmp/tmpw3pjeehn.md:14
+msgid ""
+"Complete Documentation about [Dice "
+"Commands](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe.md)  \n"
+"[Project Page](https://github.com/Rolisteam/DiceDiscordBot)  "
+msgstr ""

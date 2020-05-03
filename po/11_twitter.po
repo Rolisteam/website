@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpu5zq1gkf.md:0
+msgid ""
+"It is really easy to use. You just have to start your message by #roll "
+"followed by the dice command."
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:2
+msgid "First Example"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:3
+msgid ""
+"<blockquote class=\"twitter-tweet\" data-lang=\"fr\"><p lang=\"en\" "
+"dir=\"ltr\">32, details:[5d10 (3 8 10 5 6)], powered by <a "
+"href=\"https://twitter.com/Rolisteam\">@Rolisteam</a></p>&mdash; Dice "
+"Parser (@DiceParser) <a "
+"href=\"https://twitter.com/DiceParser/status/812087351233089539\">23 "
+"décembre 2016</a></blockquote>"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:5
+#: /tmp/tmpu5zq1gkf.md:10
+msgid ""
+"<script async src=\"//platform.twitter.com/widgets.js\" "
+"charset=\"utf-8\"></script>"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:7
+msgid "Other Example"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:8
+msgid ""
+"<blockquote class=\"twitter-tweet\" data-lang=\"fr\"><p lang=\"en\" "
+"dir=\"ltr\">1775, details:[40d100 (28 40 30 16 29 67 39 57 50 51 31 16 80 6 "
+"36 45 41 44 42 99 19 21 15 78 67 60 13 16 91 80 80 38 23 55 68 8 58 23 67 "
+"48</p>&mdash; Dice Parser (@DiceParser) <a "
+"href=\"https://twitter.com/DiceParser/status/812233281420849152\">23 "
+"décembre 2016</a></blockquote>"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:12
+msgid "Roll dice from direct message"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:13
+msgid ""
+"Just contact [@DiceParser](https://twitter.com/DiceParser) directly.\n"
+"The system is triggered by two keywords: #roll or !\n"
+"Examples: "
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:15
+msgid ""
+"   #roll 2d6\n"
+"   !2d6"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:17
+msgid "Links"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:18
+msgid ""
+"You can have a complete documentation about how to roll dice:\n"
+"[Documentation](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe."
+"md)"
+msgstr ""
+
+#: /tmp/tmpu5zq1gkf.md:20
+msgid ""
+"If you are interested by the source code of the bot:\n"
+"[Source code](https://github.com/obiwankennedy/TwitterBot)"
+msgstr ""

@@ -1,0 +1,89 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmph800iwqy.md:0
+msgid ""
+"Rolisteam contrubors are welcomed to pursuit these goals. \n"
+"You may take part in different level to well-fit your goals and skills."
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:2
+msgid "Development"
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:3
+msgid ""
+"Rolisteam is an open source project licenced \n"
+"under the GNU GPL. All code is written in C++  \n"
+"and it is based on Qt framework. "
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:5
+msgid ""
+"If you want to take part in rolisteam development, clone rolisteam source "
+"code at:"
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:7
+msgid "[Github.com](http://github.com/Rolisteam/rolisteam)"
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:9
+msgid "Documentation"
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:10
+msgid ""
+"The documentation can be improved in different ways.\n"
+"You may contribute to the official wiki. "
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:12
+msgid ""
+"You are also invited to write tutorials and articles on Rolisteam in your "
+"blog or web site.\n"
+"Don't hesitate to come to us, we will be glad to share your article with "
+"the rest of Rolisteam Community."
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:14
+msgid "Translation"
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:15
+msgid ""
+"A huge effort has been made on Rolisteam to offer translation of the "
+"software. \n"
+"The main way to take part of the translation is to create an account at "
+"transflex.com and ask to be member of rolisteam project."
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:17
+msgid "[Transifex](https://www.transifex.com/projects/p/rolisteam/)"
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:19
+msgid ""
+"Don't forget that it is important for the project to translate the "
+"documentation too."
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:21
+msgid "Sponsors"
+msgstr ""
+
+#: /tmp/tmph800iwqy.md:22
+msgid ""
+"You can help us [here](https://liberapay.com/rolisteam/donate). Thank of "
+"that support, we will be able to get more translation and many other things."
+msgstr ""

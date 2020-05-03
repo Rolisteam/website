@@ -1,0 +1,88 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpexgt7z1t.md:0
+msgid "Releases announcement (fr)"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:3
+msgid "Version 1.0 : https://linuxfr.org//2009/12/23/26284.html"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:6
+msgid "version 1.0.1: https://linuxfr.org//~obiwankennedy/29383.html"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:9
+msgid "version 1.0.2: https://linuxfr.org//~obiwankennedy/30389.html"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:12
+msgid "version 1.7.1: http://linuxfr.org/news/sortie-de-la-version-1-7-de-rolisteam"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:16
+msgid "Tutorial (fr)"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:19
+msgid "http://www.infinite-rpg.fr/tutoriel-rolisteam/"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:23
+msgid "Forum (fr)"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:26
+msgid "http://www.atlas-polaris.com/forum/index.php?topic=176.0"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:29
+msgid ""
+"http://jdrvirtuel.azureforum.com/t4746p45-projet-rolisteam-la-suite-de-"
+"rolistik"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:32
+msgid "http://forum.canardpc.com/showthread.php?t=48510"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:35
+msgid "http://qtfr.org/viewtopic.php?id=10392"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:39
+msgid "Press (fr)"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:42
+msgid ""
+"*«Rolisteam, c'est mon rêve de jeunesse devenu réalité.»* (Rolisteam, it's "
+"my yourth's dream come true.)"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:45
+msgid "Canard Pc n°224, page 48."
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:48
+msgid "Interview on [Radio Roliste](http://www.radio-roliste.net/?p=1043)"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:52
+msgid "Starting point (fr)"
+msgstr ""
+
+#: /tmp/tmpexgt7z1t.md:55
+msgid "http://forum.ubuntu-fr.org/viewtopic.php?id=185333&p=1"
+msgstr ""

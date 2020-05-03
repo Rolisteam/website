@@ -1,0 +1,22 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpa5areswt.md:0
+msgid ""
+"[![Opale "
+"Roliste]({static}/images/banniere.gif)](http://forum.opale-roliste.com/)  \n"
+"[![Jdr "
+"virtuel]({static}/images/site_logo.png)](https://www.jdrvirtuel.com/)   \n"
+"[![infinite "
+"RPG]({static}/images/logo-infinite-web.png)](https://www.infinite-rpg.fr/)  "
+msgstr ""

@@ -1,0 +1,38 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpmym5mepf.md:2
+msgid "Rolisteam official [forum](http://forum.rolisteam.org/)"
+msgstr ""
+
+#: /tmp/tmpmym5mepf.md:5
+msgid "[Contact form](/contact-form.html)"
+msgstr ""
+
+#: /tmp/tmpmym5mepf.md:8
+msgid "[Mailing list](https://mail.kde.org/mailman/listinfo/rolisteam)"
+msgstr ""
+
+#: /tmp/tmpmym5mepf.md:11
+msgid ""
+"[Report bug or ask for "
+"enhancement](https://github.com/Rolisteam/rolisteam/issues)"
+msgstr ""
+
+#: /tmp/tmpmym5mepf.md:14
+msgid "[Facebook page](https://www.facebook.com/rolisteam)"
+msgstr ""
+
+#: /tmp/tmpmym5mepf.md:17
+msgid "[Discord](https://discord.gg/MrMrQwX)"
+msgstr ""

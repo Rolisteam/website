@@ -1,0 +1,35 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpfdg7sz3j.md:1
+msgid "change color of tab head (only the selected)"
+msgstr ""
+
+#: /tmp/tmpfdg7sz3j.md:2
+msgid ""
+"QTabBar::tab:selected {\n"
+" background: #FFA500;\n"
+"}"
+msgstr ""
+
+#: /tmp/tmpfdg7sz3j.md:4
+msgid "change border color of tab head (only the selected)"
+msgstr ""
+
+#: /tmp/tmpfdg7sz3j.md:5
+msgid ""
+"QTabBar::tab:selected {\n"
+"    border-color: #9B9B9B;\n"
+"    border-bottom-color: #C2C7CB; /* same as pane color */\n"
+"}"
+msgstr ""

@@ -1,0 +1,68 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmp69wlmf4l.md:0
+msgid "Create Npc Token"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:1
+msgid "General data"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:2
+msgid "Actions"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:3
+#: /tmp/tmp69wlmf4l.md:14
+msgid "Shapes"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:4
+msgid "Properties"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:5
+msgid "Load Token on Vectorial Map"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:6
+msgid ""
+"Loading `rtok` file into vectorial map is very easy. Just drag and drop the "
+"rtok file from your system file browser to the vectorial.\n"
+"`rtok` does not work on old rolisteam maps."
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:8
+msgid "Change Health value"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:9
+msgid ""
+"When the rtok is loaded, it appears on the vectorial map and it is listed "
+"inside the player/character list as a character of the localplayer (the "
+"player who add them)."
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:11
+msgid "Use initiative"
+msgstr ""
+
+#: /tmp/tmp69wlmf4l.md:12
+msgid ""
+"**Initiative** can be rolled from the vectorial map contextual menu.\n"
+"When character has initiative score it appears on the left-top corner of "
+"the token.\n"
+"It is possible to unset the score (e.g at the end of the fight), or to hide "
+"them (`menu > view > map > show/hide initiative`)"
+msgstr ""

@@ -1,0 +1,1414 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpz6m6l9ck.md:0
+msgid "![images]({static}/images/logo_rolisteam.png)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:2
+msgid ""
+"**Rolisteam** is a **free virtual table software**. Pen and paper Role "
+"playing games are traditionnaly made around table. Virtual table software "
+"seems to be the right solution to overcome real life difficulties."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:4
+msgid ""
+"It is also multiplatform software (Windows, MacOS and Linux). Download it "
+"here : "
+"[http://www.rolisteam.org/download](http://www.rolisteam.org/download) \n"
+"then install it on your computer. **Rolisteam** provides many features to "
+"live a better game experience (such as : maps, images, dice roller, "
+"charactersheet, background music). "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:6
+msgid ""
+"**Rolisteam** is available in several languages: english, french, spanish, "
+"german, portuguese, hungrian, dutch, romanian and partially in turkish."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:8
+msgid ""
+"Now, Let's explain how to use **Rolisteam**. Many screenshots illustrate "
+"this tutorial to make it funnier and easier to understand."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:10
+msgid "#I – Start and Settings"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:12
+msgid ""
+"On start, Rolisteam appears and above it there is the *connection panel*. "
+"This panel allows you to add and set connection profile. You must set "
+"correct values to ensure the connection establishement. \n"
+"\"Player\" profile requires definition of player's character as well. \n"
+"This panel may store several connection profile."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:14
+msgid "![images]({static}/images/tuto/04_connexion_mj_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:16
+msgid ""
+"Change the default profile or create another one. We recommand to set a "
+"meaningful name. It makes it easier.  \n"
+"For example, I use to play as GM on Wednesday and as player on Monday, "
+"names of my profiles are: Game on Monday, Game on Wednesday."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:18
+msgid "There are four connection mode in **Rolisteam**: "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:22
+msgid "Host and GM"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:25
+msgid "Client and GM"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:28
+msgid "Host and Player"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:31
+msgid "Client and Player"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:35
+msgid ""
+"**GMs** (Game Masters) have more control and power over **Rolisteam** than "
+"**players**. They can add maps or images. They control background music and "
+"many more stuff."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:37
+msgid ""
+"The differences between **host** and **client** may appear not really "
+"obvious. Hosting the game means that all game players must connect to you.\n"
+"If the hosting **Rolisteam** is closed, everybody will be disconnected from "
+"the game."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:39
+msgid "Game Master or Player"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:40
+msgid ""
+"The *Player* area is dedicated to describe yourself. You have to pick up "
+"(nick)name (it will appears to other players) and select a color. For a "
+"better game experience, it is better than all players chose a very "
+"different color."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:42
+msgid ""
+"The last thing is a checkbox \"**I am the game master**\". Check it only if "
+"you are the GM, obviously. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:44
+msgid ""
+"If you are a player, the connection panel allows you to describe your "
+"character thinks of the \"**Character**\" zone.\n"
+"It is displayed only when you are not the **game master**. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:46
+msgid ""
+"You must set the character name, color and avatar. It is recommanded to use "
+"square image as avatar (for better good looking on vectorial maps)."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:48
+msgid "Host or Client"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:49
+msgid "Host"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:50
+msgid ""
+"If you host the game, the server must be on your side. You don't need to "
+"set an address. You must pick up a port and check \"**Host the game**\".\n"
+"When you are confident about your connection profile, you must click on "
+"\"**Connect**\". If everything goes right, the connection profile dialog "
+"disappears and let you access to the main application window."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:52
+msgid ""
+"In the notification area (Top right corner), there is a reminder of "
+"connection information you should give to other game participants. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:54
+msgid "![images]({static}/images/tuto/14_notification_zone_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:56
+msgid ""
+"As you can see, the address in our case is *194.250.98.228*, and the port "
+"is *6661*. By default, **Rolisteam** use the port *6660*. You can change it "
+"as you want but please avoid port number used by another service.  "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:58
+msgid ""
+"Chose the host carefully, bandwidth and stability are the main two "
+"criteria.   \n"
+"Game experience will be better. DSL line is enough and do the job "
+"perfectly. Keep in mind, the host must stay until the end of game. Everyone "
+"will be disconnected if the host is off. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:60
+msgid "Client"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:61
+msgid ""
+"If you connect as client, you need an address and port number to join the "
+"game. Rolisteam can access IP address  (example: *194.250.98.228*), or "
+"domain namee (rolisteam.org, games.foo.com). The host must give you those "
+"information."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:63
+msgid "Uncheck the \"host the game\" checkbox. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:65
+msgid ""
+"Then you are all set. Click on **Connection**. If it goes right, the "
+"connection dialog disappears and you have acces to the application."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:67
+msgid "First Start"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:68
+msgid "When the connection is set, you must see something like this."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:70
+msgid "![images]({static}/images/tuto/05_global_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:72
+msgid ""
+"Lets pay a visit to all panels to see which informations you can find in "
+"which panels."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:74
+msgid ""
+"On sides of the application, there are dockwidgets. You can move those "
+"dockwidgets, let them floating or group them. So you can group them to see "
+"important ones all the time. Others can be seen when you want/need by "
+"clicking on their tab.\n"
+"Of course, those dockwidget can be closed (the cross on the top right "
+"corner). You can hide/show dockwidget thanks of the **subwindow** menu."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:76
+msgid "![images]({static}/images/tuto/09_menu_fenetre_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:78
+msgid "Check Connection Status"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:79
+msgid ""
+"To know at any time you connection status, just look at the title bar of "
+"**rolisteam**.  \n"
+"There are in that order: current story name, software version, Connection "
+"status «**connected**» or «**disconnected**», connection type ( **client** "
+"or **server**) and the application's name **Rolisteam**."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:81
+msgid "![images]({static}/images/tuto/30_window_title_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:83
+msgid "Notification Area"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:84
+msgid ""
+"As you have seen, the notification area is useful when hosting the game. It "
+"gives you all information you need to send to other players.  \n"
+"This panel have more features than that. \n"
+"All events on the network are logged inside it. \n"
+"So you can see new incoming connection or player's disconnection. \n"
+"It provides progressbar for long (receiving) transfert.   "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:86
+#: /tmp/tmpz6m6l9ck.md:117
+msgid "Instant messaging"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:87
+msgid ""
+"This area lists all instant messaging windows. By default, **Rolisteam** "
+"sets global messaging (to everyone) and point-to-point connection to each "
+"other players."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:89
+msgid "![images]({static}/images/tuto/02_ChatList_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:91
+msgid ""
+"You can create chat window and set it with all/one/many/no players. You can "
+"talk about your next tactic. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:93
+#: /tmp/tmpz6m6l9ck.md:129
+msgid "![images]({static}/images/tuto/15_nouveauChat_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:95
+msgid "Players list"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:96
+msgid ""
+"This panel displays all connected players and theirs characters. You can "
+"expand or collapse the character lists for each player. Character's avatars "
+"can been seen here.   \n"
+"This panel is very important when you are using maps in **Rolisteam**. We "
+"talk about it below in this document."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:98
+msgid "![images]({static}/images/tuto/18_playerlist_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:100
+msgid "Audio Players"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:101
+msgid ""
+"**Rolisteam** has three audio players to manage three tracks at the same "
+"time.  \n"
+"You may hide them if you need fewer audio players or more space."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:103
+msgid "![images]({static}/images/tuto/24_music_player_en.jpg) "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:105
+msgid ""
+"All commands are available through contecxtual menu (right-click).   \n"
+"You may load playlist, audio files or links to stream and remote files."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:107
+msgid "![images]({static}/images/tuto/27_music_contextual_menu_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:109
+msgid "Resources Manager"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:110
+msgid ""
+"The resources manager keeps track of all files you have opened in "
+"rolisteam. It provides a way to re-open them really quickly. \n"
+"You may sort files into folders. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:112
+msgid "![images]({static}/images/tuto/23_resources_browser_en.jpg) "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:114
+msgid "Play with Rolisteam"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:115
+msgid ""
+"Now, you know each panel of **rolisteam**. We will focus on features and "
+"how to use them."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:118
+msgid ""
+"To open chat messaging, nothing simpler, you have to check chat you want. "
+"It is useful to open «**global**». You can discuss with all other players. \n"
+"You can discuss only with one other players."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:120
+msgid "![images]({static}/images/tuto/02_ChatList_en.jpg) "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:122
+msgid "If chat name are blinking from green to red, it means you received message."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:124
+msgid "You may add new chat with whoever or when you want."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:126
+msgid "Add new chat"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:127
+msgid "On the bottom, there is a button to *add new chat*."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:131
+msgid ""
+"Chat has name, owner and participating player lists.\n"
+"The owner is automatically set. You can chose all the other parameters."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:133
+msgid "Just click on \"Ok\" to validate."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:135
+msgid "What can we do in chatwindow ?"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:136
+msgid ""
+"The main feature is obviously to send messages to other players.\n"
+"You can be identified as yourself or as your character.\n"
+"It is usefull to split in game talking and ooc talkings.  "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:138
+msgid "**Rolisteam** convert all http address to clickable link.  "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:140
+msgid ""
+"You can describe your character action with the command **/me** followed by "
+"the action description.  \n"
+"_Exemple_:  \n"
+"**/me** draws her sword and adopts a defensive stance!"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:142
+msgid "It appears like this:"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:144
+msgid "![images]({static}/images/tuto/25_tchat_commun_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:146
+msgid ""
+"You can easily resend messages thanks to message history. Just press "
+"```up``` and ```bottom``` to navigate inside the history and then press "
+"```Enter``` to resend the selected message."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:148
+msgid "Contextual menu reachable features"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:149
+msgid "![images]({static}/images/tuto/08_menu_chat_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:151
+msgid "Chat windows have 3 contextual menu reachable features:"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:155
+msgid "You can change the background color of chat window. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:158
+msgid ""
+"Chat windows can be put out of **Rolisteam**. It provides a better control "
+"of the workspace. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:161
+msgid "You can display timestamp on message reception. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:165
+msgid "Roll some dice"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:166
+msgid ""
+"Chat window is also where you can roll dice by sending commands. \n"
+"**Rolisteam** embeds a powerful engine based on generic operator.  \n"
+"Those operators can be combined to make computation in repect with game "
+"mechanism to give you final answer easy to read.\n"
+"To roll one die with 6 slides, the command is: **!1d6**"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:168
+msgid ""
+"The exclamation mark is important, It marks the beginning of dice command "
+"but it can be replaced by some other characters.  \n"
+"**&** marks a secret command. Only you can see the result.  \n"
+"**#** send command to the GM (and only him/her)."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:172
+msgid "&2d6"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:175
+msgid "#2d6"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:179
+msgid "**Rolisteam** can roll any kinds of dice."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:183
+msgid "Roll die between 0 and 9 : !1d[0-9]"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:186
+msgid "Roll 20 dice with 100 slides : !20d100"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:189
+msgid "Roll die and add 4 to the die result : !1d20+4"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:192
+msgid ""
+"Roll four dice and the result defines how many dice with 10 slides it will "
+"roll: !(4d6)d10"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:195
+msgid ""
+"Roll 6 dice with 10 slides, they explode on 10 and we keep the 3 best dice: "
+"!6d10e10k3"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:198
+msgid "Math expression: !5-5\\*5+5"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:202
+msgid "The result is always displayed in red for better readbility. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:204
+msgid ""
+"**Rolisteam** deals with many operators,  you can find complete list on "
+"this [web page](http://wiki.rolisteam.org/index.php/En:Dice). There are "
+"examples as well."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:206
+msgid "![images]({static}/images/tuto/31_dice_result_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:208
+msgid ""
+"To share/find game specific command, please go to [Rolisteam "
+"forum](http://forum.rolisteam.org)."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:210
+msgid "Dice Alias (or how to make your life easier)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:211
+msgid ""
+"Complex system may require complex and long command. The alias system is "
+"dedicated to help in this case. It provides a way to simplify commands. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:213
+msgid ""
+"Let see this example: !6d10e10k3  \n"
+"This command implements the Roll & Keep system from «Legend of the 5 "
+"rings».\n"
+"It is painful to write the command every time. A shorter command will be "
+"appreciated and more pratical.\n"
+"To do so, **Rolisteam** provides aliases. To write a clever alias, you have "
+"to think about few points.\n"
+"First, identify the changing part of the system.  \n"
+"Does the dice number change ?  \n"
+"Does the difficulty threshold change ?  \n"
+"etc.  "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:215
+msgid ""
+"Those are the questions you should ask yourself.   \n"
+"In our case, the rolled dice and kept dice change.\n"
+"So, you can define an alias in the preferences dialogs."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:217
+msgid ""
+"Alias: K => d10e10k  \n"
+"how to use it:   "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:221
+msgid "!6K3 = !6d10e10k3  "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:224
+msgid "!8K4 = !8d10e10k4  "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:228
+msgid ""
+"There are two kinds of alias:\n"
+"Alias by replace (like the previous example)\n"
+"Alias by regular expression.\n"
+"Please, take a look at the "
+"[documentation](http://wiki.rolisteam.org/index.php/en:preferences#) to get "
+"more information about aliases."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:230
+msgid "![images]({static}/images/tuto/00_alias_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:232
+msgid "Share Image"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:233
+msgid ""
+"Every one can share picture to all others. This picture appears on everyone "
+"screen. Each user may hide it by clicking on title bar. It can be shown "
+"again thanks of `Subwindow Menu`. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:235
+msgid ""
+"The GM or the picture  owner may close it definitivily (menu `file > close` "
+"or keyboard shortcut `Ctrl+Echap`). \n"
+"To share picture, you can do it through menu :  `File > Open > Image` or "
+"drag and drop on the main area. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:237
+msgid "It is also possible to share image from the internet. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:239
+msgid "Share image from the Internet"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:240
+msgid "It is really easy, just click on `File > Open > Online Image` "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:242
+msgid "![images]({static}/images/tuto/07_load_image_from_internet2_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:244
+msgid "Maps"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:245
+msgid ""
+"Since v1.8, **Rolisteam** provides two kinds of maps: Bipmap or vectorial. \n"
+"There are based on two different technologies and concepts. With \"bipmap\" "
+"map, items are painted on map. \n"
+"For vectorial map, items are \"drop\" on the map."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:247
+msgid "The GM is the only one to create and share map."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:249
+msgid "*bipmap* maps"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:250
+msgid ""
+"It is possible to add empty map. Empty map has size, permissions and "
+"background color.\n"
+"Alternatively, it is possible to open as background of map. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:252
+msgid "Empty map"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:253
+msgid ""
+"To open an empty map, just click on `file > new > Map` or just press "
+"`CTRL+M`. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:255
+msgid "![images]({static}/images/tuto/12_newMap_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:257
+msgid "**Rolisteam** asks you to define many map properties."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:261
+msgid "title"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:264
+msgid "background color"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:267
+msgid "size"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:270
+msgid "permission mode"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:273
+msgid "Format"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:277
+msgid ""
+"There are 3 permission modes: **No permission, Character and All "
+"permissions**. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:281
+msgid "\"No permission\" means only the game master may modify the map."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:284
+msgid "\"Character\" allows players to move their character token. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:287
+msgid "\"All permissions gives Game Master rights to all players."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:291
+msgid "Map with image as background"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:292
+msgid ""
+"Open image as map background, you just have to click on ```File > Open > "
+"Map```"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:294
+msgid "![images]({static}/images/tuto/16_openMap_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:296
+msgid ""
+"This dialob box allows to select a background image. \n"
+"Alternatively, it is also possible to load map (.pla) from your computer. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:298
+msgid ""
+"Some map properties must/should be defined such title, Permission mode and "
+"visibility. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:300
+msgid ""
+"Check \"hidden\" if you want your map to appear cover with fog of war. You "
+"will reveil the map little by litthe to your players. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:302
+msgid "Amend map"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:303
+msgid ""
+"When the map is opened, you can paint on it. \n"
+"To do so, **Rolisteam** provides many painting tools. There are brough "
+"together in the map toolbox."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:305
+msgid "[comment]:<>![images]({static}/images/tuto/27_toolbox_thin_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:307
+msgid ""
+"<table>\n"
+"<tr>\n"
+"<td>\n"
+"<img src=\"/images/tuto/27_toolbox_thin_fr.jpg\" alt=\"images\"/>\n"
+"</td>\n"
+"<td>\n"
+"&nbsp;&nbsp;&nbsp;&nbsp;\n"
+"</td>\n"
+"<td>\n"
+"1. Current color <br/>\n"
+"2. Pre-defined colors <br/>\n"
+"3. Custom colors<br/>\n"
+"4. Erasing Color<br/>\n"
+"5. Fog of war color<br/>\n"
+"6. Erase fog of war color<br/>\n"
+"7. Pen<br/>\n"
+"8. Line<br/>\n"
+"9. Empty rectangle<br/>\n"
+"10. fulfilled Rectangle<br/>\n"
+"11. Empty Ellipse<br/>\n"
+"12. fulfilled Ellipse<br/>\n"
+"13. Text<br/>\n"
+"14. handle<br/>\n"
+"15. Text field<br/>\n"
+"16. Pen width<br/>\n"
+"17. Move Non playable character (NPC) <br/>\n"
+"18. Change state NPC<br/>\n"
+"19. Add NPC<br/>\n"
+"20. Remove NPC<br/>\n"
+"21. reset NPC count<br/>\n"
+"22. NPC name<br/>\n"
+"23. NPC size<br/>\n"
+"</td>\n"
+"</tr>\n"
+"</table>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:309
+msgid "Map FAQ"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:310
+msgid "1. I need more colors than pre-defined ones, how can I get more ?"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:311
+msgid ""
+"It is possible to double-click on the current color to pick a color thank "
+"of color selector dialog. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:313
+msgid "2. How can I changed character orientation ?"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:314
+msgid ""
+"When tools 17 or 18 are selected, it is possible with ```right-click``` to "
+"change orientation. A white mark appears to indicate where the character "
+"looks to. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:316
+msgid "3. How can I change character state ?"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:317
+msgid ""
+"Just select the tool 18 and click on character until you reach the proper "
+"state. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:321
+msgid "Black = Heathly"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:324
+msgid "Pink = hurt"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:327
+msgid "Red = wounded"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:330
+msgid "Gray = dead"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:333
+msgid "Blue = sleeping"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:336
+msgid "Green = bewitched"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:340
+msgid "4. What's the meaning of the handle ?"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:341
+msgid ""
+"You can catch the map and move it to display another part. It is very "
+"useful when you have small screen."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:343
+msgid "*vectorial* Map"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:344
+msgid ""
+"Vectorial map has been introduced in **Rolisteam** v1.8.  \n"
+"It's a huge change and it will be too long to describe in details all the "
+"possibilities.  \n"
+"In this tutorial, you may find usual feature descriptions to draw map. It "
+"is recommended to train yourself at least once or twice before use this "
+"feature in game.  \n"
+"It may be confusing to discover feature behavior while you are playing.\n"
+"Another tutorial will be written to details all possibilities about "
+"vectorial maps.  \n"
+"If you need more information about vectorial map, please go to the "
+"[documentation](http://wiki.rolisteam.org/index.php/En:vMaps)."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:346
+msgid "Add vectorial map"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:347
+msgid ""
+"To create an empty vectorial map, please go to the menu `File > new > "
+"vectorial map` or directly `CTRL+V`. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:349
+msgid "![images]({static}/images/tuto/13_newVMap_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:351
+msgid "**Rolisteam** asks values for some vectorial map properties. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:355
+msgid "Title"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:358
+msgid "Background color"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:361
+msgid "Permission mode"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:364
+msgid "Visibility mode"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:367
+msgid "Grid's shape"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:371
+msgid ""
+"When all items are set, just click on `OK` to make appears the vectorial "
+"map.\n"
+"For your information, vectorial map has no size. The size is infinite. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:373
+msgid "Amend vectorial map"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:374
+msgid ""
+"When map has appeared, you can modify it. \n"
+"There are two kinds of modifications: visual or access."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:376
+msgid ""
+"First, All visual modifications can be performed thank of tools from "
+"toolbar or on the map itself."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:378
+msgid "[comment]:<>![images]({static}/images/tuto/28_toolbox_vmap_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:380
+msgid "<table>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:382
+msgid "<tr>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:384
+msgid ""
+"<td>\n"
+"<img src=\"/images/tuto/28_toolbox_vmap_fr.jpg\" alt=\"images\"/>\n"
+"</td>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:386
+msgid ""
+"<td>\n"
+"&nbsp;&nbsp;&nbsp;&nbsp;\n"
+"</td>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:388
+msgid "<td>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:392
+msgid "Current color<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:393
+#: /tmp/tmpz6m6l9ck.md:395
+#: /tmp/tmpz6m6l9ck.md:405
+#: /tmp/tmpz6m6l9ck.md:409
+#: /tmp/tmpz6m6l9ck.md:434
+#: /tmp/tmpz6m6l9ck.md:439
+#: /tmp/tmpz6m6l9ck.md:440
+#: /tmp/tmpz6m6l9ck.md:450
+#: /tmp/tmpz6m6l9ck.md:452
+msgid "<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:394
+msgid "Double-click on it to pick up color through color selector dialog.<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:398
+msgid "Color palette<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:401
+msgid "Brightness selecter<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:404
+msgid "Edit Mode<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:406
+msgid "In **Normal** mode, you can paint on the map .<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:407
+msgid ""
+"In **Masking** mode, you can hide parts from players. It adds fog of "
+"war.<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:408
+msgid ""
+"In **Unveil** mode, you remove parts from fog of war. (it does nothing if "
+"fog of war is not enabled)<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:412
+msgid "Pen<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:415
+msgid "Line<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:418
+msgid "Empty rectangle<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:421
+msgid "Fulfilled rectangle<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:424
+msgid "Empty ellipsee<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:427
+msgid "Fulfilled ellipse<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:430
+msgid "Text<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:433
+msgid "Handle<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:435
+msgid ""
+"This tool selects items and moves them. Rotation or change item size or "
+"shape are two possible actions<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:436
+msgid ""
+"To move items, just click on any item, keep pressing mouse button and just "
+"move the mouse (it is a drag and drop action).<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:437
+msgid "Modifying size or shape, you have to press `MAJ` and move handler.<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:438
+msgid ""
+"To select several items at once, just press `CTRL` and click on different "
+"elements.<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:443
+msgid "Rule<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:446
+msgid "Path<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:449
+msgid "Anchor<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:451
+msgid ""
+"Link (child) item to another (parent). Then, if you move the parent all his "
+"children will move as well.<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:455
+msgid "Pipette<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:458
+msgid "Pen width<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:461
+msgid "Add NPC<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:464
+msgid "Reset NPC counter<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:467
+msgid "NPC counter<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:470
+msgid "NPC name<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:473
+msgid "Opacoty of current item<br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:474
+msgid "</td>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:475
+msgid "</tr>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:476
+msgid "</table><br/>"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:480
+msgid "Interaction on map"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:481
+msgid ""
+"On the map, **Rolisteam** provides contextual menu. Through those menu, "
+"many actions can be run.\n"
+"The menu content depends on the current selection."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:483
+msgid ""
+"If you want to know about all features available from contextual menu, "
+"please read this [documentation "
+"page](http://wiki.rolisteam.org/index.php/En:vMaps#Menu_contextuel_.28"
+"clique-droit.29)."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:485
+msgid "Background music"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:486
+msgid "The GM can broadcast background music. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:488
+msgid "![images]({static}/images/tuto/01_backgroundMusic_en.jpg)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:490
+msgid ""
+"**Rolisteam** has 3 audio players. They are independant. \n"
+"Each player has  standard and expected features from audio player."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:492
+msgid ""
+"Control the playing state with ```Play```, ```Pause``` and ```Stop``` "
+"buttons.\n"
+"Audio players accept playing mode: Only one, One by one,  loop."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:496
+msgid "Only one mode plays the current song and stop at the end."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:499
+msgid ""
+"One by one mode plays the current song and then play the following song. It "
+"stops when it reaches the playlist's end."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:502
+msgid "loop mode plays the current file again and again."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:506
+msgid "Add music"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:507
+msgid ""
+"The button with ```+``` symbol is gathering all actions about adding file "
+"into the playlist.\n"
+"One click opens file selector dialog. \n"
+"One long click shows submenu with additionnal actions: "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:511
+msgid "Add song to playlist (defaut)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:514
+msgid "Open Playlist"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:517
+msgid "Load TableTopAudio.com playlist"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:520
+msgid "Add audio stream"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:524
+msgid "Remove Music"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:525
+msgid ""
+"The ```-``` button means to remove music from the playlist, long click "
+"shows the clear function which clear the playlist. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:527
+msgid "All of these functions are reachable from the contextual menu."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:529
+msgid "Audio files"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:530
+msgid ""
+"Due to legal issue, **Rolisteam** does not send audio data. It takes care "
+"of synchronizing audio players.\n"
+"If you can't put your files on the internet or to have an audio stream, you "
+"have to send files to your players.\n"
+"They have to store audio files in their computers.\n"
+"thanks of some cloud services, sharing and synchronizing directory has "
+"become really easy."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:532
+msgid "Alternatively, **TableTopAudio.com** playlist works like a charm. "
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:534
+msgid "Minutes Editor"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:535
+msgid ""
+"It could be useful to record all events about the game. To do so, "
+"**Rolisteam** embeds text editor to take minutes about the game: important "
+"NPC, evidences etc.\n"
+"Notes can be saved as **html**, **pdf** ou **.odt**."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:537
+msgid "Charactersheet"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:538
+msgid ""
+"Since v1.8, **Rolisteam** manages charactersheet. **Rolisteam** comes with "
+"**RCSE**: \"Rolisteam CharacterSheet Editor\".\n"
+"**RCSE** is the best compagnon when editing charactersheet."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:540
+msgid "Build your own sheet"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:541
+msgid "To create charactersheet, you have to follow several steps:"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:545
+msgid ""
+"Drag and drop background image for each page of the character sheet and "
+"save your work"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:548
+msgid "Draw field at the right position on each page and save your work"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:551
+msgid "Generate code and check the result on the \"view\" tab and save you work"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:554
+msgid ""
+"make modifications on fields (set label and other properties), return to "
+"step 3 until you reach the quality you want, save your work often."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:557
+msgid ""
+"On the character tab, add characters and set appropriate value to each "
+"field and save you work."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:560
+msgid "Load the result file in **Rolisteam** and share character with its player."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:564
+msgid "We will written Tutorial about how to make character sheet."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:566
+msgid "Using charactersheet into rolisteam"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:567
+msgid ""
+"Using charactersheet in **Rolisteam** is simple. The GM loads the character "
+"sheet (.rcs). \n"
+"Then, Gm must share charactersheet (right-click menu) to player's "
+"character. \n"
+"A player may have many characters. A character belongs to only one player. "
+"Character owns only one charactersheet."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:569
+msgid "Where I can find charactersheet"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:570
+msgid ""
+"We bring together all character sheets in one git repository, additionnaly, "
+"you can discuss about charactersheet on the forum."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:572
+msgid ""
+"[Charactersheet Git "
+"Repository](https://github.com/Rolisteam/rolisteam-character-sheets)\n"
+"[Topic Forum Officiel](http://forum.rolisteam.org/viewtopic.php?f=9&t=61)"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:574
+msgid "Session and story"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:575
+msgid ""
+"Scenario brings together all rolisteam supported media into one file. Maps, "
+"vectorial maps, images, charactersheet, playlists and minutes are stored "
+"inside the scenario. Other medias will come in the future."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:577
+msgid ""
+"Those documents are listed into the **resources manager**. This panel shows "
+"which document is currently part of you scenario. \n"
+"The state of each document is stored as well (Open, loaded and unloaded)."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:579
+msgid ""
+"It is important to understand the media workflow. The easiest example is an "
+"image. When you drag and drop an image into **Rolisteam**.\n"
+"Everyone sees it.\n"
+"The image is loaded and open. When you click on the cross on the corner of "
+"the window, the image disappears for you only.\n"
+"In this situation, the image is still loaded.\n"
+"To show it again, you can go on the subwindow menu."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:581
+msgid ""
+"To close it for everyone, you must go to ```File > Close (CTRL+ESC)```. "
+"File state is set to unloaded. however, the file appears into the resources "
+"manager as part of the scenario. You can move it into chapter for better "
+"lisibility. Or, you can remove it when it is unnecessary to keep it."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:583
+msgid "Conclusion"
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:584
+msgid ""
+"This tutorial is now over. Others will follow. \n"
+"I hope it was helpful. I only have to wish you good games with "
+"**Rolisteam**."
+msgstr ""
+
+#: /tmp/tmpz6m6l9ck.md:586
+msgid ""
+"[Edit on "
+"GitHub](https://github.com/Rolisteam/website/blob/master/content/pages/13_"
+"tutorial.md)"
+msgstr ""

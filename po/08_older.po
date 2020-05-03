@@ -1,0 +1,3268 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmp35n1vccl.md:0
+msgid "1.9.1 - Released on 05/10/2019 - code name: Bong"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1
+msgid "We are glad to announce the release of Rolisteam v1.9.1."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:3
+#: /tmp/tmp35n1vccl.md:97
+msgid "Localization:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:6
+#: /tmp/tmp35n1vccl.md:100
+#: /tmp/tmp35n1vccl.md:550
+msgid "French"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:9
+#: /tmp/tmp35n1vccl.md:103
+#: /tmp/tmp35n1vccl.md:553
+msgid "English"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:12
+#: /tmp/tmp35n1vccl.md:106
+#: /tmp/tmp35n1vccl.md:568
+msgid "Spanish"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:15
+#: /tmp/tmp35n1vccl.md:109
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:18
+#: /tmp/tmp35n1vccl.md:112
+msgid "Romanian"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:21
+#: /tmp/tmp35n1vccl.md:115
+msgid "Hungarian"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:24
+#: /tmp/tmp35n1vccl.md:118
+#: /tmp/tmp35n1vccl.md:562
+#: /tmp/tmp35n1vccl.md:751
+msgid "German"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:27
+#: /tmp/tmp35n1vccl.md:121
+msgid "Catalan"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:30
+#: /tmp/tmp35n1vccl.md:124
+msgid "Italian"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:33
+#: /tmp/tmp35n1vccl.md:127
+#: /tmp/tmp35n1vccl.md:574
+msgid "Dutch (partial)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:36
+#: /tmp/tmp35n1vccl.md:130
+msgid "Turkish (partiel)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:40
+#: /tmp/tmp35n1vccl.md:134
+#: /tmp/tmp35n1vccl.md:187
+#: /tmp/tmp35n1vccl.md:316
+#: /tmp/tmp35n1vccl.md:361
+#: /tmp/tmp35n1vccl.md:601
+#: /tmp/tmp35n1vccl.md:644
+#: /tmp/tmp35n1vccl.md:788
+#: /tmp/tmp35n1vccl.md:1021
+#: /tmp/tmp35n1vccl.md:1545
+#: /tmp/tmp35n1vccl.md:1577
+#: /tmp/tmp35n1vccl.md:1608
+#: /tmp/tmp35n1vccl.md:1975
+#: /tmp/tmp35n1vccl.md:2078
+#: /tmp/tmp35n1vccl.md:2115
+msgid "Packages"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:41
+#: /tmp/tmp35n1vccl.md:135
+msgid "Windows"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:44
+msgid ""
+"![windows]({static}/iconfiles/thumbWinodw.png) Windows: "
+"[Rolisteam-1.9.1-setup.exe](https://sourceforge.net/projects/rolisteam/"
+"files/1.9.1/Rolisteam-1.9.1-setup.exe/download) (including rcse)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:48
+#: /tmp/tmp35n1vccl.md:142
+msgid "MacOS"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:51
+msgid ""
+"![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rolisteam_v1.9.1_MacOs.dmg](https://sourceforge.net/projects/rolisteam/"
+"files/1.9.1/rolisteam_v1.9.1_MacOs.dmg/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:54
+msgid ""
+"![MacOs RCSE]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rcse_v1.9.1_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9."
+"1/rcse_v1.9.1_MacOs.dmg/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:58
+#: /tmp/tmp35n1vccl.md:152
+msgid "Linux"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:61
+msgid ""
+"![linux]({static}/iconfiles/thumblinux.png) RCSE - AppImage: "
+"[rcse-v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/"
+"files/1.9.1/rcse-v1.9.1-x86_64.AppImage/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:64
+msgid ""
+"![linux]({static}/iconfiles/thumblinux.png) Rolisteam - AppImage: "
+"[Rolisteam_v1.9.1-x86_64.AppImage](http://sourceforge.net/projects/"
+"rolisteam/files/1.9.1/Rolisteam_1.9.1-x86_64.AppImage/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:68
+#: /tmp/tmp35n1vccl.md:162
+msgid "Those appimages have been made on Ubuntu 18.04 LTS."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:70
+#: /tmp/tmp35n1vccl.md:164
+msgid "Source"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:73
+msgid ""
+"![tar rolisteam]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rolisteam-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9"
+".1/rolisteam-1.9.1.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:76
+msgid ""
+"![zip rolisteam]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rolisteam-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/"
+"rolisteam-1.9.1.zip/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:79
+msgid ""
+"![tar rcse]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rcse-1.9.1.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.1/"
+"rcse-1.9.1.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:82
+msgid ""
+"![zip rcse]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rcse-1.9.1.zip](http://sourceforge.net/projects/rolisteam/files/1.9.1/rcse-"
+"1.9.1.zip/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:86
+msgid "![Icon]({static}/iconfiles/thumbubuntu.png)  Ubuntu 19.04"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:87
+#: /tmp/tmp35n1vccl.md:216
+#: /tmp/tmp35n1vccl.md:389
+msgid ""
+":::bash\n"
+"sudo add-apt-repository ppa:rolisteam/ppa\n"
+"sudo apt-get update\n"
+"sudo apt-get upgrade\n"
+"sudo apt-get install rolisteam rcse"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:88
+#: /tmp/tmp35n1vccl.md:217
+msgid "Arch Linux"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:89
+#: /tmp/tmp35n1vccl.md:218
+msgid ""
+"[https://aur.archlinux.org/packages/rolisteam/](https://aur.archlinux.org/"
+"packages/rolisteam/)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:91
+msgid "How To Compile and Install Rolisteam on Linux:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:92
+msgid ""
+"See documentation [Compilation on "
+"Linux](http://wiki.rolisteam.org/index.php/CompilationLinux)\n"
+"Please pay attention that Rolisteam needs **Qt5.12** or higher."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:94
+msgid "v1.9.0 - Released on 05/10/2019 - code name: Ostro"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:95
+msgid "We are glad to announce the release of Rolisteam v1.9.0."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:138
+msgid ""
+"![windows]({static}/iconfiles/thumbWinodw.png) Windows: "
+"[Rolisteam-1.9.0-setup.exe](https://sourceforge.net/projects/rolisteam/"
+"files/1.9.0/Rolisteam-1.9.0-setup.exe/download) (including rcse)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:145
+msgid ""
+"![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rolisteam_v1.9.0_MacOs.dmg](https://sourceforge.net/projects/rolisteam/"
+"files/1.9.0/rolisteam_v1.9.0_MacOs.dmg/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:148
+msgid ""
+"![MacOs RCSE]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rcse_v1.9.0_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9."
+"0/rcse_v1.9.0_MacOs.dmg/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:155
+msgid ""
+"![linux]({static}/iconfiles/thumblinux.png) RCSE - AppImage: "
+"[rcse-v1.9.0-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/"
+"files/1.9.0/rcse-v1.9.0-x86_64.AppImage/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:158
+msgid ""
+"![linux]({static}/iconfiles/thumblinux.png) Rolisteam - AppImage: "
+"[Rolisteam_v1.9.0-x86_64.AppImage](http://sourceforge.net/projects/"
+"rolisteam/files/1.9.0/Rolisteam_v1.9.0-x86_64.AppImage/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:167
+msgid ""
+"![tar rolisteam]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rolisteam-1.9.0.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9"
+".0/rolisteam-1.9.0.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:170
+msgid ""
+"![zip rolisteam]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rolisteam-1.9.0.zip](http://sourceforge.net/projects/rolisteam/files/1.9.0/"
+"rolisteam-1.9.0.zip/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:173
+msgid ""
+"![tar rcse]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rcse-1.9.0.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.0/"
+"rcse-1.9.0.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:176
+msgid ""
+"![zip rcse]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rcse-1.9.0.zip](http://sourceforge.net/projects/rolisteam/files/1.9.0/rcse-"
+"1.9.0.zip/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:180
+msgid "v1.8.2 - Released on 06/05/2017 - code name: Chewb"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:181
+#: /tmp/tmp35n1vccl.md:310
+#: /tmp/tmp35n1vccl.md:336
+msgid "In French:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:183
+msgid "https://youtu.be/Ly4H87hxbpw"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:185
+msgid ""
+"[Youtube Playlist about rolisteam "
+"v1.8](https://www.youtube.com/watch?v=&list=PLBSt0cCTFfS4InklgvVlZZ1nW3"
+"RIrrj41) (in French)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:190
+msgid ""
+"![windows]({static}/iconfiles/thumbWinodw.png) Windows: "
+"[Rolisteam-1.8.2-v2-setup.exe](https://sourceforge.net/projects/rolisteam/"
+"files/1.8.2/Rolisteam-1.8.2-v2-setup.exe/download) (including rcse)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:193
+msgid ""
+"![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X High Sierra:  "
+"[rolisteam_v1.8.2-MacOsX_HighSierra.dmg](https://sourceforge.net/projects/"
+"rolisteam/files/1.8.2/rolisteam_v1.8.2_HighSierra.dmg/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:196
+msgid ""
+"![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rolisteam_v1.8.2-MacOsX_setup.dmg](http://sourceforge.net/projects/"
+"rolisteam/files/1.8.2/rolisteam_v1.8.2-MacOsX_setup.dmg/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:199
+msgid ""
+"![MacOs RCSE]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rcse_v1.0.2-MacOsX_setup.dmg](http://sourceforge.net/projects/rolisteam/"
+"files/1.8.2/rcse_v1.0.3-MacOsX_setup.dmg/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:202
+msgid ""
+"![tar rolisteam]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rolisteam-1.8.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8"
+".2/rolisteam-1.8.2.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:205
+msgid ""
+"![zip rolisteam]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rolisteam-1.8.2.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/"
+"rolisteam-1.8.2.zip/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:208
+msgid ""
+"![tar rcse]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rcse-1.0.3.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.8.2/"
+"rcse-1.0.3.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:211
+msgid ""
+"![zip rcse]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rcse-1.0.3.zip](http://sourceforge.net/projects/rolisteam/files/1.8.2/rcse-"
+"1.0.3.zip/download)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:215
+msgid "![Icon]({static}/iconfiles/thumbubuntu.png)  Ubuntu"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:220
+msgid "Changes in 1.8.2"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:223
+msgid "Allow user to display dice result inside string result"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:226
+msgid "When GM is not the server charactersheet are shared with everyone. (#62)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:229
+msgid "RCSE multipage field problem (#61)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:232
+msgid "RCSE can manage field after character creation (RCSE #4)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:236
+msgid "Rolisteam"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:239
+msgid "Rotation of token (#56)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:242
+msgid "add image to vectorial map from menu is working (#59)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:245
+msgid "circle field of view position is fixed (#54)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:248
+msgid "translation error (#49)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:251
+msgid "crash on vectorial map (#48)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:254
+msgid "improvement of unit convert (#51)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:257
+msgid "New menu item is working"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:260
+msgid "Better protection on Select Type"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:263
+msgid "Display all QML error at once in rolisteam."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:266
+msgid "Unset formula in character"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:269
+msgid "Add font support on field"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:272
+msgid "Add UTF-8 support in sheet"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:275
+msgid "Reset all id"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:278
+msgid ""
+"Display error message when user add two images with different resolution as "
+"background for pages"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:281
+msgid "formula accept every type of character between \""
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:284
+msgid "fix removing first page issue"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:287
+msgid "Add font delegate"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:290
+msgid "Fix border delegate"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:293
+msgid "better improvement of model update"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:296
+#: /tmp/tmp35n1vccl.md:345
+#: /tmp/tmp35n1vccl.md:394
+msgid "Vectorial Map"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:299
+#: /tmp/tmp35n1vccl.md:348
+msgid "Charactersheet"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:302
+#: /tmp/tmp35n1vccl.md:351
+msgid "DiceParser Improvement"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:305
+#: /tmp/tmp35n1vccl.md:354
+#: /tmp/tmp35n1vccl.md:524
+msgid "Connection Dialog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:309
+msgid "v1.8.1 - released on 09/04/2017 - code name: Cavallino"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:312
+#: /tmp/tmp35n1vccl.md:338
+msgid ""
+"<iframe width=\"560\" height=\"315\" "
+"src=\"https://www.youtube.com/embed/Ly4H87hxbpw?list=PLBSt0cCTFfS4"
+"InklgvVlZZ1nW3RIrrj41&autoplay=0\" frameborder=\"0\" "
+"allowfullscreen></iframe>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:314
+msgid ""
+"[Youtube Playlist about rolisteam v1.8 (in "
+"French)](https://www.youtube.com/watch?v=Ly4H87hxbpw&list=PLBSt0cCTFfS4"
+"InklgvVlZZ1nW3RIrrj41)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:319
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbWinodw.png\" "
+"alt=\"windowsbinaire\"/>Windows: <a "
+"href=\"http://downloads.sourceforge.net/project/rolisteam/1.8.1/Rolisteam-1."
+"8.1-setup.exe?r=http%3A%2F%2Frolisteam.org%2Fdownload&ts=1463997292&use_"
+"mirror=kent\">Rolisteam-1.8.1-setup.exe</a> (including rcse)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:322
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbapple.png\" "
+"alt=\"macosbinaire\"/>Mac Os X: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.1/rolisteam_v1.8."
+"1-MacOsX_setup.dmg/download\">rolisteam_v1.8.1-MacOsX_setup.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:325
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbapple.png\" "
+"alt=\"macosbinaire\"/>Mac Os X: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.1/rcse_v1.0.1-"
+"MacOsX_setup.dmg/download\">rcse_v1.0.1-MacOsX_setup.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:328
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbzip.png\" "
+"alt=\"zip\"/> Source (tarball):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.1/rolisteam-1.8.1"
+".tar.gz/download\">rolisteam-1.8.1.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:331
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbtar.png\" "
+"alt=\"targz\"/>Source (zip):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.1/rolisteam-1.8.1"
+".zip/download\">rolisteam-1.8.1.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:335
+msgid "v1.8.0 - released on 19/02/2017 - code name: Enzo"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:340
+msgid ""
+"<a "
+"href=\"https://www.youtube.com/watch?v=Ly4H87hxbpw&list=PLBSt0cCTFfS4"
+"InklgvVlZZ1nW3RIrrj41\">Youtube Playlist about rolisteam v1.8 (in "
+"French)</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:342
+msgid "Changes in 1.8.0"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:357
+msgid "Full changelog (below)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:364
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbWinodw.png\" "
+"alt=\"windowsbinaire\"/>Windows: <a "
+"href=\"http://downloads.sourceforge.net/project/rolisteam/1.8.0/Rolisteam-1."
+"8.0-setup.exe?r=http%3A%2F%2Frolisteam.org%2Fdownload&ts=1463997292&use_"
+"mirror=kent\">Rolisteam-1.8.0-setup.exe</a> (including rcse)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:367
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbapple.png\" "
+"alt=\"macosbinaire\"/>Mac Os X: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.0/rolisteam_v1.8."
+"0-MacOsX_setup.dmg/download\">rolisteam_v1.8.0-MacOsX_setup.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:370
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbapple.png\" "
+"alt=\"macosbinaire\"/>Mac Os X: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.0/rcse_v1.0.0-"
+"MacOsX_setup.dmg/download\">rcse_v1.0.0-MacOsX_setup.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:373
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbzip.png\" "
+"alt=\"zip\"/> Source (tarball):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.0/rolisteam-1.8.0"
+".tar.gz/download\">rolisteam-1.8.0.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:376
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbtar.png\" "
+"alt=\"targz\"/>Source (zip):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.0/rolisteam-1.8.0"
+".zip/download\">rolisteam-1.8.0.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:379
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbzip.png\" "
+"alt=\"zip\"/> Source (tarball):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.0/rcse-1.0.0.tar."
+"gz/download\">rcse-1.0.0.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:382
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbtar.png\" "
+"alt=\"targz\"/>Source (zip):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.8.0/rcse-1.0.0.zip/"
+"download\">rcse-1.0.0.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:386
+#: /tmp/tmp35n1vccl.md:617
+#: /tmp/tmp35n1vccl.md:660
+#: /tmp/tmp35n1vccl.md:807
+msgid "For Ubuntu"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:387
+#: /tmp/tmp35n1vccl.md:618
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbubuntu.png\" "
+"alt=\"ubuntu\"/>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:390
+#: /tmp/tmp35n1vccl.md:663
+#: /tmp/tmp35n1vccl.md:810
+msgid "How To Compile and Install Rolisteam on Linux"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:391
+msgid ""
+"See documentation <a "
+"href=\"http://wiki.rolisteam.org/index.php/CompilationLinux\">Compilation "
+"on Linux</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:393
+msgid "Full changelog v1.8.0"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:397
+msgid "New map system using vectorial drawing"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:400
+msgid "Items can be modified, rotated, moved"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:403
+msgid "Avatar can be used as character token"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:406
+msgid "image can be added to the map"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:409
+msgid "management of layers"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:412
+msgid "fog of war"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:415
+msgid "Character vision"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:418
+msgid "size adaptation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:421
+msgid "Parenthood relationship"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:424
+msgid "Grid (square or hexagon)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:427
+msgid "Zoom level"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:431
+msgid "Character sheet"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:434
+msgid "Management of charactersheet"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:437
+msgid "Charactersheet editor"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:440
+msgid "Formula management"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:443
+msgid "Roll dice from the charactersheet"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:446
+msgid "Management of several kind of text field"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:449
+msgid "Character sheet in QML"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:452
+msgid "Update through network"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:455
+msgid "ReadOnly data"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:458
+msgid "Character sheet can have several pages"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:461
+msgid "Display several page at once"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:465
+msgid "DiceParser"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:468
+msgid ""
+"Validator with several condition and combination with logic operator (OR, "
+"AND and exclusive OR)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:471
+msgid "Improved management of errors"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:474
+msgid "List operator accept range/probability"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:477
+msgid "Hide roll from the player but visible by everyone else (#2d6)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:480
+msgid "Merge operator"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:483
+msgid "filter operator"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:486
+msgid "if operator"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:489
+msgid "Support modulo operator in validator"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:492
+msgid "Management of varible from the character sheet"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:495
+msgid "Support of different operator (!=)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:498
+msgid "improve randomness by using C++11 API"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:501
+msgid "better generation for dot tree"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:505
+#: /tmp/tmp35n1vccl.md:716
+msgid "General"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:508
+msgid "Dynamic Management of state (add/remove)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:511
+msgid "Dice alias can be disable"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:514
+msgid "heartbeat mechanism to prevent disconnection"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:517
+msgid "Name generator (GM Toolbox)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:520
+msgid "Unit converter (GM Toolbox)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:527
+msgid "Management of several connection profile"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:530
+msgid ""
+"Define role (GM or Player), define connection mode (Host or Client), if "
+"player then define character (name, color, avatar)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:534
+msgid "Resources management"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:537
+msgid "resources can be ordered into chapter"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:540
+msgid "management of state of resources (open/loaded)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:544
+msgid "Fixed Bug"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:545
+msgid ""
+"Workaround for #42  How to auto-size Huge map\n"
+"Fix #41  Mix between GM and player rights\n"
+"Fix #28  hide Roll Dice from the roller enhancement\n"
+"Fix #33  Disconnection\n"
+"Fix #22  Characters portraits & tokens\n"
+"Fix #3  It is not possible to move sheets around as if on a regular table\n"
+"Fix #8  Add images into maps"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:547
+#: /tmp/tmp35n1vccl.md:739
+msgid "Translation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:556
+#: /tmp/tmp35n1vccl.md:742
+msgid "Portuguese"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:559
+#: /tmp/tmp35n1vccl.md:745
+msgid "Hungrian"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:565
+msgid "Roumanian"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:571
+msgid "Turkish (partial)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:578
+msgid "v1.7.1 - released on 05/09/2015  code name: Octavius"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:579
+msgid "Changes in 1.7.1"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:582
+msgid "Better display for several strings or several dice command at once."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:585
+msgid "Fix #14  fix build with Qt5.5 for some linux distribution"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:588
+msgid "Fix #18  unwanted {1 at the end of dice sentence"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:591
+msgid "Fix #11  link are not clickable"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:594
+msgid "Fix #10  players can see hidden maps"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:597
+msgid "Fix #12  word wrap in chat (activated by default, can be disactived)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:604
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbWinodw.png\" "
+"alt=\"windowsbinaire\"/>Windows: <a "
+"href=\"http://downloads.sourceforge.net/project/rolisteam/1.7.1/Rolisteam-1."
+"7.1-setup.exe?r=http%3A%2F%2Frolisteam.org%2Fdownload&ts=1463997292&use_"
+"mirror=kent\">Rolisteam-1.7.1-setup.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:607
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbapple.png\" "
+"alt=\"macosbinaire\"/>Mac Os X: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.7.1/rolisteam_v1.7."
+"1-MacOsX_setup.dmg/download\">rolisteam_v1.7.1-MacOsX_setup.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:610
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbzip.png\" "
+"alt=\"zip\"/> Source (tarball):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.7.1/rolisteam-1.7.1"
+".tar.gz/download\">rolisteam-1.7.1.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:613
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbtar.png\" "
+"alt=\"targz\"/>Source (zip):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.7.1/rolisteam-1.7.1"
+".zip/download\">rolisteam-1.7.1.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:620
+msgid ""
+":::bash\n"
+"sudo add-apt-repository ppa:rolisteam/ppa\n"
+"sudo apt-get update\n"
+"sudo apt-get upgrade\n"
+"sudo apt-get install rolisteam"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:621
+msgid "v1.6.1 - released on 22/08/2015  code name: Octave"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:622
+msgid ""
+"<iframe width=\"560\" height=\"315\" "
+"src=\"https://www.youtube.com/embed/L6cs-4jn6ds\" frameborder=\"0\" "
+"allowfullscreen></iframe>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:624
+msgid "What's new ?"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:627
+msgid "Dice System"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:630
+msgid "Themes"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:633
+msgid "Qt5"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:636
+msgid "Drag and Drop"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:639
+msgid "Translations"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:640
+msgid "See complete changelog below…"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:647
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbWinodw.png\" "
+"alt=\"windowsbinaire\"/>Windows: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.7.0/Rolisteam-1.7.0"
+"-setup.exe/download\">Rolisteam-1.7.0-setup.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:650
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbapple.png\" "
+"alt=\"macosbinaire\"/>Mac Os X: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.7.0/rolisteam_v1.7."
+"0-MacOsX_setup.dmg/download\">rolisteam_v1.7.0-MacOsX_setup.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:653
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbzip.png\" "
+"alt=\"zip\"/> Source (tarball):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.7.0/rolisteam-1.7.0"
+".tar.gz/download\">rolisteam-1.7.0.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:656
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbtar.png\" "
+"alt=\"targz\"/>Source (zip):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.7.0/rolisteam-1.7.0"
+".zip/download\">rolisteam-1.7.0.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:661
+#: /tmp/tmp35n1vccl.md:808
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbubuntu.png\" "
+"alt=\"ubuntu\"/>\n"
+"    :::bash\n"
+"    sudo apt-get update\n"
+"    sudo apt-get update\n"
+"    sudo apt-get upgrade\n"
+"    sudo apt-get install rolisteam"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:664
+#: /tmp/tmp35n1vccl.md:811
+msgid ""
+"See documentation <a "
+"href=\"http://wiki.rolisteam.org/index.php/CompilationLinux\">Compilation "
+"on Linux</a>\n"
+"Package will be available soon."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:666
+msgid "Full changelog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:667
+msgid "Audio"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:670
+msgid "new audio system, management of 3 music tracks"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:673
+msgid "Load/save of playlist"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:676
+msgid "Load/save audio stream"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:679
+msgid "Add playlist from http://tabletopaudio.com/"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:680
+msgid "Dice"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:683
+msgid "new framework for dice rolling (diceparser)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:686
+msgid "management of aliases (for dice command)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:689
+msgid "GM sharing automatically dice aliases"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:692
+msgid "Add highlight for dice result"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:693
+msgid "Chat"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:696
+msgid "http link in chat are now clickable."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:699
+msgid ""
+"The background color changes only the background of the chat (not the "
+"scroll bar)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:700
+msgid "Theme and skin"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:703
+msgid ""
+"Possibility to change the appearance of rolisteam by changing default "
+"colors or set Css code."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:706
+msgid "Skin can be imported or exported as JSON file."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:709
+msgid "For each theme/skin you can set the background color and image for the main"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:712
+msgid "management of the position of background image"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:715
+msgid "no longer need to restart the application"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:719
+msgid ""
+"Rolisteam starts in full screen mode (can be disable in the preferences "
+"dialog)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:722
+msgid "qt5 portage"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:723
+msgid "Refactoring"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:726
+msgid "Use the new network engine. For better maintenability"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:727
+msgid "Command line parameter"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:728
+msgid "several parameters can be passed to rolisteam at starting"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:729
+msgid "drag and drop"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:730
+msgid "Documentation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:731
+msgid "Documentation has been updated and reworked for a better understanding"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:732
+msgid "Bug Fix"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:735
+msgid "Fix the Image deletion to the other players"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:738
+msgid "set default color to black for painting tools"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:748
+msgid "Turkish"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:755
+msgid "v1.6.0 - Released on 12/02/2015 revision 406 - code name: Joce"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:756
+msgid "<h3>What's new ?</h3>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:760
+msgid ""
+"Add possibility to change the background color and picture of the workspace "
+"(need restart of rolisteam to be applied)."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:763
+msgid "The background color of chat window can be changed"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:766
+msgid "Implementation of #60: Blinking chat / Tchat clignotant"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:769
+msgid "Add preferences system to select the default behaviour for map permission."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:772
+msgid "Show progress while receiving data."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:775
+msgid "Fog of war color can be decided."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:778
+msgid "Fix bug #99 italic text on emote"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:781
+msgid "Windows can now be shown in tab mode."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:784
+msgid "see the full changelog below."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:791
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbWinodw.png\" "
+"alt=\"windowsbinaire\"/>Windows: <a "
+"href=\"https://sourceforge.net/projects/rolisteam/files/1.6.1/rolisteam-1.6."
+"1-setup.exe/download\">rolisteam-1.6.1-setup.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:794
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbapple.png\" "
+"alt=\"macosbinaire\"/>Mac Os X: <a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.6.1/rolisteam-1.6.1"
+".dmg/download\">rolisteam-1.6.1.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:797
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbzip.png\" "
+"alt=\"zip\"/> Source (tarball):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.6.1/rolisteam-1.6.1"
+".tar.gz/download\">rolisteam-1.6.1.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:800
+msgid ""
+"<img src=\"http://www.rolisteam.org/sites/default/files/thumbtar.png\" "
+"alt=\"targz\"/>Source (zip):<a "
+"href=\"http://sourceforge.net/projects/rolisteam/files/1.6.1/rolisteam-1.6.1"
+".zip/download\">rolisteam-1.6.1.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:801
+msgid ""
+"<!--li>ArchLinux packages: <a "
+"href=\"https://aur.archlinux.org/packages.php?ID=38243\">Rolisteam "
+"1.6.0</a></li-->"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:803
+msgid ""
+"<!--li>RPM packages: <a "
+"href=\"https://build.opensuse.org/project/repositories/"
+"home:laurentwandrebeck\">Go this repository!</a></li-->"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:813
+msgid "What's next ?"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:814
+msgid "In the future release, we plan to do:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:818
+msgid "New die roll system: https://github.com/obiwankennedy/DiceParser"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:821
+msgid "Porting Rolisteam to Qt5. The compilation will be easier."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:824
+msgid "Use the new network engine to the whole software. Make it easier to debug."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:828
+msgid "Full change log"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:831
+msgid "fix problem about loading/saving/hidding map."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:834
+msgid ""
+"add method called: closeAllImagesAndMaps to cleanUp the MdiArea before "
+"reconnection."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:837
+msgid "Fix crash after reconnection and removal of map."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:840
+msgid "remove some debug outputs"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:843
+msgid "Fix crash when reconnection after deletion of picture."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:846
+msgid "fix custom size for map."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:849
+msgid "raise the local player on map (at least it is a try)."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:852
+msgid "try to fix the tab issue (bit better)."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:855
+msgid "update title while the user nature from GM to player."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:858
+msgid "remove debug outputs"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:861
+msgid "fix translation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:864
+msgid "fix issue about default permission on mapwizzard."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:867
+msgid "Add support for Zlib for Windows"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:870
+msgid "clear code"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:873
+msgid "Fix crash after deleting map with player on it."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:876
+msgid ""
+"Change API of DirChooser class. It has been change to become "
+"FileDirChooser. It can select path to file or directory."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:879
+msgid "replace pressed by click for pushbutton action"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:882
+msgid "add comment and fix indentation in some classes."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:885
+msgid "fix crash after removing chat."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:888
+msgid "fix spelling mistakes (french)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:891
+msgid "move the preferencesdialogbox.ui file to src."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:894
+msgid "adding qt translation file for french, spanish and german."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:897
+msgid "define the current color to the colorselector."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:900
+msgid "refactoring code source, better comment"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:903
+msgid "fix color for fog in preferencesmanager.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:906
+msgid "fix deadlock removing file."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:909
+msgid "fix bug opening with hidden activated."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:912
+msgid "Fix issue about directory selection in music."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:915
+msgid "zoom range protection"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:918
+msgid "Fix issue about zoom level too close to zero."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:921
+msgid "removal of constantesGlobales.h"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:924
+msgid "remove some global variables about cursor."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:927
+msgid "Adding right copyright"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:930
+msgid "adding shortcut for help and others."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:933
+msgid "prevent crash on Mac OS X"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:936
+msgid "remove segfault at closing after openning."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:939
+msgid "remove menu action while remove picture."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:942
+msgid "solved issue about closing image."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:945
+msgid "rename some variable and function for better understanding."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:948
+msgid "save and restore permission in map."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:951
+msgid "fix issu about chat while tab display is enabled."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:954
+msgid "adding icons for dmg image"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:957
+msgid "version change 1.6.0 to 1.6.1"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:960
+msgid "disconnected user close all his chat windows."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:963
+msgid "adding comment"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:966
+msgid "move colorbutton.cpp/colorbutton.h"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:969
+msgid "Add new setting dialog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:972
+msgid "remove global variable"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:975
+msgid "correct error about hiding chatwindow."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:976
+msgid "add long long int to diff in make room size."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:979
+msgid "send map with networkmessage"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:982
+msgid "add mainwindow.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:983
+msgid "adding untranslated translation files for spanish, german, finish, italian"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:986
+msgid "fix server state"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:989
+msgid "fix displaying/hiding chat"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:992
+msgid "fix issue about sending images in png."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:995
+msgid "adding debug"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:998
+msgid "add QMdiArea"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1001
+msgid "add tabbed view"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1004
+msgid "remove help menu on note editor."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1007
+msgid "correct bug about re-connection."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1010
+msgid "remove of QWorkSpace to QMdiArea"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1011
+msgid "fix displaying again chat."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1012
+msgid "add menu item to put the windows as Tab"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1015
+#: /tmp/tmp35n1vccl.md:1053
+msgid "Correct segfault when closing plan."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1019
+msgid "Rolisteam version: 1.6.0"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1020
+msgid "Released on 29/10/2013 *  revision 344 - code name: Sacha"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1024
+msgid ""
+"Windows: <a "
+"href=\"http://rolisteam.googlecode.com/files/Rolisteam-1.6.0-setup.exe\""
+">Rolisteam-1.6.0-setup.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1027
+msgid ""
+"Mac Os 10.6: <a "
+"href=\"http://rolisteam.googlecode.com/files/Rolisteam-v1.6.0.dmg\""
+">Rolisteam-v1.6.0.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1030
+msgid ""
+"Source (tarball):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.6.0.tar.gz\""
+">rolisteam-1.6.0.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1033
+msgid ""
+"Source (zip):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.6.0.zip\""
+">rolisteam_1.6.0.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1036
+msgid ""
+"Ubuntu 13.10:<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.6.0ubuntu1_i386."
+"deb\">rolisteam_1.6.0ubuntu1_i386.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1039
+msgid ""
+"Ubuntu 13.10 64 bits :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.6.0ubuntu1_amd64."
+"deb\">rolisteam_1.6.0ubuntu1_amd64.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1042
+msgid ""
+"ArchLinux packages: <a "
+"href=\"https://aur.archlinux.org/packages.php?ID=38243\">Rolisteam 1.6.0</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1045
+msgid ""
+"RPM packages: <a "
+"href=\"https://build.opensuse.org/project/repositories/"
+"home:laurentwandrebeck\">Go this repository!</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1049
+msgid "ChangeLog:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1050
+msgid "These followings Issues have been fixed:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1056
+msgid "correct LecteurAudio and test"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1059
+msgid "Fixing warning message at runtime to tooltip for SelecteurCouleur."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1062
+msgid "Adding patch from Valgar Reinhart III (jdrvirtuel.com)."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1065
+msgid "fix #95* must be tested on Windows."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1068
+msgid ""
+"Remove of aboutToFinish management, it seems wrong. Use of Finished signal "
+"instead."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1071
+msgid "fix #94"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1074
+msgid "fix #92"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1077
+msgid "fix #89"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1080
+msgid "Adding resources file and icons."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1083
+msgid "file menu items triggers textedit actions."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1086
+msgid "translation of code source a bit"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1089
+msgid "hide the black square on painting"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1092
+msgid "bug fix: crash when painting on map bigger than the images."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1095
+msgid ""
+"@todo : fix the little offset when painting, while release the mouse, the "
+"position is right."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1098
+msgid "add icon to mac os bundle"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1101
+msgid "Allow reconnection after deconnection of server."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1104
+msgid "Fix closing, Application no more direct call to destructeur."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1107
+msgid "Finish French Translation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1110
+msgid "Adding method to save/load minutes to/from binary file (scenario)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1113
+msgid "[textedit.cpp]"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1116
+msgid "Add call to save and load method of minute editor while save and load"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1119
+msgid "scenario. [mainwindow.cpp]"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1122
+msgid "adding fit window feature to image."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1125
+msgid "adding icon"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1128
+msgid "display shortcut to zoom in image"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1131
+msgid "translate"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1134
+msgid "fix issue #87"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1137
+msgid "clearing the process to synchronize the currentTool with image or plan."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1140
+msgid "adding API to BarreOutil.h/.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1143
+msgid "adding title to closing popup."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1146
+msgid "refactoring of code."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1149
+msgid "fix #85 and #86"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1152
+msgid "it is possible to close map and picture."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1155
+msgid "fix issue #82 wrong icon for maps."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1158
+msgid "adding ipchecker.cpp/.h, to get ip address of the server."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1161
+msgid "display ip address to the user and the server port."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1164
+msgid "issue #76"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1167
+msgid "First test to save scenario with map and able to load it again."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1170
+msgid "Must be tested, it leads to crash when closing up the application"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1173
+msgid "(error in delete object, deleting of already deleted object is my guess)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1176
+msgid "adding new dialog to open Map."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1179
+msgid "delete NouveauPlanVide, and adding newemptymapdialog , using QDesigner"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1182
+msgid "form."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1185
+msgid "translation update."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1188
+msgid "delete NouveauPlanVide.h"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1191
+msgid "adding mapwizzard.ui"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1194
+msgid "fix issue #84"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1197
+msgid "Correct mispelling"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1200
+msgid "translate every string in english"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1203
+msgid "improve french translation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1206
+msgid "Finishing i18n for rolisteam"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1209
+msgid "New Feature"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1212
+msgid "Auto-Reconnection after connection lost"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1215
+msgid "Todo:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1218
+msgid "The server seems to send wrong information"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1221
+msgid "End of reconnection after connection lost"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1224
+msgid "Must be tested deeper"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1227
+msgid "Add i18n for warning message"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1230
+msgid "First wave of modification to support permission management on maps"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1233
+msgid "Patch for issue 56"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1236
+msgid "start implementing permission management for map"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1239
+msgid "Add permission management (#issue 51)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1242
+msgid "Improve management of current tool from Toolbar"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1245
+msgid "Add  shortcut for image zooming"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1248
+msgid "fix #issue 45"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1251
+msgid "fix issue #62 : Concatenated Music path bug"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1254
+msgid "Add dialog box to wait until retry connection (10 sec)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1257
+msgid "Translation of the warning messages"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1260
+msgid "Improvement right management on Map"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1263
+msgid "Removal of port limitation, is now possible to use port lesser than 1024."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1266
+msgid "TODO: Show little warning when selecting port under 1024."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1269
+msgid "finish permission management (about moving character)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1272
+msgid "removal of fmod"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1275
+msgid "keep working on permission management"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1278
+msgid "fix bug about phonon and changed states"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1281
+msgid "Permission management is now working"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1284
+msgid "TODO:"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1287
+msgid "more tests about it"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1290
+#: /tmp/tmp35n1vccl.md:1305
+msgid "translation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1293
+msgid "add usability improvements"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1296
+msgid "Select all text when user adds character."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1299
+msgid "Default button is connection instead of quit as the connection dialog."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1302
+msgid "icon on dialog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1308
+msgid "first work on issue 65"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1311
+msgid "@Todo: disable the remove button when no item is in the list and protect"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1314
+msgid "removal from out array error."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1317
+msgid "add comments"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1320
+msgid "Refactoring code: member has been renamed acconding the coding rules."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1323
+msgid "Removing the played song is managed (must be tested)."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1326
+msgid "correct  the behaviour of removing song from the list"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1329
+msgid "Fix issue 65 and improve management of button"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1332
+msgid "fix issue 66 : max limit for connection port has been set to the"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1335
+msgid "maximum TCP port"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1338
+msgid "removal of global constant application_nom, initialisation is now a"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1341
+msgid "singleton."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1344
+msgid "add mutex to protect delete of song in widget"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1347
+msgid ""
+"add debug trace to understand the issue about song played almost one time "
+"of two."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1350
+msgid "should fix #65"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1353
+msgid "correct issue in order of command to play in loop mode a song."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1356
+msgid "remove of G_mainWindow global variable."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1359
+msgid "add network management into application"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1362
+msgid "correct errors from previous commit"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1365
+msgid "change order of object instantiation."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1368
+msgid "add icon for chat window."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1371
+msgid "prevent seg fault by protecting access to pointer."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1374
+msgid "add command to compile the traduction as normal compilation step."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1377
+msgid "remove some memory leaks"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1380
+msgid "replace svg icone to png"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1383
+msgid "remove some global variables."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1386
+msgid "clean up the reconnection section."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1389
+msgid "change preferences manager."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1392
+msgid "Add missing file of preferences manager from 2.0.0 branch"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1395
+msgid "refactoring after test under ubuntu 12.04"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1398
+msgid "First try to manage the connection and disconnection retry. Network"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1401
+msgid "menu"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1404
+msgid "modify translation and pro file"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1407
+msgid "Replace reference to pointer in singleton for playerlist"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1410
+msgid "Add mechanism to allow disconnection and reconnection."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1413
+msgid "add latest modification"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1416
+msgid "disconnection / reconnection work when using network menu with"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1419
+msgid "rolisteam started as client"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1422
+msgid "Add feature to colorize the background of chatroom, should be move from"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1425
+msgid "toolbar to context menu."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1428
+msgid "Add management of mainwindow title."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1431
+msgid "Background color of chat can be changed by context menu"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1434
+msgid "Enable load map from file."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1437
+msgid "Correction of the save/open notes."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1440
+msgid "Add new editor to edit ODT file"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1443
+msgid "Correct dice roll  command"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1446
+msgid "Add new management for title"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1449
+msgid "remove debug message"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1452
+msgid "amend API of playersList"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1455
+msgid "fix for connection management"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1458
+msgid "playersList used as member instead of global variable in"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1461
+msgid "localpersonmodel"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1464
+msgid "Remove warning message"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1467
+msgid "Enable compilation of odt support with mac os (zlib)."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1470
+msgid "apply patch from #71"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1473
+msgid "rework function to prevent any segfault."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1476
+msgid "test after \"trouverPersonnage\" call is tested with the NULL"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1479
+msgid "Add descrition doxygen for all classes, work in progress"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1482
+msgid "improve the connection management and process"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1485
+msgid "improve the deconnection / reconnection management and process"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1488
+msgid "add features"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1491
+msgid "Add management of feature to protect backward compatibility."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1494
+msgid "Add context menu to make map fit window"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1497
+msgid "removal of qDebug() message"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1500
+msgid "update translation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1503
+msgid "Issues #65 and 67 are fixed."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1506
+msgid "Improvement of network management"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1509
+msgid "some problem with data sent twice."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1512
+msgid "compile under ubuntu 13.04"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1515
+msgid "correct note editor menu action."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1518
+msgid "change address to contact me in about menu"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1521
+msgid "fix issue #75 : no more crash in chat window when the list is empty."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1524
+msgid "add copy/paste features on chatbrowser.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1527
+msgid "make it compile on Mac OS X"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1530
+msgid "adding script to install libz"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1533
+msgid "compile under windows and solve issues."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1536
+msgid "Remove of embedded documentation, it is now online only."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1539
+msgid "Adding rc file for binary icon."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1543
+msgid "Version : 1.5.2"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1544
+msgid "Released on 30/10/2011 - code name: AstrayGirl - revision 239"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1548
+msgid ""
+"Source (tarball):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.2.tar.gz\""
+">rolisteam_1.5.2.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1551
+msgid ""
+"Source (zip):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.2.zip\""
+">rolisteam_1.5.2.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1554
+msgid ""
+"Ubuntu 11.10:<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.2_i386.deb\""
+">rolisteam_1.5.2_i386.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1557
+msgid ""
+"Ubuntu 11.10 64 bits :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.2_amd64.deb\""
+">rolisteam_1.5.2_amd64.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1560
+msgid ""
+"Windows: <a "
+"href=\"http://rolisteam.googlecode.com/files/Rolisteam-1.5.2-setupV2.exe\""
+">Rolisteam-1.5.2-setupV2.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1563
+msgid ""
+"Mac Os 10.5: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam1.5.2.dmg\">rolisteam_"
+"1.5.2.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1567
+#: /tmp/tmp35n1vccl.md:1633
+#: /tmp/tmp35n1vccl.md:2006
+#: /tmp/tmp35n1vccl.md:2100
+#: /tmp/tmp35n1vccl.md:2137
+msgid "ChangeLog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1568
+#: /tmp/tmp35n1vccl.md:1599
+msgid "fixed bug"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1571
+msgid "Issue #53  : Crash when user is not a GM"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1575
+msgid "Version : 1.5.1"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1576
+msgid "Released on 26/10/2011 *  code name: Lilith - revision 236"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1580
+msgid ""
+"Source (tarball):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.5.1.tar.gz\""
+">rolisteam_1.5.1.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1583
+msgid ""
+"Source (zip):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.5.1.zip\""
+">rolisteam_1.5.1.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1586
+msgid ""
+"Ubuntu 11.10:<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.1_i386.deb\""
+">rolisteam_1.5.1_i386.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1589
+msgid ""
+"Ubuntu 11.10 64 bits :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.1_amd64.deb\""
+">rolisteam_1.5.1_amd64.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1592
+msgid ""
+"Windows: <a "
+"href=\"http://rolisteam.googlecode.com/files/Rolisteam-1.5.1-setup.exe\""
+">Rolisteam-1.5.1-setup.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1595
+msgid ""
+"Mac Os 10.5: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam1.5.1.dmg\">rolisteam_"
+"1.5.1.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1602
+msgid "Issue #47  : Crash when user is not a GM"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1606
+msgid "Version : 1.5.0"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1607
+msgid "Released on 23/10/2011 *  code name: Grumo - revision 234"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1611
+msgid ""
+"Source (tarball):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.0.tar.gz\""
+">rolisteam_1.5.0.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1614
+msgid ""
+"Source (zip):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.0.zip\""
+">rolisteam_1.5.0.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1617
+msgid ""
+"Ubuntu 11.10:<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.0_i386.deb\""
+">rolisteam_1.5.0_i386.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1620
+msgid ""
+"Ubuntu 11.10 64 bits :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.0_amd64.deb\""
+">rolisteam_1.5.0_amd64.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1623
+msgid ""
+"Windows: <a "
+"href=\"http://rolisteam.googlecode.com/files/Rolisteam-1.5.0-setup.exe\""
+">Rolisteam-1.5.0-setup.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1626
+msgid ""
+"Mac Os 10.5: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.5.0.dmg\""
+">rolisteam_1.5.0.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1629
+msgid ""
+"ArchLinux packages: <a "
+"href=\"https://aur.archlinux.org/packages.php?ID=38243\">Rolisteam "
+"1.5.0-1</a>(Thanks farvardin!)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1634
+#: /tmp/tmp35n1vccl.md:2007
+msgid "New features"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1637
+msgid "Instant Messaging Improvements"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1640
+msgid "It's now possible to chose who's speaking: character or player"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1643
+msgid "It's easier to chat with many players: GUI has been changed"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1646
+msgid "Zoom in/out for pictures"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1649
+msgid "Update Notification"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1652
+msgid "Network engine improvements"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1655
+msgid "Code refractoring"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1659
+#: /tmp/tmp35n1vccl.md:2023
+msgid "These followings Issues have been fixed"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1662
+msgid "Issue #35  : help can not be displayed"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1665
+msgid "Issue #29  : connection wizzard trouble"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1668
+msgid "Issue #31  : size of image are too big"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1672
+msgid "Changelog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1675
+msgid "Change interface to send game state to new player (race condition removed)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1678
+msgid "Fix icons ressources"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1681
+msgid "Add some icon to fix missing ressources issues"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1684
+msgid "Try some improvement about workspace resize performance issue"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1687
+msgid ""
+"Rewrite the scenario load/save mechanism, using QDataStream, for better "
+"readability."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1690
+msgid "new startup connection dialog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1693
+msgid "struct initialisation replaced by class Initialisation"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1696
+msgid "MainWindow creation in main.cpp instead of ClientServeur.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1699
+msgid "fix few issues on mac OS"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1702
+msgid "Integration of zoom feature for the image"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1705
+msgid "Fix issue of slot/signal connection"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1708
+msgid "Fix twice creation of userlist widget."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1711
+msgid "Tool box can be closed"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1714
+msgid "Minor cleanups"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1717
+msgid "Fix issue with player audioplayer interface"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1720
+msgid "Adding class to store data from the Connection dialog"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1723
+msgid "Improve some audio player misbehaviours"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1726
+msgid ""
+"third waves of modification for the audio player, a workaround has been "
+"activated to deal with phonon-gstreamer bugs, it may be not necessary for "
+"other backend (windows, QuickTime and xine)."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1729
+msgid "removed useless global G_dossier*"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1732
+msgid "removed unused variables and parameters"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1735
+msgid "add a preference dialog to change G_initialisation directories."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1738
+msgid "in MainWindow.cpp changed QObject::connect to connect"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1741
+msgid "Rewrite of many parts of audio player"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1744
+msgid "bugfix : add local player when server, not when GM"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1747
+msgid ""
+"bug fix : wrong behaviour with uncorrect dice syntax. If user typed "
+"\"!d6\", the number of dices was very random/unrelevant and no warnings was "
+"displayed to the user."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1750
+msgid "replace AudioPlayerunix.cpp with AudioPlayer.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1753
+msgid "Audio feature has been greatly improved."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1756
+msgid "removal of FMOD support"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1759
+msgid "BUGFIX : Removed unused threads."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1762
+msgid "new incoming network message processing, using events."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1765
+msgid "new outgoing network message processing."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1768
+msgid "BUGFIX: add missing datawriter.h and datawriter.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1771
+msgid "Compilation error when have_phonon is defined"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1774
+msgid "charset issues"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1777
+msgid "code refactoring on log messages in Liaison.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1780
+msgid "Yet another minor improvement on message reception."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1783
+msgid "Tried MeKeyCool's advice to fix bug #35."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1786
+msgid "use qassistant for documentation if does not work QDesktop stuff is used."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1789
+msgid "add updatechecker"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1792
+msgid "modification of the header file"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1795
+msgid "BUGFIX : infinite loop in DataWriter::makeRoom."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1798
+msgid "Oups, make it compile..."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1801
+msgid "BUGFIX : random number generation."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1804
+msgid "players list widget and model completely rewritted."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1807
+msgid "new chats list widget and model."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1810
+msgid "BUGFIX : make src/LecteurAudio.cpp compile."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1813
+msgid ""
+"BUGFIX : use singleton for FeaturesList to be initialised after "
+"ReceiveEvent::s_receiverMap."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1816
+msgid "The player's list is directly editable."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1819
+msgid "Same size for color icons and color buttons."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1822
+msgid "Features are now handled by Player and PlayersList."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1825
+msgid "BUGFIX : private messages are now private."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1828
+msgid "BUGFIX: set encoding when saving chats."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1831
+msgid "BUGFIX: compilation error for LecteurAudio.cpp."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1834
+msgid "Write local user name instead of \"Vous\" when chating."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1837
+msgid "Now even the GM knows whose PNJ is talking."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1840
+msgid "Slightly better socket error handling."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1843
+msgid "PrivateChat can be created and used."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1846
+msgid "Yet another network interface change."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1849
+msgid "Abstract proxy class for PlayersList."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1852
+msgid "Delay of network messages to conform to old protocols."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1855
+msgid "Debug messages cleanup."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1858
+msgid "Del chat button works."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1861
+msgid "Handle DelChatAction network messages."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1864
+msgid "Little improvement about restoring DockWidget's geometry"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1867
+msgid "All dockwidgets have now a valid object name."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1870
+msgid "Updates chats on player's deletion."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1873
+msgid "Edit or show every PrivateChat."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1876
+msgid "Update ChatWindow title and his toggleViewAction when Chat's name changes."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1879
+msgid "Add ChatListWidget to \"Fenêtre\" menu."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1882
+msgid ""
+"BUGFIX: default port to 6660 instead of 1024 when updating from 1.0.2 or "
+"older."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1885
+msgid "BUGFIX: Map created before connection works as well as others."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1888
+msgid "BUGFIX: Images loaded before connection don't make clients crash anymore."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1891
+msgid "Image uses NetworkMessageWriter."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1894
+msgid "Little improvements about update notification."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1897
+msgid "DEBUGS : Clients don't send back ChatUpdates messages."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1900
+msgid "Handle PrivateChat's constructor failures."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1903
+msgid "Added Chat::belongsToLocalPlayer()."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1906
+msgid "You can pass a version to Chat::everyPlayerHasFeature()."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1909
+msgid ""
+"DEBUG : PrivateChat::sendThem() don't send message if the local user is the "
+"only one. That fixes a backward compatibility bug."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1912
+msgid "Load qt translator properly."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1915
+msgid "BUGFIX Any local characters can be deleted."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1918
+msgid "Notifications of players joining and quiting in events dock widget."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1921
+msgid "French translation for the few english texts."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1924
+msgid "Revised and translated \"About\" dialog."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1927
+msgid "Change the maximum size for NPC: 200"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1930
+msgid "Add rolisteam's logo into resources directory"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1933
+msgid "Change of MainWindow logo."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1936
+msgid "Add toolbar to ChatWindow."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1939
+msgid "bugfix: Update chatwindow's title when player's name changes."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1942
+msgid "Oups... I forgot to \"svn add\" new files."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1945
+msgid "Moved history management from ChatWindow to TextEditAmeliore"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1948
+msgid "Some bug with the NPC/PC size"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1951
+msgid ""
+"Perhaps it should be better to have 2 sliders because the behaviour seems "
+"quiet unfriendly"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1954
+msgid "rework of the changeSize of character."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1957
+msgid "adding character id to the sizechanged network message."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1960
+msgid "hide the diameter selector when user is not game master"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1963
+msgid ""
+"Improvement on the update checker with major middle and minor version "
+"number."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1966
+msgid "Change default button for persondialog, now it's the Ok button."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1969
+msgid "Improve translation."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1973
+msgid "Rolisteam Version : 1.0.2"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1974
+msgid "Released on 30/10/2010 *  code name: Gin - revision 107"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1978
+msgid ""
+"Source (tarball):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.2.tar.gz\""
+">rolisteam-1.0.2.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1981
+msgid ""
+"Source (zip):<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.2.zip\""
+">rolisteam-1.0.2.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1984
+msgid ""
+"Ubuntu :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.0.2ubuntu1_i386."
+"deb\">rolisteam_1.0.2ubuntu1_i386.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1987
+msgid ""
+"Ubuntu 64 bits :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.0.2ubuntu1_amd64."
+"deb\">rolisteam_1.0.2ubuntu1_amd64.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1990
+msgid ""
+"Documentation for Ubuntu :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-doc_1.0.2ubuntu1_all."
+"deb\">rolisteam-doc_1.0.2ubuntu1_all.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1993
+msgid ""
+"Windows: <a "
+"href=\"http://rolisteam.googlecode.com/files/Rolisteam-1.0.2-setup.exe\""
+">Rolisteam-1.0.2-setup.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1996
+msgid ""
+"Mac Os 10.5: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.0.2.dmg\""
+">Rolisteam_1.0.2.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:1999
+msgid ""
+"Install for ArchLinux: <a "
+"href=\"http://aur.archlinux.org/packages.php?ID=38243\">AUR</a> (Thanks "
+"Farvardin!)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2002
+msgid ""
+"RPM packages: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.2-1.i586.rpm\">i5"
+"86</a> and <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.2-1.x86_64.rpm\""
+">x86_64</a> (Thanks WildTux!)"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2010
+msgid "Adding emote messages feature."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2013
+msgid "Adding alerts when rolisteam is hidden and an event occurs."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2016
+msgid "Add Roll and Keep dice system.<br/>Syntax : !3g2 or !3G2 (reroll 10) L5R"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2019
+msgid ""
+"Add SR4 dice system : count each dice egal or greater than 5<br/>Syntax : "
+"!3s"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2026
+msgid "Issue #18  : out of range error about the shadowrun' dices rolling"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2029
+msgid "Issue #20  : mispelling of french words"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2032
+msgid "Issue #23  : save of ini file on Linux (must be more tested )"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2035
+msgid "Issue #15  : compilation errors"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2038
+msgid "Issue #24  : no more crashes when client disconnect."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2042
+msgid "Some code Refractoring"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2045
+msgid "Removal of afficherTirage function which was still in the header file."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2048
+msgid "Change few things about the Tchat.cpp to enable the dice rolling."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2051
+msgid "About init file. All platforms share the same code."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2054
+msgid "Removal of debug messages about supported image format"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2057
+msgid "Robustness about the shadowrun syntax"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2060
+msgid "Removal of some platform-specific code"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2063
+msgid "Change text indentation in liaison.cpp"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2066
+msgid "Add some destructors to prevent memory leaks"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2069
+msgid "specific platform code changed to allow BSD and other x11 user."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2072
+msgid "Hide the audio player when the HAVE_NULL flag is set."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2076
+msgid "Rolisteam Version : 1.0.1"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2077
+msgid "Released on 18/02/2010 *  code name: Benam"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2081
+msgid ""
+"Source :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.1.tar.gz\""
+">rolisteam-1.0.1.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2084
+msgid ""
+"Ubuntu :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.0.1ubuntu1_i386."
+"deb\">rolisteam_1.0.1ubuntu1_i386.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2087
+msgid ""
+"Ubuntu 64 bits :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.0.1ubuntu1_amd64."
+"deb\">rolisteam_1.0.1ubuntu1_amd64.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2090
+msgid ""
+"Documentation for Ubuntu :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-doc_1.0.1ubuntu1_all."
+"deb\">rolisteam-doc_1.0.1ubuntu1_all.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2093
+msgid ""
+"Windows: <a "
+"href=\"http://rolisteam.googlecode.com/files/Rolisteam-1.0.1-setupV2.exe\""
+">Rolisteam-1.0.1-setupV2.exe</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2096
+msgid ""
+"Mac Os 10.5: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.1.dmg\""
+">Rolisteam-1.0.1.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2103
+msgid ""
+"<a title=\"Incompatibilité avec Mac OS X Snow Leopard\" "
+"href=\"/p/rolisteam/issues/detail?id=11\">Issue #11</a> is fixed: dice "
+"rolling stays in the right range"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2106
+msgid "new method for Windows installer and MacOs X dmg file."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2109
+msgid "Compilation issues are fixed"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2113
+msgid "Rolisteam Version : 1.0.0"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2114
+msgid "Released on 23/12/2009*  code name: Cess"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2118
+msgid ""
+"Source :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.0.tar."
+"gz>rolisteam-1.0.0.tar.gz</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2121
+msgid ""
+"Ubuntu :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.0.0ubuntu1_i386."
+"deb\">rolisteam_1.0.0ubuntu1_i386.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2124
+msgid ""
+"Documentation for Ubuntu :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-doc_1.0.0ubuntu1_all."
+"deb\">rolisteam-doc_1.0.0ubuntu1_all.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2127
+msgid ""
+"Ubuntu 64 bits :<a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam_1.0.0ubuntu1_amd64."
+"deb\">rolisteam_1.0.0ubuntu1_amd64.deb</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2130
+msgid ""
+"Windows: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.0_WindowsXp.zip\""
+">rolisteam-1.0.0_WindowsXp.zip</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2133
+msgid ""
+"Mac Os 10.5: <a "
+"href=\"http://rolisteam.googlecode.com/files/rolisteam-1.0.0.dmg\""
+">rolisteam-1.0.0.dmg</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2140
+msgid "documentation improvement"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2143
+msgid "Debug crash on fedora."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2146
+msgid "improvement of comments."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2149
+msgid "improvement of the picture reading for Linux."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2152
+msgid ""
+"bugs fixed : <a title=\"The Gamemaster can not add his characters when he "
+"doesn't use Rolisteam as a server\" class=\"closed_ref\" "
+"href=\"/p/rolisteam/issues/detail?id=1\">&nbsp;issue #1&nbsp;</a>, <a "
+"title=\"Seg fault\" class=\"closed_ref\" "
+"href=\"/p/rolisteam/issues/detail?id=4\">&nbsp;issue #4&nbsp;</a>"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2155
+msgid ""
+"Check and add extension .sce at the end of the file if it is not defined "
+"yet."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2158
+msgid "Phonon Support"
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2161
+msgid "Allows domain name and Ip address as Server address."
+msgstr ""
+
+#: /tmp/tmp35n1vccl.md:2164
+msgid "Improvement the code readability and translate it in english."
+msgstr ""

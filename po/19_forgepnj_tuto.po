@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpt_qrfg9q.md:0
+msgid "Créer un token"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:1
+msgid "Informations générale"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:2
+msgid "![Forge PNJ]({static}/images/tutonpcmaker/fr/forge_empty.jpg)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:6
+msgid ""
+"Nom : Le texte du champs apparaît en bas sur le token quand il est afficher "
+"sur une carte."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:9
+msgid ""
+"Couleur : Si vous n'avez pas d'image, le token sera composé de cette "
+"couleur."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:12
+msgid ""
+"Commande d'initiative : La commande est éxecuté pour déterminer le score "
+"d'initiative du personnage. Il est possible d'utiliser des valeurs d'une "
+"propriété pour le jet de l'initiative."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:15
+msgid ""
+"Valeur d'initiative : Si vous voulez définir une valeur fixe, vous pouvez. "
+"Sinon, laisser la valeur à 0, elle sera définie par le résultat du jet."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:18
+msgid "Avatar : il s'agit de l'image principale du personnage."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:21
+msgid ""
+"Taille : la taille en pixel, par défaut, elle est définie à 64, C'est un "
+"peu plus grand qu'un personnage joueur (50)."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:24
+msgid "La vie: la vie est définie par 3 valeurs: la min, la max et valeur courante."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:25
+msgid ""
+"Quand la vie courant vaut le max, la barre de vie sera pleine sur "
+"personnage dans une carte. Quand la valeur est égale à la valeur minimun, "
+"la barre de vie est entièrement vide."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:29
+msgid "À la fin la zone de vide permet de visualiser l'avatar du personnage."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:31
+msgid "Pour ce tutoriel, je vais créer un bandit qui se déguise en paysans."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:33
+msgid "![pnj]({static}/images/tutonpcmaker/fr/info.jpg)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:35
+msgid "Actions"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:36
+msgid "![actions]({static}/images/tutonpcmaker/fr/actions.jpg)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:38
+msgid ""
+"Il convient de définir les jets pour les différentes actions.\n"
+"Dans l'exemple, j'ai mis les deux jets pour évaluer une attaque à l'arc ou "
+"à l'épée. Bien entendu, mettez toutes les actions qui vous semblent utiles:\n"
+"La course, le baratin, la discrétion.\n"
+"Il peut être intéressant de définir également des actions avec bonus. "
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:40
+msgid "Formes"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:41
+msgid "![formes]({static}/images/tutonpcmaker/fr/formes.jpg)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:43
+msgid ""
+"Une forme est consistuée d'un nom et d'une image. Cela permet de "
+"representer un personnage polymorphe, un déguisiment, une identité secret "
+"(super héros).\n"
+"En pratique, cela change uniquement l'avatar.\n"
+"Pour définir l'image, il convient de double clicker dans la colonne \"URI\"."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:45
+msgid "Propriétés"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:46
+msgid "![propriétés]({static}/images/tutonpcmaker/fr/proprietes.jpg)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:48
+msgid ""
+"Il est possible de définir autant de propriétés que vous le souhaiter. \n"
+"Une propriété est définie par une nom et une valeur. Ces propriétés sont "
+"très utiles pour reprenser le niveau du personnage.\n"
+"Il convient de définir l'ensemble des caractérisques dont vous avez besoin "
+"pour calculer les actions.\n"
+"Dans l'exemple, j'ai définie la valeur de compétence de tir et de corps à "
+"corps. Ces deux valeurs sont utilisés pour déterminer si un jet est un "
+"succès ou non. "
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:50
+msgid "Utiliser un token"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:51
+msgid "Afficher un Token sur une carte vectorial"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:52
+msgid ""
+"Pour afficher un `rtok` dans une carte vectorielle, il suffit de "
+"glisser/déposer le fichier sur le plan.  Just drag and drop the rtok file "
+"from your system file browser to the vectorial.\n"
+"`rtok` does not work on old rolisteam maps."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:54
+msgid "Mettre à jour les points de vie"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:55
+msgid ""
+"When the rtok is loaded, it appears on the vectorial map and it is listed "
+"inside the player/character list as a character of the localplayer (the "
+"player who add them)."
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:57
+msgid "L'initiative"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:58
+msgid "![menu]({static}/images/tutonpcmaker/fr/menu_initiative.jpg)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:60
+msgid ""
+"**Initiative** can be rolled from the vectorial map contextual menu.\n"
+"When character has initiative score it appears on the left-top corner of "
+"the token.\n"
+"It is possible to unset the score (e.g at the end of the fight), or to hide "
+"them (`menu > view > map > show/hide initiative`)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:62
+msgid "Les formes"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:63
+msgid "![menu]({static}/images/tutonpcmaker/fr/menu_formes.jpg)"
+msgstr ""
+
+#: /tmp/tmpt_qrfg9q.md:65
+msgid ""
+"Par le menu contextuel, il est possible de sélectionner à tout moment la "
+"forme. de votre personnage.\n"
+"Si la forme ne possède pas d'image, le jeton du personnage s'affichera de "
+"sa couleur."
+msgstr ""

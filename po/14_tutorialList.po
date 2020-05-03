@@ -1,0 +1,42 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpfb6sx5hv.md:0
+msgid "This page is gathering all english tutorial material about **Rolisteam**."
+msgstr ""
+
+#: /tmp/tmpfb6sx5hv.md:2
+msgid "By Rolisteam"
+msgstr ""
+
+#: /tmp/tmpfb6sx5hv.md:3
+msgid "Lets start with a quick [introduction](tutorial01.html) about **Rolisteam**."
+msgstr ""
+
+#: /tmp/tmpfb6sx5hv.md:5
+msgid "Elsewhere on the Internet"
+msgstr ""
+
+#: /tmp/tmpfb6sx5hv.md:6
+msgid "Nothing for the moment"
+msgstr ""
+
+#: /tmp/tmpfb6sx5hv.md:8
+msgid "Link to your article."
+msgstr ""
+
+#: /tmp/tmpfb6sx5hv.md:9
+msgid ""
+"To see your article on this page, please send us a message from thi "
+"[form](/contact-form.html)"
+msgstr ""

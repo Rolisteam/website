@@ -1,0 +1,687 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-03 21:57+0000\n"
+"Plural-Forms: \n"
+
+#: /tmp/tmpozon93yd.md:0
+msgid "We are glad to announce the release of Rolisteam v1.9.2."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:2
+msgid "Localization:"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:5
+msgid "French"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:8
+msgid "English"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:11
+msgid "Spanish"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:14
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:17
+msgid "Romanian"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:20
+msgid "Hungarian"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:23
+msgid "German"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:26
+msgid "Catalan"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:29
+msgid "Italian"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:32
+msgid "Dutch (partial)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:35
+msgid "Turkish (partiel)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:39
+msgid "Packages"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:40
+msgid "Windows"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:43
+msgid ""
+"![windows]({static}/iconfiles/thumbWinodw.png) Windows: "
+"[Rolisteam-1.9.2-setup.exe](https://sourceforge.net/projects/rolisteam/"
+"files/1.9.2/Rolisteam-1.9.2-setup.exe/download) (including rcse)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:47
+msgid "MacOS"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:50
+msgid ""
+"![MacOs]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rolisteam_v1.9.2_MacOs.dmg](https://sourceforge.net/projects/rolisteam/"
+"files/1.9.2/rolisteam_v1.9.2_MacOs.dmg/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:53
+msgid ""
+"![MacOs RCSE]({static}/iconfiles/thumbapple.png) Mac Os X:  "
+"[rcse_v1.9.2_MacOs.dmg](http://sourceforge.net/projects/rolisteam/files/1.9."
+"2/rcse_v1.9.2_MacOs.dmg/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:57
+msgid "Homebrew"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:58
+msgid ""
+"You can install rolistream and rsce with Homebrew cask, using the commands "
+"below:"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:60
+msgid ""
+"brew cask install rolistream\n"
+"brew cask install rcse"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:61
+msgid "Linux"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:64
+msgid ""
+"![linux]({static}/iconfiles/thumblinux.png) RCSE - AppImage: "
+"[rcse-v1.9.2-x86_64.AppImage](http://sourceforge.net/projects/rolisteam/"
+"files/1.9.2/rcse-v1.9.2-x86_64.AppImage/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:67
+msgid ""
+"![linux]({static}/iconfiles/thumblinux.png) Rolisteam - AppImage: "
+"[Rolisteam_v1.9.2-x86_64.AppImage](http://sourceforge.net/projects/"
+"rolisteam/files/1.9.2/Rolisteam_1.9.2-x86_64.AppImage/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:71
+msgid "Those appimages have been made on Ubuntu 18.04 LTS."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:73
+msgid "Source"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:76
+msgid ""
+"![tar rolisteam]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rolisteam-1.9.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9"
+".2/rolisteam-1.9.2.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:79
+msgid ""
+"![zip rolisteam]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rolisteam-1.9.2.zip](http://sourceforge.net/projects/rolisteam/files/1.9.2/"
+"rolisteam-1.9.2.zip/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:82
+msgid ""
+"![tar rcse]({static}/iconfiles/thumbtar.png) Source (tarball): "
+"[rcse-1.9.2.tar.gz](http://sourceforge.net/projects/rolisteam/files/1.9.2/"
+"rcse-1.9.2.tar.gz/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:85
+msgid ""
+"![zip rcse]({static}/iconfiles/thumbzip.png) Source (zip): "
+"[rcse-1.9.2.zip](http://sourceforge.net/projects/rolisteam/files/1.9.2/rcse-"
+"1.9.2.zip/download)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:89
+msgid "![Icon]({static}/iconfiles/thumbubuntu.png)  Ubuntu 19.04"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:90
+msgid ""
+":::bash\n"
+"sudo add-apt-repository ppa:rolisteam/ppa\n"
+"sudo apt-get update\n"
+"sudo apt-get upgrade\n"
+"sudo apt-get install rolisteam rcse"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:91
+msgid "Arch Linux"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:92
+msgid ""
+"[https://aur.archlinux.org/packages/rolisteam/](https://aur.archlinux.org/"
+"packages/rolisteam/)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:94
+msgid "How To Compile and Install Rolisteam on Linux:"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:95
+msgid ""
+"See documentation [Compilation on "
+"Linux](http://wiki.rolisteam.org/index.php/CompilationLinux)\n"
+"Please pay attention that Rolisteam needs **Qt5.12** or higher."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:97
+msgid "Full changelog v1.9.2"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:100
+msgid "Fix PDF viewer on Windows and MacOS."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:103
+msgid "Fix crash near the player list."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:107
+msgid "Full changelog v1.9.1"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:110
+msgid "Fix textarea behaviour"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:113
+msgid "Fix image loading into vmap from menu"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:117
+msgid "Full changelog v1.9.0"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:118
+msgid "New features"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:121
+msgid "Standalone multiroom Server"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:124
+msgid "Webpage"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:127
+msgid "PDF viewer and sharing"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:130
+msgid "Shared note (Fix #45)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:133
+msgid "Undo/redo"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:136
+msgid "Dice bookmark"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:139
+msgid "NPC maker panel"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:142
+msgid "Management of Character Shape, Action and properties"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:145
+msgid "Tips of the day"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:148
+msgid "Shortcuts viewer"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:152
+msgid "Dice System"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:155
+msgid "Split operator"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:158
+msgid "Occurence Count operator (o)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:161
+msgid "Unique operator (u)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:164
+msgid "Reroll until operator (R)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:167
+msgid "Group operator (g)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:170
+msgid "reroll if all dices are equal (t operator)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:173
+msgid "Bind operator"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:176
+msgid "Add command comment"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:179
+msgid "Dynamic variables"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:182
+msgid "Several instructions support"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:185
+msgid "Advanced display system"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:188
+msgid "Add unique (u) option to D and L operators"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:191
+msgid "Preventing Alias replacement inside string"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:194
+msgid "List of values"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:197
+msgid "DiceParser's detection of endless loop"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:200
+msgid "K operator accepts negative number as parameter"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:203
+msgid "Fix #51 - Support for tunnels and trolls system"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:206
+msgid "Fix #4 - crash with a operator"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:209
+msgid "Fix #55 - Multiple success/failure level dice roll"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:213
+msgid "Charactersheet & RCSE"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:216
+msgid "Add table item"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:219
+msgid "Add webpage item"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:222
+msgid "Add Next/Previous page button item"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:225
+msgid "Embedded images"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:228
+msgid "Item can be visible on one or all pages"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:231
+msgid "Add Print support"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:234
+msgid "Dice button can be drag and dropped to chat window to create dice bookmark"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:237
+msgid "Additional code at the beginning or the end of file or both"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:240
+msgid "Improvement of sheet properties (fixed scale)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:243
+msgid "update to QtQuick.Controls 2.0 (instead of 1.0)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:246
+msgid "Charactersheet can modify character properties"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:249
+msgid "Charactersheet can roll dice command internally"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:252
+msgid "Charactersheet can display text on global chat"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:255
+msgid "RCSE - Add Images tabs in RCSE to manage embedded images."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:258
+msgid "RCSE - Global refactoring"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:261
+msgid "RCSE - show subset of columns (id columns, position columns, all columns …)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:264
+msgid ""
+"RCSE - items with custom code are displayed with green background on the "
+"edit tab"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:267
+msgid "RCSE - Text Editor Improvements (Monospace font, tab are 4 spaces now)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:270
+msgid "RCSE - Code panel and preview panel are side by side"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:274
+msgid "VMap"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:277
+msgid "Scale accepts double value (not only interger)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:280
+msgid "grid can be above the scene."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:283
+msgid "Show animated marker to highlight position on map"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:286
+msgid "better selection highlight"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:289
+msgid "Add bucket tool"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:292
+msgid "show life bar"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:295
+msgid "Sticky edges"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:298
+msgid "Providing Collision"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:302
+msgid "Miscellaneous Improvements"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:305
+msgid "Length limit for tabs title.          "
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:308
+msgid "Change color for tab"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:311
+msgid "Rename all kinds of subwindow"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:314
+msgid "Color selector dialog does not go behind anymore"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:317
+msgid "NPC are saved inside scenario"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:320
+msgid "Resources manager shows loading mode of each media."
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:323
+msgid "Resources manager shows unreachable file in red"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:326
+msgid "Fullscreen Mode"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:329
+msgid "Clear chat"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:332
+msgid "drag and drop from resources manager to vmap"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:335
+msgid "alternative color in playlist viewer"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:338
+msgid "Unit Convertor: accept new units and new convertion rules"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:341
+msgid "First Chapter in resources is Chapter 1 (instead of chapter 0)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:344
+msgid "5 last loaded scenerio are loadable from the file menu"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:347
+msgid "Hide long dice command"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:350
+msgid "Export/import dice aliases    "
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:354
+msgid "Refactoring"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:357
+msgid "RCSE"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:360
+msgid "Scenario"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:363
+msgid "Charactersheet SDK use QtQuick.Controls 2.0"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:366
+msgid "QML generator"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:369
+msgid "DiceParser's detection of endless loop      "
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:373
+msgid "Bug fixes"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:376
+msgid "Fix #1 - headless server"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:379
+msgid "Fix #45 - Player/GM shared notes board"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:382
+msgid "Fix #48 - Rolisteam segfault"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:385
+msgid "Fix #55 - Field of view handles and layer interaction"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:388
+msgid "Fix #65 - renaming notes"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:391
+msgid "Fix #69 - Misunderstanding about the resources Manager behaviour"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:394
+msgid "Fix #81 - Charactersheet not saved while saving scenario"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:397
+msgid "Fix #82 - some Chat messages are missing"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:400
+msgid "Fix #83 - crash when cancel save scenario as"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:403
+msgid "Fix #90 - issue with resources titles"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:406
+msgid "Fix #97 - Crash on dice roll"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:409
+msgid "Dice Parser Fix #51 - Support for tunnels and trolls system"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:412
+msgid "Dice Parser Fix #4 - crash with a operator"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:415
+msgid "Dice Parser Fix #55 - Multiple success/failure level dice roll"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:419
+msgid "Unit Tests & QA"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:422
+msgid "Dice parser: 163"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:425
+msgid "Rolisteam: 371"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:428
+msgid "RCSE and Charactersheet: 16430"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:431
+msgid "Fuzzer test for diceparser"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:434
+msgid "Fuzzer test for charactersheet formula"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:438
+msgid "Translation"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:441
+msgid "add italian"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:445
+msgid "Older Versions"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:446
+msgid "[Older versions]({static}./08_older.md)"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:448
+msgid "What next ?"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:449
+msgid "In the future release, we plan to do:"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:453
+msgid "Mindmap editor"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:456
+msgid "Android client"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:459
+msgid "change instant messaging UI"
+msgstr ""
+
+#: /tmp/tmpozon93yd.md:462
+msgid "and more…"
+msgstr ""
