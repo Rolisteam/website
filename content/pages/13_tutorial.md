@@ -10,8 +10,8 @@ lang: en
 
 **Rolisteam** is a **free virtual table software**. Pen and paper Role playing games are traditionnaly made around table. Virtual table software seems to be the right solution to overcome real life difficulties.
 
-It is also multiplatform software (Windows, MacOS and Linux). Download it here : [http://www.rolisteam.org/download](http://www.rolisteam.org/download) 
-then install it on your computer. **Rolisteam** provides many features to live a better game experience (such as : maps, images, dice roller, charactersheet, background music). 
+It is also multiplatform software (Windows, MacOS and Linux). Download it here : [http://www.rolisteam.org/download](http://www.rolisteam.org/download)
+then install it on your computer. **Rolisteam** provides many features to live a better game experience (such as : maps, images, dice roller, charactersheet, background music).
 
 **Rolisteam** is available in several languages: english, french, spanish, german, portuguese, hungrian, dutch, romanian and partially in turkish.
 
@@ -19,8 +19,8 @@ Now, Let's explain how to use **Rolisteam**. Many screenshots illustrate this tu
 
 #I – Start and Settings
 
-On start, Rolisteam appears and above it there is the *connection panel*. This panel allows you to add and set connection profile. You must set correct values to ensure the connection establishement. 
-"Player" profile requires definition of player's character as well. 
+On start, Rolisteam appears and above it there is the *connection panel*. This panel allows you to add and set connection profile. You must set correct values to ensure the connection establishement.
+"Player" profile requires definition of player's character as well.
 This panel may store several connection profile.
 
 ![images]({static}/images/tuto/04_connexion_mj_en.jpg)
@@ -28,7 +28,7 @@ This panel may store several connection profile.
 Change the default profile or create another one. We recommand to set a meaningful name. It makes it easier.  
 For example, I use to play as GM on Wednesday and as player on Monday, names of my profiles are: Game on Monday, Game on Wednesday.
 
-There are four connection mode in **Rolisteam**: 
+There are four connection mode in **Rolisteam**:
 
 * Host and GM
 * Client and GM
@@ -44,10 +44,10 @@ If the hosting **Rolisteam** is closed, everybody will be disconnected from the 
 
 The *Player* area is dedicated to describe yourself. You have to pick up (nick)name (it will appears to other players) and select a color. For a better game experience, it is better than all players chose a very different color.
 
-The last thing is a checkbox "**I am the game master**". Check it only if you are the GM, obviously. 
+The last thing is a checkbox "**I am the game master**". Check it only if you are the GM, obviously.
 
 If you are a player, the connection panel allows you to describe your character thinks of the "**Character**" zone.
-It is displayed only when you are not the **game master**. 
+It is displayed only when you are not the **game master**.
 
 You must set the character name, color and avatar. It is recommanded to use square image as avatar (for better good looking on vectorial maps).
 
@@ -57,19 +57,19 @@ You must set the character name, color and avatar. It is recommanded to use squa
 If you host the game, the server must be on your side. You don't need to set an address. You must pick up a port and check "**Host the game**".
 When you are confident about your connection profile, you must click on "**Connect**". If everything goes right, the connection profile dialog disappears and let you access to the main application window.
 
-In the notification area (Top right corner), there is a reminder of connection information you should give to other game participants. 
+In the notification area (Top right corner), there is a reminder of connection information you should give to other game participants.
 
 ![images]({static}/images/tuto/14_notification_zone_en.jpg)
 
 As you can see, the address in our case is *194.250.98.228*, and the port is *6661*. By default, **Rolisteam** use the port *6660*. You can change it as you want but please avoid port number used by another service.  
 
 Chose the host carefully, bandwidth and stability are the main two criteria.   
-Game experience will be better. DSL line is enough and do the job perfectly. Keep in mind, the host must stay until the end of game. Everyone will be disconnected if the host is off. 
+Game experience will be better. DSL line is enough and do the job perfectly. Keep in mind, the host must stay until the end of game. Everyone will be disconnected if the host is off.
 
 ### Client
 If you connect as client, you need an address and port number to join the game. Rolisteam can access IP address  (example: *194.250.98.228*), or domain namee (rolisteam.org, games.foo.com). The host must give you those information.
 
-Uncheck the "host the game" checkbox. 
+Uncheck the "host the game" checkbox.
 
 Then you are all set. Click on **Connection**. If it goes right, the connection dialog disappears and you have acces to the application.
 
@@ -96,9 +96,9 @@ There are in that order: current story name, software version, Connection status
 ## Notification Area
 
 As you have seen, the notification area is useful when hosting the game. It gives you all information you need to send to other players.  
-This panel have more features than that. 
-All events on the network are logged inside it. 
-So you can see new incoming connection or player's disconnection. 
+This panel have more features than that.
+All events on the network are logged inside it.
+So you can see new incoming connection or player's disconnection.
 It provides progressbar for long (receiving) transfert.   
 
 ## Instant messaging
@@ -107,7 +107,7 @@ This area lists all instant messaging windows. By default, **Rolisteam** sets gl
 
 ![images]({static}/images/tuto/02_ChatList_en.jpg)
 
-You can create chat window and set it with all/one/many/no players. You can talk about your next tactic. 
+You can create chat window and set it with all/one/many/no players. You can talk about your next tactic.
 
 ![images]({static}/images/tuto/15_nouveauChat_en.jpg)
 
@@ -116,17 +116,17 @@ You can create chat window and set it with all/one/many/no players. You can talk
 
 This panel displays all connected players and theirs characters. You can expand or collapse the character lists for each player. Character's avatars can been seen here.   
 This panel is very important when you are using maps in **Rolisteam**. We talk about it below in this document.
- 
+
 ![images]({static}/images/tuto/18_playerlist_en.jpg)
 
 
-## Audio Players 
+## Audio Players
 
 
 **Rolisteam** has three audio players to manage three tracks at the same time.  
 You may hide them if you need fewer audio players or more space.
 
-![images]({static}/images/tuto/24_music_player_en.jpg) 
+![images]({static}/images/tuto/24_music_player_en.jpg)
 
 All commands are available through contecxtual menu (right-click).   
 You may load playlist, audio files or links to stream and remote files.
@@ -136,11 +136,11 @@ You may load playlist, audio files or links to stream and remote files.
 
 ## Resources Manager
 
-The resources manager keeps track of all files you have opened in rolisteam. It provides a way to re-open them really quickly. 
-You may sort files into folders. 
+The resources manager keeps track of all files you have opened in rolisteam. It provides a way to re-open them really quickly.
+You may sort files into folders.
 
 
-![images]({static}/images/tuto/23_resources_browser_en.jpg) 
+![images]({static}/images/tuto/23_resources_browser_en.jpg)
 
 # Play with Rolisteam
 
@@ -148,16 +148,16 @@ Now, you know each panel of **rolisteam**. We will focus on features and how to 
 
 ## Instant messaging
 
-To open chat messaging, nothing simpler, you have to check chat you want. It is useful to open «**global**». You can discuss with all other players. 
+To open chat messaging, nothing simpler, you have to check chat you want. It is useful to open «**global**». You can discuss with all other players.
 You can discuss only with one other players.
 
-![images]({static}/images/tuto/02_ChatList_en.jpg) 
+![images]({static}/images/tuto/02_ChatList_en.jpg)
 
 If chat name are blinking from green to red, it means you received message.
 
 You may add new chat with whoever or when you want.
 
-##  Add new chat 
+##  Add new chat
 
 On the bottom, there is a button to *add new chat*.
 
@@ -168,7 +168,7 @@ The owner is automatically set. You can chose all the other parameters.
 
 Just click on "Ok" to validate.
 
-### What can we do in chatwindow ? 
+### What can we do in chatwindow ?
 
 The main feature is obviously to send messages to other players.
 You can be identified as yourself or as your character.
@@ -186,19 +186,19 @@ It appears like this:
 
 You can easily resend messages thanks to message history. Just press ```up``` and ```bottom``` to navigate inside the history and then press ```Enter``` to resend the selected message.
 
-### Contextual menu reachable features 
+### Contextual menu reachable features
 
 ![images]({static}/images/tuto/08_menu_chat_en.jpg)
 
 Chat windows have 3 contextual menu reachable features:
 
-* You can change the background color of chat window. 
-* Chat windows can be put out of **Rolisteam**. It provides a better control of the workspace. 
-* You can display timestamp on message reception. 
+* You can change the background color of chat window.
+* Chat windows can be put out of **Rolisteam**. It provides a better control of the workspace.
+* You can display timestamp on message reception.
 
 ## Roll some dice
 
-Chat window is also where you can roll dice by sending commands. 
+Chat window is also where you can roll dice by sending commands.
 **Rolisteam** embeds a powerful engine based on generic operator.  
 Those operators can be combined to make computation in repect with game mechanism to give you final answer easy to read.
 To roll one die with 6 slides, the command is: **!1d6**
@@ -220,7 +220,7 @@ The exclamation mark is important, It marks the beginning of dice command but it
 * Math expression: !5-5\*5+5
 
 
-The result is always displayed in red for better readbility. 
+The result is always displayed in red for better readbility.
 
 **Rolisteam** deals with many operators,  you can find complete list on this [web page](http://wiki.rolisteam.org/index.php/En:Dice). There are examples as well.
 
@@ -230,7 +230,7 @@ To share/find game specific command, please go to [Rolisteam forum](http://forum
 
 ### Dice Alias (or how to make your life easier)
 
-Complex system may require complex and long command. The alias system is dedicated to help in this case. It provides a way to simplify commands. 
+Complex system may require complex and long command. The alias system is dedicated to help in this case. It provides a way to simplify commands.
 
 Let see this example: !6d10e10k3  
 This command implements the Roll & Keep system from «Legend of the 5 rings».
@@ -260,23 +260,23 @@ Please, take a look at the [documentation](http://wiki.rolisteam.org/index.php/e
 
 ## Share Image
 
-Every one can share picture to all others. This picture appears on everyone screen. Each user may hide it by clicking on title bar. It can be shown again thanks of `Subwindow Menu`. 
+Every one can share picture to all others. This picture appears on everyone screen. Each user may hide it by clicking on title bar. It can be shown again thanks of `Subwindow Menu`.
 
-The GM or the picture  owner may close it definitivily (menu `file > close` or keyboard shortcut `Ctrl+Echap`). 
-To share picture, you can do it through menu :  `File > Open > Image` or drag and drop on the main area. 
+The GM or the picture  owner may close it definitivily (menu `file > close` or keyboard shortcut `Ctrl+Echap`).
+To share picture, you can do it through menu :  `File > Open > Image` or drag and drop on the main area.
 
-It is also possible to share image from the internet. 
+It is also possible to share image from the internet.
 
 ### Share image from the Internet
 
-It is really easy, just click on `File > Open > Online Image` 
+It is really easy, just click on `File > Open > Online Image`
 
 ![images]({static}/images/tuto/07_load_image_from_internet2_en.jpg)
 
 ## Maps
 
-Since v1.8, **Rolisteam** provides two kinds of maps: Bipmap or vectorial. 
-There are based on two different technologies and concepts. With "bipmap" map, items are painted on map. 
+Since v1.8, **Rolisteam** provides two kinds of maps: Bipmap or vectorial.
+There are based on two different technologies and concepts. With "bipmap" map, items are painted on map.
 For vectorial map, items are "drop" on the map.
 
 The GM is the only one to create and share map.
@@ -284,11 +284,11 @@ The GM is the only one to create and share map.
 ### *bipmap* maps
 
 It is possible to add empty map. Empty map has size, permissions and background color.
-Alternatively, it is possible to open as background of map. 
+Alternatively, it is possible to open as background of map.
 
 ##### Empty map
 
-To open an empty map, just click on `file > new > Map` or just press `CTRL+M`. 
+To open an empty map, just click on `file > new > Map` or just press `CTRL+M`.
 
 
 ![images]({static}/images/tuto/12_newMap_en.jpg)
@@ -301,10 +301,10 @@ To open an empty map, just click on `file > new > Map` or just press `CTRL+M`.
 * permission mode
 * Format
 
-There are 3 permission modes: **No permission, Character and All permissions**. 
+There are 3 permission modes: **No permission, Character and All permissions**.
 
 * "No permission" means only the game master may modify the map.
-* "Character" allows players to move their character token. 
+* "Character" allows players to move their character token.
 * "All permissions gives Game Master rights to all players.
 
 #### Map with image as background
@@ -313,17 +313,17 @@ Open image as map background, you just have to click on ```File > Open > Map```
 
 ![images]({static}/images/tuto/16_openMap_en.jpg)
 
-This dialob box allows to select a background image. 
-Alternatively, it is also possible to load map (.pla) from your computer. 
+This dialob box allows to select a background image.
+Alternatively, it is also possible to load map (.pla) from your computer.
 
-Some map properties must/should be defined such title, Permission mode and visibility. 
+Some map properties must/should be defined such title, Permission mode and visibility.
 
-Check "hidden" if you want your map to appear cover with fog of war. You will reveil the map little by litthe to your players. 
+Check "hidden" if you want your map to appear cover with fog of war. You will reveil the map little by litthe to your players.
 
 
 #### Amend map
 
-When the map is opened, you can paint on it. 
+When the map is opened, you can paint on it.
 To do so, **Rolisteam** provides many painting tools. There are brough together in the map toolbox.
 
 
@@ -371,15 +371,15 @@ To do so, **Rolisteam** provides many painting tools. There are brough together 
 
 #### 1. I need more colors than pre-defined ones, how can I get more ?
 
-It is possible to double-click on the current color to pick a color thank of color selector dialog. 
+It is possible to double-click on the current color to pick a color thank of color selector dialog.
 
 #### 2. How can I changed character orientation ?
 
-When tools 17 or 18 are selected, it is possible with ```right-click``` to change orientation. A white mark appears to indicate where the character looks to. 
+When tools 17 or 18 are selected, it is possible with ```right-click``` to change orientation. A white mark appears to indicate where the character looks to.
 
 #### 3. How can I change character state ?
 
-Just select the tool 18 and click on character until you reach the proper state. 
+Just select the tool 18 and click on character until you reach the proper state.
 
 * Black = Heathly
 * Pink = hurt
@@ -388,10 +388,10 @@ Just select the tool 18 and click on character until you reach the proper state.
 * Blue = sleeping
 * Green = bewitched
 
-#### 4. What's the meaning of the handle ? 
+#### 4. What's the meaning of the handle ?
 
 You can catch the map and move it to display another part. It is very useful when you have small screen.
- 
+
 ### *vectorial* Map
 
 Vectorial map has been introduced in **Rolisteam** v1.8.  
@@ -403,11 +403,11 @@ If you need more information about vectorial map, please go to the [documentatio
 
 #### Add vectorial map
 
-To create an empty vectorial map, please go to the menu `File > new > vectorial map` or directly `CTRL+V`. 
+To create an empty vectorial map, please go to the menu `File > new > vectorial map` or directly `CTRL+V`.
 
 ![images]({static}/images/tuto/13_newVMap_en.jpg)
 
-**Rolisteam** asks values for some vectorial map properties. 
+**Rolisteam** asks values for some vectorial map properties.
 
 * Title
 * Background color
@@ -416,11 +416,11 @@ To create an empty vectorial map, please go to the menu `File > new > vectorial 
 * Grid's shape
 
 When all items are set, just click on `OK` to make appears the vectorial map.
-For your information, vectorial map has no size. The size is infinite. 
+For your information, vectorial map has no size. The size is infinite.
 
 #### Amend vectorial map
 
-When map has appeared, you can modify it. 
+When map has appeared, you can modify it.
 There are two kinds of modifications: visual or access.
 
 First, All visual modifications can be performed thank of tools from toolbar or on the map itself.
@@ -493,11 +493,11 @@ If you want to know about all features available from contextual menu, please re
 
 ## Background music
 
-The GM can broadcast background music. 
+The GM can broadcast background music.
 
 ![images]({static}/images/tuto/01_backgroundMusic_en.jpg)
 
-**Rolisteam** has 3 audio players. They are independant. 
+**Rolisteam** has 3 audio players. They are independant.
 Each player has  standard and expected features from audio player.
 
 Control the playing state with ```Play```, ```Pause``` and ```Stop``` buttons.
@@ -509,8 +509,8 @@ Audio players accept playing mode: Only one, One by one,  loop.
 ### Add music
 
 The button with ```+``` symbol is gathering all actions about adding file into the playlist.
-One click opens file selector dialog. 
-One long click shows submenu with additionnal actions: 
+One click opens file selector dialog.
+One long click shows submenu with additionnal actions:
 
 * Add song to playlist (defaut)
 * Open Playlist
@@ -519,7 +519,7 @@ One long click shows submenu with additionnal actions:
 
 ### Remove Music
 
-The ```-``` button means to remove music from the playlist, long click shows the clear function which clear the playlist. 
+The ```-``` button means to remove music from the playlist, long click shows the clear function which clear the playlist.
 
 All of these functions are reachable from the contextual menu.
 
@@ -530,7 +530,7 @@ If you can't put your files on the internet or to have an audio stream, you have
 They have to store audio files in their computers.
 thanks of some cloud services, sharing and synchronizing directory has become really easy.
 
-Alternatively, **TableTopAudio.com** playlist works like a charm. 
+Alternatively, **TableTopAudio.com** playlist works like a charm.
 
 ## Minutes Editor
 
@@ -557,22 +557,22 @@ We will written Tutorial about how to make character sheet.
 
 ### Using charactersheet into rolisteam
 
-Using charactersheet in **Rolisteam** is simple. The GM loads the character sheet (.rcs). 
-Then, Gm must share charactersheet (right-click menu) to player's character. 
+Using charactersheet in **Rolisteam** is simple. The GM loads the character sheet (.rcs).
+Then, Gm must share charactersheet (right-click menu) to player's character.
 A player may have many characters. A character belongs to only one player. Character owns only one charactersheet.
 
 ### Where I can find charactersheet  
 
 We bring together all character sheets in one git repository, additionnaly, you can discuss about charactersheet on the forum.
 
-[Charactersheet Git Repository](https://github.com/Rolisteam/rolisteam-character-sheets)
+[Charactersheet Git Repository](https://invent.kde.org/kde/rolisteam-community-data)
 [Topic Forum Officiel](http://forum.rolisteam.org/viewtopic.php?f=9&t=61)
 
 ## Session and story
 
 Scenario brings together all rolisteam supported media into one file. Maps, vectorial maps, images, charactersheet, playlists and minutes are stored inside the scenario. Other medias will come in the future.
 
-Those documents are listed into the **resources manager**. This panel shows which document is currently part of you scenario. 
+Those documents are listed into the **resources manager**. This panel shows which document is currently part of you scenario.
 The state of each document is stored as well (Open, loaded and unloaded).
 
 It is important to understand the media workflow. The easiest example is an image. When you drag and drop an image into **Rolisteam**.
@@ -585,9 +585,9 @@ To close it for everyone, you must go to ```File > Close (CTRL+ESC)```. File sta
 
 ## Conclusion
 
-This tutorial is now over. Others will follow. 
+This tutorial is now over. Others will follow.
 I hope it was helpful. I only have to wish you good games with **Rolisteam**.
 
 
 
-[Edit on GitHub](https://github.com/Rolisteam/website/blob/master/content/pages/13_tutorial.md)
+[Edit on Invent.kde.org](https://invent.kde.org/websites/rolisteam-org/-/blob/master/content/pages/13_tutorial.md)

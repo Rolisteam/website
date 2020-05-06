@@ -4,7 +4,7 @@ slug: discord
 status: hidden
 lang: en
 
-We developed a Discord bot to offer the power of DiceParser into the discord world. 
+We developed a Discord bot to offer the power of DiceParser into the discord world.
 It is really easy to use.   
 
 ![images]({static}/images/diceParserOnDiscord.png)
@@ -18,7 +18,7 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 ## Run Command
 To run command, you have to send message with ! as first character (just like Rolisteam).  
-Example: this is how you can roll two 6-slided dice. 
+Example: this is how you can roll two 6-slided dice.
 
 	:::bash
 	!2d6
@@ -26,5 +26,5 @@ Example: this is how you can roll two 6-slided dice.
 
 
 ## Links
-Complete Documentation about [Dice Commands](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe.md)  
-[Project Page](https://github.com/Rolisteam/DiceDiscordBot)  
+Complete Documentation about [Dice Commands](https://invent.kde.org/kde/rolisteam-diceparser/-/blob/master/HelpMe.md)  
+[Project Page](https://invent.kde.org/kde/rolisteam-diceparser)  

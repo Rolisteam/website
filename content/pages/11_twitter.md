@@ -4,7 +4,7 @@ slug: twitter
 status: hidden
 lang: en
 
-We developed a twitter bot to offer the power of DiceParser into the twitter world. 
+We developed a twitter bot to offer the power of DiceParser into the twitter world.
 It is really easy to use. You just have to start your message by #roll followed by the dice command.
 
 ## First Example
@@ -22,16 +22,14 @@ It is really easy to use. You just have to start your message by #roll followed 
 
 Just contact [@DiceParser](https://twitter.com/DiceParser) directly.
 The system is triggered by two keywords: #roll or !
-Examples: 
+Examples:
    #roll 2d6
    !2d6
 
 ## Links
 
 You can have a complete documentation about how to roll dice:
-[Documentation](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe.md)
+[Documentation](https://invent.kde.org/kde/rolisteam-diceparser/-/blob/master/HelpMe.md)
 
 If you are interested by the source code of the bot:
 [Source code](https://github.com/obiwankennedy/TwitterBot)
-
-

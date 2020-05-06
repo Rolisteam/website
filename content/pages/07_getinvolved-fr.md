@@ -16,17 +16,17 @@ Son code est écrit en C++ et il utilise les bibliothèques Qt.
 
 Vous souhaitez participer ? Rien de plus simple. Clonez le code de rolisteam :
 
-[Github.com](http://github.com/Rolisteam/rolisteam)
+[Invent.kde.org](https://invent.kde.org/kde/rolisteam)
 
 ## Documentation
 
 La documentation peut être améliorée de plusieurs façons.
-La première est de contribuer au Wiki officiel.
+La première est d'y contribuer directement.
 
-[documentation](http://wiki.rolisteam.org/)
+[documentation](http://doc.rolisteam.org/)
 
 Vous pouvez également écrire des articles et tutoriaux sur vos sites ou blogs.
-N’hésitez pas à nous communiquer ces éléments, nous serons ravis de diffuser le lien de l'article à la communauté. 
+N’hésitez pas à nous communiquer ces éléments, nous serons ravis de diffuser le lien de l'article à la communauté.
 
 ## Traductions
 

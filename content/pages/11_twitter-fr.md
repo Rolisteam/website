@@ -6,7 +6,7 @@ lang: fr
 
 Nous avons développé un robot (bot) pour offrir la puissance de DiceParser (le système de dés de rolisteam) aux utilisateurs de Twitter.
 C’est très facile à faire.
-Vous avez juste besoin de poster un message twitter qui commence par #roll suivi d’une commande de dés. La syntaxe est la même que pour rolisteam. 
+Vous avez juste besoin de poster un message twitter qui commence par #roll suivi d’une commande de dés. La syntaxe est la même que pour rolisteam.
 
 ## Premier Exemple
 
@@ -22,16 +22,14 @@ Vous avez juste besoin de poster un message twitter qui commence par #roll suivi
 
 Il suffit de contacter [@DiceParser](https://twitter.com/DiceParser) par message privé.
 Le système gère deux déclencheur: #roll ou !
-Exemples: 
+Exemples:
    #roll 2d6
    !2d6
 
 ## Liens
 
 Pour trouver une documentation complète sur les commandes:
-[Documentation](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe.md)
+[Documentation](https://invent.kde.org/kde/rolisteam-diceparser/-/blob/master/HelpMe.md)
 
 Pour une documentation complète de la syntaxe de dés:
 [Code Source](https://github.com/obiwankennedy/TwitterBot)
-
-
